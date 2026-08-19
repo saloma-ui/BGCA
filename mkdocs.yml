@@ -1,0 +1,13 @@
+site_name: BGCA · 1r de Batxillerat
+site_description: Materials guia de Biologia, Geologia i Ciències Ambientals
+
+theme:
+  name: material
+  language: ca
+
+nav:
+  - Inici: index.md
+  - "UD 1 · Com reconstruïm la història de la Terra?": ud01/index.md
+
+markdown_extensions:
+  - admonition
