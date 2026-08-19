@@ -1,3 +1,56 @@
-site/
-.DS_Store
-__pycache__/
+name: Publica BGCA
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obté el repositori
+        uses: actions/checkout@v7
+
+      - name: Configura Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Instal·la MkDocs
+        run: pip install -r requirements.txt
+
+      - name: Configura GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Construeix el lloc
+        run: mkdocs build
+
+      - name: Prepara els fitxers per publicar
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site/
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Publica a GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
