@@ -12,6 +12,7 @@ nav:
 
 markdown_extensions:
   - admonition
+  - tables
   - pymdownx.arithmatex:
       generic: true
 
