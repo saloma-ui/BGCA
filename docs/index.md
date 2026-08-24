@@ -5,3 +5,4 @@ Materials guia de **1r de Batxillerat**.
 ## Unitats didàctiques
 
 - [UD 1 · Com reconstruïm la història de la Terra?](ud01/ud01.md)
+- [UD 2 · Una Terra dinàmica](ud02/ud02.md)
