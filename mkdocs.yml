@@ -8,6 +8,7 @@ theme:
 nav:
   - Inici: index.md
   - "UD 1 · Com reconstruïm la història de la Terra?": ud01/ud01.md
+  - "UD 2 · Una Terra dinàmica": ud02/ud02.md
 
 markdown_extensions:
   - admonition
