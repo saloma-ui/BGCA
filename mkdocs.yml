@@ -1,23 +1,61 @@
 site_name: BGCA · 1r de Batxillerat
 site_description: Materials guia de Biologia, Geologia i Ciències Ambientals
+site_url: https://saloma-ui.github.io/BGCA/
+repo_url: https://github.com/saloma-ui/BGCA
+repo_name: saloma-ui/BGCA
 
 theme:
   name: material
   language: ca
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+plugins:
+  - search
+  - exporter:
+      buttons:
+        - title: Baixa el PDF
+          icon: material-file-download-outline
+          enabled: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.enabled
+          attributes: !!python/name:mkdocs_exporter.formats.pdf.buttons.download.attributes
+      formats:
+        pdf:
+          explicit: true
+          concurrency: 1
+          stylesheets:
+            - pdf.scss
+          browser:
+            timeout: 120000
+
+hooks:
+  - hooks/pdf_material.py
 
 nav:
   - Inici: index.md
-  - "UD 1 · Com reconstruïm la història de la Terra?": ud01/ud01.md
-  - "UD 2 · Una Terra dinàmica": ud02/ud02.md
-  - "UD 3 · Història de la vida i de la biodiversitat": ud03/ud03.md
-  - "UD 4 · Microorganismes, salut i malaltia": ud04/ud04.md
+  - Material:
+      - UD1 · Com reconstruïm la història de la Terra?: material/ud1/ud1.md
+      - UD2 · Una Terra dinàmica: material/ud2/ud2.md
+      - UD3 · Història de la vida i de la biodiversitat: material/ud3/ud3.md
+      - UD4 · Microorganismes, salut i malaltia: material/ud4/ud4.md
+  - Activitats:
+      - UD1: activitats/ud1/index.md
+      - UD2: activitats/ud2/index.md
+      - UD3: activitats/ud3/index.md
+      - UD4: activitats/ud4/index.md
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - tables
   - pymdownx.arithmatex:
       generic: true
+  - toc:
+      permalink: true
 
 extra_javascript:
-  - javascripts/mathjax.js
+  - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
