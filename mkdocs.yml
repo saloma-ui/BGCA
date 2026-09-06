@@ -27,6 +27,8 @@ plugins:
           concurrency: 1
           stylesheets:
             - pdf.scss
+          scripts:
+            - pdf_mathjax.js
           browser:
             timeout: 120000
 
