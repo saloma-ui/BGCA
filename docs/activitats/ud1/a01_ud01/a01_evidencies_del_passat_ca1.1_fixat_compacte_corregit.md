@@ -258,19 +258,27 @@ Consulta ara l'apartat **2. El temps geològic i el registre geològic** del mat
 
 Imagina la història següent d'una zona:
 
-### Etapa 1. Durant un llarg interval es dipositen sediments.
+### Etapa 1
+Durant un llarg interval es dipositen sediments.
 
-### Etapa 2. La sedimentació s'interromp durant milions d'anys.
+### Etapa 2
+La sedimentació s'interromp durant milions d'anys.
 
-### Etapa 3. Els materials que ja existien queden exposats i una part és eliminada per l'erosió.
+### Etapa 3
+Els materials que ja existien queden exposats i una part és eliminada per l'erosió.
 
-### Etapa 4. La sedimentació es reprèn i es formen nous estrats damunt els materials antics.
+### Etapa 4
+La sedimentació es reprèn i es formen nous estrats damunt els materials antics.
 
 ## 4.1. Durant quines etapes es formen **nous materials sedimentaris** que poden quedar incorporats al registre geològic?
 
 ____________________________________________________________________
 
-## 4.2. Durant l'etapa 2 no es formen nous estrats. Significa això que durant aquell interval **no va transcórrer temps** o que **no va passar res**? Explica-ho.
+## 4.2. Durant l'etapa 2 no es formen nous estrats.
+
+Significa això que durant aquell interval **no va transcórrer temps** o que **no va passar res**?
+
+Explica-ho.
 
 ____________________________________________________________________
 
@@ -282,7 +290,11 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 4.4. Suposa que milions d'anys després un geòleg estudia exclusivament les roques que s'han conservat. Podrà observar directament tot el temps que va transcórrer durant les quatre etapes? Justifica-ho.
+## 4.4. Suposa que milions d'anys després un geòleg estudia exclusivament les roques que s'han conservat.
+
+Podrà observar directament tot el temps que va transcórrer durant les quatre etapes?
+
+Justifica-ho.
 
 ____________________________________________________________________
 
