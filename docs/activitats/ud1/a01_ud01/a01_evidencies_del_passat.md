@@ -74,7 +74,7 @@ Els instruments detecten una **radiació còsmica de fons molt feble que arriba 
 
 > **FIGURA A01-01B.** Representació esquemàtica de la radiació còsmica de fons observada en diferents direccions del cel.
 
-![Figura A01-01B. Radiació còsmica de fons](figures/A01-01B-radiacio-cosmica-de-fons.png)
+![Figura A01-01B. Radiació còsmica de fons](figures/a01-01b-radiacio-cosmica-de-fons.png)
 
 ### 1.4
 
@@ -115,7 +115,7 @@ Actualment s'observen **estrelles joves envoltades per discs de gas i pols**.
 
 > **FIGURA A01-01C.** Estrella jove envoltada per un disc de gas i pols.
 
-![Figura A01-01C. Sistema planetari en formació](figures/A01-01C-sistemes-planetaris-en-formacio.png)
+![Figura A01-01C. Sistema planetari en formació](figures/a01-01c-sistemes-planetaris-en-formacio.png)
 
 ### 1.7
 

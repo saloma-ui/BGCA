@@ -68,7 +68,7 @@ Els instruments detecten una **radiació còsmica de fons molt feble que arriba 
 
 > **FIGURA A01-01B.** Representació esquemàtica de la radiació còsmica de fons observada en diferents direccions del cel.
 
-![Figura A01-01B. Radiació còsmica de fons](figures/A01-01B-radiacio-cosmica-de-fons.png)
+![Figura A01-01B. Radiació còsmica de fons](figures/a01-01b-radiacio-cosmica-de-fons.png)
 
 ### 1.4. Què constitueix en aquest cas una **observació**?
 
@@ -103,7 +103,7 @@ Actualment s'observen **estrelles joves envoltades per discs de gas i pols**.
 
 > **FIGURA A01-01C.** Estrella jove envoltada per un disc de gas i pols.
 
-![Figura A01-01C. Sistema planetari en formació](figures/A01-01C-sistemes-planetaris-en-formacio.png)
+![Figura A01-01C. Sistema planetari en formació](figures/a01-01c-sistemes-planetaris-en-formacio.png)
 
 ### 1.7. Descriu exclusivament allò que podríem **observar** a la figura.
 
@@ -173,7 +173,9 @@ ____________________________________________________________________
 
 Consulta ara l'apartat **1. De l'origen de l'Univers a la formació de la Terra** del material guia de la U.D. 1.
 
-## 2.1. Completa la taula.
+## 2.1
+
+Completa la taula.
 
 | Evidència observable actual | Què observam? | Què podem inferir? |
 |---|---|---|
@@ -182,7 +184,9 @@ Consulta ara l'apartat **1. De l'origen de l'Univers a la formació de la Terra*
 | Estrelles joves amb discs de gas i pols | | |
 | Meteorits | | |
 
-## 2.2. Ordena els elements següents per construir una seqüència simplificada des de les primeres etapes de l'Univers fins a la Terra:
+## 2.2
+
+Ordena els elements següents per construir una seqüència simplificada des de les primeres etapes de l'Univers fins a la Terra:
 
 **formació de la Terra · formació d'estrelles · Univers inicial calent i dens · formació del Sistema Solar · formació d'elements més pesants a les estrelles**
 
@@ -192,13 +196,17 @@ Consulta ara l'apartat **1. De l'origen de l'Univers a la formació de la Terra*
 4. ________________________________________________________________
 5. ________________________________________________________________
 
-## 2.3. Explica breument què significa **acreció**.
+## 2.3
+
+Explica breument què significa **acreció**.
 
 ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 2.4. Durant la formació de la Terra primitiva es va produir la **diferenciació planetària**.
+## 2.4
+
+Durant la formació de la Terra primitiva es va produir la **diferenciació planetària**.
 
 Què va passar amb els materials més densos i amb els menys densos?
 
@@ -206,7 +214,9 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 2.5. Completa la frase:
+## 2.5
+
+Completa la frase:
 
 > La història inicial de l'Univers i del Sistema Solar no s'ha __________________ directament. S'ha __________________ a partir d'evidències observables i de models científics.
 
@@ -224,7 +234,9 @@ Per tant:
 
 L'extrem actual de la línia representa el **present**.
 
-## 3.1. Calcula a quina distància del present hauríem de situar cadascuna d'aquestes edats.
+## 3.1
+
+Calcula a quina distància del present hauríem de situar cadascuna d'aquestes edats.
 
 | Edat | Distància respecte del present |
 |---:|---:|
@@ -234,15 +246,21 @@ L'extrem actual de la línia representa el **present**.
 | 1 Ma | |
 | 0,2 Ma | |
 
-## 3.2. Quants mil·límetres representarien **1 Ma**?
+## 3.2
+
+Quants mil·límetres representarien **1 Ma**?
 
 ____________________________________________________________________
 
-## 3.3. Quina distància representarien **200.000 anys**?
+## 3.3
+
+Quina distància representarien **200.000 anys**?
 
 ____________________________________________________________________
 
-## 3.4. Compara aquesta distància amb els 454 cm que representen tota la història de la Terra.
+## 3.4
+
+Compara aquesta distància amb els 454 cm que representen tota la història de la Terra.
 
 Què ens mostra aquesta comparació sobre la magnitud del temps geològic?
 
@@ -270,11 +288,15 @@ Els materials que ja existien queden exposats i una part és eliminada per l'ero
 ### Etapa 4
 La sedimentació es reprèn i es formen nous estrats damunt els materials antics.
 
-## 4.1. Durant quines etapes es formen **nous materials sedimentaris** que poden quedar incorporats al registre geològic?
+## 4.1
+
+Durant quines etapes es formen **nous materials sedimentaris** que poden quedar incorporats al registre geològic?
 
 ____________________________________________________________________
 
-## 4.2. Durant l'etapa 2 no es formen nous estrats.
+## 4.2
+
+Durant l'etapa 2 no es formen nous estrats.
 
 Significa això que durant aquell interval **no va transcórrer temps** o que **no va passar res**?
 
@@ -284,13 +306,17 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 4.3. Quin efecte té l'erosió de l'etapa 3 sobre la informació que s'havia conservat prèviament?
+## 4.3
+
+Quin efecte té l'erosió de l'etapa 3 sobre la informació que s'havia conservat prèviament?
 
 ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 4.4. Suposa que milions d'anys després un geòleg estudia exclusivament les roques que s'han conservat.
+## 4.4
+
+Suposa que milions d'anys després un geòleg estudia exclusivament les roques que s'han conservat.
 
 Podrà observar directament tot el temps que va transcórrer durant les quatre etapes?
 
@@ -300,7 +326,9 @@ ____________________________________________________________________
 
 ____________________________________________________________________
 
-## 4.5. Explica amb les teves paraules aquesta afirmació:
+## 4.5
+
+Explica amb les teves paraules aquesta afirmació:
 
 > **L'absència de registre no significa absència d'història.**
 
@@ -332,7 +360,9 @@ Un alumne afirma:
 
 > «Com que ningú no va observar directament aquell esdeveniment, no podem saber res científicament fiable sobre el que va passar.»
 
-## 5.1. Explica per què aquesta afirmació no és correcta.
+## 5.1
+
+Explica per què aquesta afirmació no és correcta.
 
 A la resposta has de diferenciar explícitament entre:
 
