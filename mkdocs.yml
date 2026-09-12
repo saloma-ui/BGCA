@@ -43,7 +43,9 @@ nav:
       - UD3 · Història de la vida i de la biodiversitat: material/ud3/ud3.md
       - UD4 · Microorganismes, salut i malaltia: material/ud4/ud4.md
   - Activitats:
-      - UD1: activitats/ud1/index.md
+      - UD1:
+          - Índex: activitats/ud1/index.md
+          - A01 · Evidències del passat: activitats/ud1/a01_ud01/index.md
       - UD2: activitats/ud2/index.md
       - UD3: activitats/ud3/index.md
       - UD4: activitats/ud4/index.md
