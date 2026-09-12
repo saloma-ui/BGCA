@@ -338,32 +338,37 @@ sedimentació → interrupció de la sedimentació → erosió → nova sediment
 
 </section>
 
-<section class="pv-seccio" markdown>
+<section class="pv-seccio pv-visual" markdown>
 
 # 11 · Tancament individual · CA 1.1
 
-Un grup d'investigadors estudia un procés que va tenir lloc fa milers de milions d'anys. Actualment disposen de:
+## Un cas real: llegim el passat de Mart
 
-- una estructura observable en materials antics;
-- mesures obtingudes amb instruments actuals;
-- exemples de processos semblants que es produeixen actualment.
+[![Textures sedimentàries observades per Curiosity al mosaic Longquimay](https://mars.nasa.gov/msl-raw-images/msss/04972/mhli/4972MH0008410011802510C00_DXXX.jpg)](https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/)
+
+*Figura. Fotograma del mosaic **Longquimay**, adquirit per la càmera **MAHLI** del rover **Curiosity** l'1 d'agost de 2026 (Sol 4972), a prop d'una possible superfície erosiva al registre sedimentari del cràter Gale. **Crèdit: NASA/JPL-Caltech/MSSS.** Font: NASA Science, «Curiosity Blog, Sols 4968–4974: Rock Climbing Towards the Discontinuity».*
+
+<p class="pv-pregunta"><strong>Primer: què hi observes? Descriu només allò que es pot veure, sense explicar encara com es va formar.</strong></p>
+
+L'equip de *Curiosity* estudia en aquesta zona una possible **discontinuïtat erosiva**: un interval en què un ambient dominat per la deposició hauria passat a estar dominat per l'erosió abans que la sedimentació es reprengués. A la zona s'han observat patrons que recorden estructures **eòliques** i també alguns dipòsits en forma de lent que, en certs casos, podrien ser compatibles amb un origen **fluvial**. Els investigadors necessiten imatges de més resolució i altres mesures per discriminar entre aquestes interpretacions.
 
 Un alumne afirma:
 
-> «Com que ningú no va observar directament aquell esdeveniment, no podem saber res científicament fiable sobre el que va passar.»
+> «Com que ningú no va observar com es varen formar aquestes roques, no podem saber científicament com era Mart en el passat.»
 
 <p class="pv-pregunta"><strong>Explica individualment per què aquesta afirmació no és correcta.</strong></p>
 
-A la resposta has de diferenciar explícitament entre:
+A la resposta has de:
 
-- **observació**;
-- **evidència**;
-- **inferència**;
-- **model o reconstrucció científica**.
+- identificar alguna **observació** que podem fer avui;
+- explicar quan aquesta observació es converteix en **evidència** per estudiar el passat de Mart;
+- formular almenys una **inferència** compatible amb les evidències;
+- explicar què seria un **model o reconstrucció científica** de la història d'aquesta zona;
+- justificar per què els científics poden mantenir **més d'una interpretació** mentre no disposen de prou evidències per discriminar-les.
 
 > **Evidència d'avaluació · CA 1.1**
 
-<!-- DOCENT: Aquest és l'únic moment de l'activitat que necessita producció individual extensa. Es pot respondre al quadern, en un full breu o a l'eina que s'hagi decidit per recollir l'evidència. -->
+<!-- DOCENT: Aquest és l'únic moment de l'activitat que necessita producció individual extensa. Primer obligar a separar descripció i interpretació. La imatge és real i la mateixa NASA presenta encara més d'una interpretació possible per a part de les estructures de la zona. -->
 
 </section>
 
