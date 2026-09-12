@@ -237,6 +237,8 @@ Un **hiat** és temps que ha transcorregut però que no queda representat pels m
   <button type="button" class="pv-terme" data-resposta="SEDIMENTS DAMUNT ROQUES ÍGNIES O METAMÒRFIQUES EROSIONADES">Inconformitat</button>
 </div>
 
+[Consulta al material guia: **4.2 · Les discordances i altres discontinuïtats**](../../../material/ud1/ud1.md#42-les-discordances-i-altres-discontinuitats)
+
 > En tots quatre casos hi ha història que **no queda representada de manera contínua** al registre conservat.
 
 </section>
