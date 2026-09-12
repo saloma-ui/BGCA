@@ -60,6 +60,10 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - presentacio.css
+
 extra_javascript:
+  - interaccio.js
   - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
