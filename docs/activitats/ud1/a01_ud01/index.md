@@ -1,35 +1,59 @@
+---
+title: A01 · Evidències del passat
+pdf: false
+hide:
+  - navigation
+  - toc
+---
+
+<div class="presentacio-vertical" markdown>
+
+<section class="pv-seccio pv-portada" markdown>
+
 # A01 · Evidències del passat
+
+## Com podem saber què va passar si ningú no hi era?
 
 **U.D. 1 · Com reconstruïm la història de la Terra?**
 
-**Nom i llinatges:** __________________________________________  
-**Data:** __________________
+<!-- DOCENT: Activitat de construcció. Idea rectora: la ciència pot reconstruir processos del passat a partir d'observacions actuals, evidències, inferències i models. No començar definint els quatre conceptes; fer-los emergir dels casos. -->
 
-## El problema
+</section>
 
-La Terra es va formar fa aproximadament **4,54 Ga** i el Sistema Solar, fa aproximadament **4,6 Ga**. L'Univers és encara molt més antic.
+<section class="pv-seccio" markdown>
+
+# 1 · El problema
+
+La Terra es va formar fa aproximadament **4,54 Ga** i el Sistema Solar fa aproximadament **4,6 Ga**.
 
 Ningú no va observar directament aquests esdeveniments.
 
-**Com podem reconstruir, aleshores, una història que va començar fa milers de milions d'anys?**
+<p class="pv-pregunta"><strong>Podem saber científicament què va passar?</strong></p>
 
-Al llarg d'aquesta activitat treballarem amb diferents evidències i intentarem distingir sempre entre:
+Pensau-hi individualment durant uns segons i comentau després una resposta amb la persona del costat.
 
-- **allò que podem observar o mesurar**;
-- **allò que inferim a partir de les observacions**;
-- **els models científics que permeten construir una explicació coherent**.
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="problema-a" aria-pressed="false">A · No. Si ningú no ho va observar, només podem especular.</button>
+    <button type="button" class="pv-opcio" data-feedback="problema-b" aria-pressed="false">B · Sí. Podem estudiar indicis actuals i construir explicacions contrastables.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="problema-a" hidden>
+    Aquesta resposta confon <strong>observació directa de l'esdeveniment</strong> amb coneixement científic. Molts processos del passat deixen rastres que encara podem mesurar avui.
+  </div>
+  <div class="pv-feedback" data-feedback-id="problema-b" hidden>
+    <strong>Aquesta és la idea que posarem a prova.</strong> No veure directament un esdeveniment no impedeix estudiar-ne les conseqüències observables.
+  </div>
+</div>
 
----
+<!-- DOCENT: No donar encara les definicions d'observació, evidència, inferència i model. -->
 
-# 1. Què observam i què inferim?
+</section>
 
-Treballau inicialment en grup. Per a cada evidència, distingiu amb cura entre les dades disponibles i les conclusions que en podem extreure.
+<section class="pv-seccio" markdown>
 
-## Evidència A · Galàxies
+# 2 · Evidència A: galàxies
 
-Les observacions astronòmiques mostren que, a gran escala, les galàxies tendeixen a allunyar-se les unes de les altres.
-
-La taula següent representa un conjunt **simplificat de dades** que reprodueix aquest patró:
+La taula representa un conjunt **simplificat de dades** que reprodueix un patró observat a gran escala.
 
 | Galàxia | Distància relativa | Velocitat d'allunyament relativa |
 |---|---:|---:|
@@ -38,293 +62,289 @@ La taula següent representa un conjunt **simplificat de dades** que reprodueix 
 | C | 4 | 4 |
 | D | 6 | 6 |
 
-### 1.1. Descriu el patró que mostren les dades **sense explicar encara per què es produeix**.
+<p class="pv-pregunta"><strong>Descriu el patró sense explicar encara per què es produeix.</strong></p>
 
-____________________________________________________________________
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="gal-a" aria-pressed="false">A · Les galàxies més llunyanes mostren una velocitat d'allunyament més gran.</button>
+    <button type="button" class="pv-opcio" data-feedback="gal-b" aria-pressed="false">B · Les galàxies s'allunyen perquè varen sortir expulsades d'un punt central.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="gal-a" hidden>
+    <strong>Exacte.</strong> Això descriu el patró de les dades sense introduir encara una explicació causal.
+  </div>
+  <div class="pv-feedback" data-feedback-id="gal-b" hidden>
+    Aquesta frase ja incorpora una <strong>interpretació</strong> que les dades de la taula, per si soles, no demostren.
+  </div>
+</div>
 
-____________________________________________________________________
+<!-- DOCENT: Fer verbalitzar la diferència entre descriure una relació i explicar-ne la causa. -->
 
-### 1.2. Si actualment les distàncies entre les galàxies augmenten, què podem inferir sobre les distàncies que les separaven en el passat?
+</section>
 
-____________________________________________________________________
+<section class="pv-seccio" markdown>
 
-____________________________________________________________________
+# 3 · Del que observam al que inferim
 
-### 1.3. Un alumne afirma:
+Si actualment, a gran escala, les distàncies entre galàxies augmenten...
 
-> «Aquestes dades demostren que totes les galàxies s'allunyen d'un punt central situat a la nostra galàxia.»
+<p class="pv-pregunta"><strong>què és raonable inferir sobre les distàncies que les separaven en el passat?</strong></p>
 
-Podem arribar a aquesta conclusió a partir de les dades anteriors? Explica-ho.
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="passat-a" aria-pressed="false">A · En general havien de ser menors.</button>
+    <button type="button" class="pv-opcio" data-feedback="passat-b" aria-pressed="false">B · Havien de ser exactament iguals.</button>
+    <button type="button" class="pv-opcio" data-feedback="passat-c" aria-pressed="false">C · Les dades demostren que totes varen sortir d'un punt situat a la Via Làctia.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="passat-a" hidden>
+    <strong>Sí.</strong> Aquesta és una inferència compatible amb el patró observat.
+  </div>
+  <div class="pv-feedback" data-feedback-id="passat-b" hidden>
+    No seria compatible amb un augment sistemàtic de les distàncies.
+  </div>
+  <div class="pv-feedback" data-feedback-id="passat-c" hidden>
+    No. L'expansió còsmica no implica que la nostra galàxia ocupi un centre espacial de l'Univers.
+  </div>
+</div>
 
-____________________________________________________________________
+> Una **inferència** va més enllà de descriure la dada, però ha d'estar limitada pel que les evidències permeten sostenir.
 
-____________________________________________________________________
+</section>
 
----
+<section class="pv-seccio pv-visual" markdown>
 
-## Evidència B · Una radiació que arriba de tot l'espai
+# 4 · Evidència B: una radiació que arriba de tot l'espai
+
+![Representació esquemàtica de la radiació còsmica de fons](figures/a01-01b-radiacio-cosmica-de-fons.png)
 
 Els instruments detecten una **radiació còsmica de fons molt feble que arriba de totes les direccions de l'espai**.
 
-> **FIGURA A01-01B.** Representació esquemàtica de la radiació còsmica de fons observada en diferents direccions del cel.
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina frase és una observació i quina ja és una interpretació?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="radiacio-a" aria-pressed="false">A · Arriba una radiació molt feble de totes les direccions.</button>
+    <button type="button" class="pv-opcio" data-feedback="radiacio-b" aria-pressed="false">B · Aquesta radiació conserva informació d'una etapa molt primerenca de l'Univers.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="radiacio-a" hidden>
+    <strong>Observació.</strong> És allò que detectam amb instruments.
+  </div>
+  <div class="pv-feedback" data-feedback-id="radiacio-b" hidden>
+    <strong>Inferència o interpretació.</strong> Connecta l'observació amb un model sobre la història de l'Univers.
+  </div>
+</div>
 
-![Figura A01-01B. Radiació còsmica de fons](figures/a01-01b-radiacio-cosmica-de-fons.png)
+El model cosmològic actual proposa que l'Univers va passar per una etapa inicial molt més **calenta i densa** que l'actual.
 
-### 1.4. Què constitueix en aquest cas una **observació**?
+<p class="pv-pregunta"><strong>Com encaixa aquesta radiació en aquest model?</strong></p>
 
-____________________________________________________________________
+<!-- DOCENT: Cercar una resposta del tipus “és una evidència compatible amb una etapa primerenca calenta”, evitant presentar una sola observació com a demostració completa del model. -->
 
-____________________________________________________________________
+</section>
 
-### 1.5. El model del Big Bang proposa que l'Univers va passar per una etapa inicial molt més **calenta i densa** que l'actual.
+<section class="pv-seccio pv-visual" markdown>
 
-Quina relació hi pot haver entre aquest model i la radiació còsmica de fons que observam actualment?
+# 5 · Evidència C: sistemes planetaris en formació
 
-____________________________________________________________________
+![Estrella jove envoltada per un disc de gas i pols](figures/a01-01c-sistemes-planetaris-en-formacio.png)
 
-____________________________________________________________________
+<p class="pv-pregunta"><strong>Primer, descriviu només allò que podríem observar. Encara no expliqueu què significa.</strong></p>
 
-### 1.6. Quina de les frases següents és una **observació** i quina és una **inferència**?
+Després provau d'ordenar mentalment aquesta seqüència:
 
-**A.** Arriba una radiació molt feble de totes les direccions de l'espai.
+<div class="pv-cadena">
+núvol interestel·lar → disc protoplanetari → planetesimals → acreció → planetes
+</div>
 
-**B.** Aquesta radiació conserva informació d'una etapa molt primerenca de l'Univers.
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Observar avui una estrella jove amb un disc significa que estam veient directament la formació del nostre Sistema Solar?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="disc-a" aria-pressed="false">A · Sí</button>
+    <button type="button" class="pv-opcio" data-feedback="disc-b" aria-pressed="false">B · No</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="disc-a" hidden>
+    No. Estam observant <strong>un altre sistema actual</strong>, no un esdeveniment ocorregut al nostre Sistema Solar fa milers de milions d'anys.
+  </div>
+  <div class="pv-feedback" data-feedback-id="disc-b" hidden>
+    <strong>Correcte.</strong> Observam un procés actual comparable que ajuda a valorar si un model de formació planetària és plausible.
+  </div>
+</div>
+
+</section>
 
-| Frase | Observació o inferència? |
-|---|---|
-| A | |
-| B | |
+<section class="pv-seccio" markdown>
 
----
+# 6 · Evidència D: meteorits
 
-## Evidència C · Sistemes planetaris en formació
+En un mineral d'un meteorit s'obté una edat radiomètrica aproximada de **4.560 Ma**.
 
-Actualment s'observen **estrelles joves envoltades per discs de gas i pols**.
+<p class="pv-pregunta"><strong>Què mesuram realment i què inferim?</strong></p>
 
-> **FIGURA A01-01C.** Estrella jove envoltada per un disc de gas i pols.
+<div class="pv-tres-columnes">
+  <div class="pv-targeta" markdown>
+  **Mesura**
 
-![Figura A01-01C. Sistema planetari en formació](figures/a01-01c-sistemes-planetaris-en-formacio.png)
+  Proporcions o abundàncies d'isòtops en una mostra.
+  </div>
+  <div class="pv-targeta" markdown>
+  **Model físic**
 
-### 1.7. Descriu exclusivament allò que podríem **observar** a la figura.
+  Coneixem el comportament de la desintegració radioactiva.
+  </div>
+  <div class="pv-targeta" markdown>
+  **Inferència**
 
-____________________________________________________________________
+  A partir de les mesures i del model estimam una edat.
+  </div>
+</div>
+
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina conclusió és més prudent?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="met-a" aria-pressed="false">A · La Terra es va formar exactament fa 4.560 Ma.</button>
+    <button type="button" class="pv-opcio" data-feedback="met-b" aria-pressed="false">B · Alguns materials del Sistema Solar ja existien fa aproximadament 4.560 Ma.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="met-a" hidden>
+    És una conclusió massa forta. L'edat d'un mineral meteòritic no és automàticament l'edat exacta de formació de la Terra.
+  </div>
+  <div class="pv-feedback" data-feedback-id="met-b" hidden>
+    <strong>Sí.</strong> La dada ajuda a acotar l'antiguitat dels primers materials del Sistema Solar sense identificar-la amb un únic instant exacte.
+  </div>
+</div>
 
-____________________________________________________________________
+</section>
 
-### 1.8. Ordena les etapes següents del model de formació del Sistema Solar:
+<section class="pv-seccio" markdown>
 
-**acreció · planetes · núvol interestel·lar · planetesimals · disc protoplanetari**
+# 7 · Quatre idees que no són el mateix
 
-1. __________________________________
-2. __________________________________
-3. __________________________________
-4. __________________________________
-5. __________________________________
+<p class="pv-pregunta"><strong>Clica cada frase i comprova quin paper té en una reconstrucció científica.</strong></p>
 
-### 1.9. Quina etapa d'aquesta seqüència és especialment compatible amb l'evidència C?
+<div class="pv-termes" data-pv-classificacio>
+  <button type="button" class="pv-terme" data-resposta="OBSERVACIÓ">Un instrument detecta radiació de totes les direccions.</button>
+  <button type="button" class="pv-terme" data-resposta="EVIDÈNCIA">Aquesta detecció és rellevant per contrastar models sobre l'Univers primerenc.</button>
+  <button type="button" class="pv-terme" data-resposta="INFERÈNCIA">En el passat les distàncies entre galàxies havien de ser, en general, menors.</button>
+  <button type="button" class="pv-terme" data-resposta="MODEL">Una explicació coherent relaciona moltes observacions i permet fer prediccions contrastables.</button>
+</div>
+
+<div class="pv-cadena">
+observacions i mesures → evidències rellevants → inferències → models que integren moltes evidències
+</div>
+
+> Una mateixa dada pot convertir-se en **evidència** quan l'utilitzam per valorar una hipòtesi o un model concret.
+
+<!-- DOCENT: Important evitar presentar els quatre termes com quatre compartiments independents i rígids. “Evidència” descriu el paper que una dada o observació juga en un argument científic. -->
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+# 8 · De moltes evidències a una història coherent
+
+Ordenau aquesta seqüència simplificada:
+
+- formació de la Terra;
+- formació d'estrelles;
+- Univers inicial calent i dens;
+- formació del Sistema Solar;
+- formació d'elements més pesants a les estrelles.
 
-____________________________________________________________________
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Quina seqüència és coherent amb el model actual?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="seq-a" aria-pressed="false">A · Univers inicial → estrelles → elements pesants → Sistema Solar → Terra</button>
+    <button type="button" class="pv-opcio" data-feedback="seq-b" aria-pressed="false">B · Terra → Sistema Solar → estrelles → Univers inicial → elements pesants</button>
+    <button type="button" class="pv-opcio" data-feedback="seq-c" aria-pressed="false">C · Estrelles → Univers inicial → Terra → elements pesants → Sistema Solar</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="seq-a" hidden>
+    <strong>Correcte.</strong> Els elements pesants que formen planetes com la Terra requereixen generacions prèvies d'estrelles.
+  </div>
+  <div class="pv-feedback" data-feedback-id="seq-b" hidden>
+    No. La Terra no pot precedir el Sistema Solar ni les generacions d'estrelles que varen produir molts dels seus elements.
+  </div>
+  <div class="pv-feedback" data-feedback-id="seq-c" hidden>
+    No. El model situa l'Univers inicial abans de la formació de les primeres estrelles.
+  </div>
+</div>
 
-### 1.10. Explica per què observar actualment una estrella jove amb un disc de gas i pols **no significa que estiguem observant directament la formació del nostre Sistema Solar**.
+<p class="pv-pregunta"><strong>On situaries l'acreció i la diferenciació planetària dins aquesta història?</strong></p>
 
-____________________________________________________________________
+<!-- DOCENT: Enllaçar amb l'apartat 1 del material guia només després que hagin intentat construir la seqüència. -->
 
-____________________________________________________________________
+</section>
 
----
+<section class="pv-seccio" markdown>
 
-## Evidència D · Meteorits
+# 9 · Quant són 4.540 milions d'anys?
 
-Alguns meteorits conserven materials formats durant les primeres etapes del Sistema Solar.
+Representam els **4.540 Ma** d'història de la Terra amb una línia de **454 cm**.
 
-Suposem que l'anàlisi d'un mineral d'un meteorit proporciona una edat aproximada de **4.560 Ma**.
+<div class="pv-cadena">
+1 cm = 10 Ma &nbsp;&nbsp;·&nbsp;&nbsp; 1 mm = 1 Ma
+</div>
 
-### 1.11. Què s'ha observat o mesurat directament?
+<p class="pv-pregunta"><strong>Abans de calcular: quina distància representarien 200.000 anys?</strong></p>
 
-____________________________________________________________________
+<div class="pv-quiz" data-pv-quiz>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="temps-a" aria-pressed="false">A · 20 cm</button>
+    <button type="button" class="pv-opcio" data-feedback="temps-b" aria-pressed="false">B · 2 cm</button>
+    <button type="button" class="pv-opcio" data-feedback="temps-c" aria-pressed="false">C · 2 mm</button>
+    <button type="button" class="pv-opcio" data-feedback="temps-d" aria-pressed="false">D · 0,2 mm</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="temps-a" hidden>Revisa l'escala: 1 mm ja representa un milió d'anys.</div>
+  <div class="pv-feedback" data-feedback-id="temps-b" hidden>Revisa l'escala: 2 cm representarien 20 Ma.</div>
+  <div class="pv-feedback" data-feedback-id="temps-c" hidden>2 mm representarien 2 Ma, no 0,2 Ma.</div>
+  <div class="pv-feedback" data-feedback-id="temps-d" hidden><strong>Correcte.</strong> 200.000 anys = 0,2 Ma = 0,2 mm en aquesta escala.</div>
+</div>
 
-### 1.12. Què podem inferir a partir d'aquesta dada sobre l'antiguitat dels materials del Sistema Solar?
+<p class="pv-pregunta"><strong>Què ens diu aquesta comparació sobre la nostra intuïció del temps geològic?</strong></p>
 
-____________________________________________________________________
+</section>
 
-____________________________________________________________________
+<section class="pv-seccio" markdown>
 
-### 1.13. La major part de les roques de la superfície terrestre ha estat sotmesa durant milers de milions d'anys a processos geològics que les poden transformar o destruir.
+# 10 · El registre geològic no és una gravació contínua
 
-Explica per què els meteorits poden conservar informació sobre etapes molt antigues que és difícil trobar en el registre geològic terrestre.
+Imaginau aquesta història:
 
-____________________________________________________________________
+<div class="pv-cadena">
+sedimentació → interrupció de la sedimentació → erosió → nova sedimentació
+</div>
 
-____________________________________________________________________
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>Durant l'interval sense sedimentació, què passa amb el temps?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="registre-a" aria-pressed="false">A · El temps s'atura perquè no es formen estrats.</button>
+    <button type="button" class="pv-opcio" data-feedback="registre-b" aria-pressed="false">B · El temps continua transcorrent encara que no quedi registrat per nova sedimentació.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="registre-a" hidden>
+    No. El procés de sedimentació pot aturar-se, però el temps continua transcorrent i poden passar altres processos.
+  </div>
+  <div class="pv-feedback" data-feedback-id="registre-b" hidden>
+    <strong>Exacte.</strong> Una absència d'estrats no és una absència de temps.
+  </div>
+</div>
 
-### 1.14. Seria correcte afirmar:
+<div class="pv-quiz" data-pv-quiz>
+  <p class="pv-pregunta"><strong>I si després hi ha erosió?</strong></p>
+  <div class="pv-opcions">
+    <button type="button" class="pv-opcio" data-feedback="erosio-a" aria-pressed="false">A · Pot desaparèixer part de la informació que s'havia conservat.</button>
+    <button type="button" class="pv-opcio" data-feedback="erosio-b" aria-pressed="false">B · El registre es fa necessàriament més complet.</button>
+  </div>
+  <div class="pv-feedback" data-feedback-id="erosio-a" hidden><strong>Sí.</strong> L'erosió pot eliminar materials i, amb ells, part del registre anterior.</div>
+  <div class="pv-feedback" data-feedback-id="erosio-b" hidden>No. L'erosió pot destruir una part del registre que ja existia.</div>
+</div>
 
-> «El valor de 4.560 Ma indica exactament el moment en què es va formar la Terra.»
+> **Absència de registre ≠ absència d'història.**
 
-Justifica la resposta.
+</section>
 
-____________________________________________________________________
+<section class="pv-seccio" markdown>
 
-____________________________________________________________________
+# 11 · Tancament individual · CA 1.1
 
----
+Un grup d'investigadors estudia un procés que va tenir lloc fa milers de milions d'anys. Actualment disposen de:
 
-# 2. De les evidències al model
-
-Consulta ara l'apartat **1. De l'origen de l'Univers a la formació de la Terra** del material guia de la U.D. 1.
-
-## 2.1. Completa la taula.
-
-| Evidència observable actual | Què observam? | Què podem inferir? |
-|---|---|---|
-| Galàxies | | |
-| Radiació còsmica de fons | | |
-| Estrelles joves amb discs de gas i pols | | |
-| Meteorits | | |
-
-## 2.2. Ordena els elements següents per construir una seqüència simplificada des de les primeres etapes de l'Univers fins a la Terra:
-
-**formació de la Terra · formació d'estrelles · Univers inicial calent i dens · formació del Sistema Solar · formació d'elements més pesants a les estrelles**
-
-1. ________________________________________________________________
-2. ________________________________________________________________
-3. ________________________________________________________________
-4. ________________________________________________________________
-5. ________________________________________________________________
-
-## 2.3. Explica breument què significa **acreció**.
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-## 2.4. Durant la formació de la Terra primitiva es va produir la **diferenciació planetària**.
-
-Què va passar amb els materials més densos i amb els menys densos?
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-## 2.5. Completa la frase:
-
-> La història inicial de l'Univers i del Sistema Solar no s'ha __________________ directament. S'ha __________________ a partir d'evidències observables i de models científics.
-
----
-
-# 3. Quant són 4.540 milions d'anys?
-
-La nostra experiència quotidiana fa difícil imaginar la magnitud del temps geològic.
-
-Representarem els **4.540 Ma d'història de la Terra amb una línia de 454 cm**.
-
-Per tant:
-
-**1 cm representa 10 Ma.**
-
-L'extrem actual de la línia representa el **present**.
-
-## 3.1. Calcula a quina distància del present hauríem de situar cadascuna d'aquestes edats.
-
-| Edat | Distància respecte del present |
-|---:|---:|
-| 4.000 Ma | |
-| 500 Ma | |
-| 66 Ma | |
-| 1 Ma | |
-| 0,2 Ma | |
-
-## 3.2. Quants mil·límetres representarien **1 Ma**?
-
-____________________________________________________________________
-
-## 3.3. Quina distància representarien **200.000 anys**?
-
-____________________________________________________________________
-
-## 3.4. Compara aquesta distància amb els 454 cm que representen tota la història de la Terra.
-
-Què ens mostra aquesta comparació sobre la magnitud del temps geològic?
-
-____________________________________________________________________
-
-____________________________________________________________________
-
----
-
-# 4. El registre geològic no conserva tota la història
-
-Consulta ara l'apartat **2. El temps geològic i el registre geològic** del material guia.
-
-Imagina la història següent d'una zona:
-
-### Etapa 1
-Durant un llarg interval es dipositen sediments.
-
-### Etapa 2
-La sedimentació s'interromp durant milions d'anys.
-
-### Etapa 3
-Els materials que ja existien queden exposats i una part és eliminada per l'erosió.
-
-### Etapa 4
-La sedimentació es reprèn i es formen nous estrats damunt els materials antics.
-
-## 4.1. Durant quines etapes es formen **nous materials sedimentaris** que poden quedar incorporats al registre geològic?
-
-____________________________________________________________________
-
-## 4.2. Durant l'etapa 2 no es formen nous estrats.
-
-Significa això que durant aquell interval **no va transcórrer temps** o que **no va passar res**?
-
-Explica-ho.
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-## 4.3. Quin efecte té l'erosió de l'etapa 3 sobre la informació que s'havia conservat prèviament?
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-## 4.4. Suposa que milions d'anys després un geòleg estudia exclusivament les roques que s'han conservat.
-
-Podrà observar directament tot el temps que va transcórrer durant les quatre etapes?
-
-Justifica-ho.
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-## 4.5. Explica amb les teves paraules aquesta afirmació:
-
-> **L'absència de registre no significa absència d'història.**
-
-____________________________________________________________________
-
-____________________________________________________________________
-
-____________________________________________________________________
-
----
-
-# 5. Tancament individual
-
-> **Evidència d’avaluació · CA 1.1**  
-> Aquest tancament es resol **individualment** i genera evidència de **CA 1.1**, perquè l’alumnat ha d’analitzar una afirmació científica distingint **observació, inferència, evidència i model o reconstrucció científica**.  
-> La resta de l’activitat té funció principalment **formativa i de construcció del criteri**.
-
-Resol aquest apartat **individualment**.
-
-Un grup d'investigadors estudia un procés que va tenir lloc fa milers de milions d'anys.
-
-Actualment disposen de les evidències següents:
-
-- una determinada estructura observable en materials antics;
+- una estructura observable en materials antics;
 - mesures obtingudes amb instruments actuals;
 - exemples de processos semblants que es produeixen actualment.
 
@@ -332,27 +352,33 @@ Un alumne afirma:
 
 > «Com que ningú no va observar directament aquell esdeveniment, no podem saber res científicament fiable sobre el que va passar.»
 
-## 5.1. Explica per què aquesta afirmació no és correcta.
+<p class="pv-pregunta"><strong>Explica individualment per què aquesta afirmació no és correcta.</strong></p>
 
 A la resposta has de diferenciar explícitament entre:
 
 - **observació**;
-- **inferència**;
 - **evidència**;
+- **inferència**;
 - **model o reconstrucció científica**.
 
-____________________________________________________________________
+> **Evidència d'avaluació · CA 1.1**
 
-____________________________________________________________________
+<!-- DOCENT: Aquest és l'únic moment de l'activitat que necessita producció individual extensa. Es pot respondre al quadern, en un full breu o a l'eina que s'hagi decidit per recollir l'evidència. -->
 
-____________________________________________________________________
+</section>
 
-____________________________________________________________________
+<section class="pv-seccio pv-portada" markdown>
 
-____________________________________________________________________
+# Idea clau
 
-## Idea clau de l'activitat
+## La ciència pot reconstruir esdeveniments que no hem observat directament si han deixat evidències que podem estudiar en el present.
 
-**La ciència pot reconstruir esdeveniments que no hem observat directament si han deixat evidències que podem estudiar en el present.**
+A la història de la Terra, però, aquestes evidències formen un **registre incomplet**.
 
-A la història de la Terra, però, aquestes evidències formen un **registre incomplet**. En les activitats següents aprendrem a interpretar aquest registre per ordenar i datar els esdeveniments geològics.
+[Consulta el material guia de la UD1](../../../material/ud1/ud1.md)
+
+<!-- DOCENT: Tancament conceptual. La següent activitat hauria de passar de “com sabem coses del passat?” a “com ordenam i datam els esdeveniments conservats al registre?”. -->
+
+</section>
+
+</div>
