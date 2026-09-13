@@ -11,7 +11,15 @@ Materials guia de **1r de Batxillerat**.
 
 ## Activitats
 
-- [Activitats · UD 1](activitats/ud1/index.md)
-- [Activitats · UD 2](activitats/ud2/index.md)
-- [Activitats · UD 3](activitats/ud3/index.md)
-- [Activitats · UD 4](activitats/ud4/index.md)
+Les activitats estan organitzades per unitat didàctica i, dins cada unitat, per activitat.
+
+- [Activitats de la UD1](activitats/ud1/index.md)
+- [Activitats de la UD2](activitats/ud2/index.md)
+- [Activitats de la UD3](activitats/ud3/index.md)
+- [Activitats de la UD4](activitats/ud4/index.md)
+
+## Informació del curs
+
+- [Programació](programacio.md)
+- [Criteris d'avaluació](criteris-avaluacio.md)
+- [Calendari](calendari.md)
