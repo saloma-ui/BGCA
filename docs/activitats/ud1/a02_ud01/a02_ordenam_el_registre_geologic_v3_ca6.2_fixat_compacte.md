@@ -29,7 +29,7 @@ Les roques no duen escrita la data en què es varen formar. Tot i això, les sev
 
 Observa els cinc esquemes.
 
-![Figura A02-01. Cinc situacions senzilles que permeten aplicar els principis de datació relativa](figures/A02-01-principis-datacio-relativa.png)
+![Figura A02-01. Cinc situacions senzilles que permeten aplicar els principis de datació relativa](figures/a02-01-principis-datacio-relativa.png)
 
 *Figura A02-01. Cinc situacions senzilles que permeten aplicar els principis de datació relativa.*
 
@@ -67,7 +67,7 @@ Explica per què l'observació i la inferència no són el mateix.
 
 ## 2. El nostre primer cas geològic
 
-![Figura A02-02. Tall geològic amb quatre estrats sedimentaris A, B, C i D, una intrusió E i una falla F](figures/A02-02-tall-intrusio-falla.png)
+![Figura A02-02. Tall geològic amb quatre estrats sedimentaris A, B, C i D, una intrusió E i una falla F](figures/a02-02-tall-intrusio-falla.png)
 
 *Figura A02-02. Tall geològic amb quatre estrats sedimentaris A, B, C i D, una intrusió E i una falla F.*
 
@@ -157,7 +157,7 @@ ______________________________________________________________
 
 Un **hiat** és un interval de temps que ha transcorregut però que no queda representat pels materials conservats.
 
-![Figura A02-03. Quatre contactes geològics, identificats com A, B, C i D](figures/A02-03-discontinuitats.png)
+![Figura A02-03. Quatre contactes geològics, identificats com A, B, C i D](figures/a02-03-discontinuitats.png)
 
 *Figura A02-03. Quatre contactes geològics, identificats com A, B, C i D.*
 
@@ -286,7 +286,7 @@ ______________________________________________________________
 
 Observa les tres columnes estratigràfiques i relaciona la informació dels fòssils amb la litologia dels estrats.
 
-![Figura A02-04. Tres columnes estratigràfiques X, Y i Z, amb litologies i continguts fòssils diferents](figures/A02-04-correlacio-estratigrafica.png)
+![Figura A02-04. Tres columnes estratigràfiques X, Y i Z, amb litologies i continguts fòssils diferents](figures/a02-04-correlacio-estratigrafica.png)
 
 *Figura A02-04. Tres columnes estratigràfiques X, Y i Z, amb litologies i continguts fòssils diferents.*
 
@@ -328,7 +328,7 @@ ______________________________________________________________
 
 Resol aquest apartat en parelles.
 
-![Figura A02-05. Tall geològic](figures/A02-05-tall-integrador.png)
+![Figura A02-05. Tall geològic](figures/a02-05-tall-integrador.png)
 
 *Figura A02-05. Tall geològic.*
 

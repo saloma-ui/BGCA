@@ -75,7 +75,7 @@ Un alumne afirma:
 
 # 3 · Cinc eines per ordenar el passat
 
-![Cinc situacions senzilles de datació relativa](figures/A02-01-principis-datacio-relativa.png)
+![Cinc situacions senzilles de datació relativa](figures/a02-01-principis-datacio-relativa.png)
 
 <p class="pv-pregunta"><strong>Per a cada cas, separau tres passes: què observam → què inferim → quin principi utilitzam.</strong></p>
 
@@ -121,7 +121,7 @@ falla talla estrats → relacions de tall → falla posterior als estrats
 
 # 5 · El nostre primer cas geològic
 
-![Tall geològic amb estrats, una intrusió i una falla](figures/A02-02-tall-intrusio-falla.png)
+![Tall geològic amb estrats, una intrusió i una falla](figures/a02-02-tall-intrusio-falla.png)
 
 <p class="pv-pregunta"><strong>Abans d'ordenar res: quins elements hi veis?</strong></p>
 
@@ -147,7 +147,7 @@ Feis primer un inventari: **A, B, C, D, E i F**. Distingiu materials sedimentari
 
 # 6 · Qui talla a qui?
 
-![Tall geològic amb estrats, una intrusió i una falla](figures/A02-02-tall-intrusio-falla.png)
+![Tall geològic amb estrats, una intrusió i una falla](figures/a02-02-tall-intrusio-falla.png)
 
 <p class="pv-pregunta"><strong>Quina relació observable hi ha entre la intrusió E i els estrats que travessa?</strong></p>
 
@@ -174,7 +174,7 @@ Feis primer un inventari: **A, B, C, D, E i F**. Distingiu materials sedimentari
 
 # 7 · La falla F tanca la història?
 
-![Tall geològic amb estrats, una intrusió i una falla](figures/A02-02-tall-intrusio-falla.png)
+![Tall geològic amb estrats, una intrusió i una falla](figures/a02-02-tall-intrusio-falla.png)
 
 <p class="pv-pregunta"><strong>Quins elements talla o desplaça F?</strong></p>
 
@@ -224,7 +224,7 @@ Suposem que podem establir que la sedimentació de C va passar abans que la intr
 
 # 9 · Quan falta una part de la història
 
-![Quatre tipus de discontinuïtats geològiques](figures/A02-03-discontinuitats.png)
+![Quatre tipus de discontinuïtats geològiques](figures/a02-03-discontinuitats.png)
 
 Un **hiat** és temps que ha transcorregut però que no queda representat pels materials conservats.
 
@@ -321,7 +321,7 @@ X: **155–140 Ma** · Y: **148–130 Ma**
 
 # 12 · Mateix temps, roca diferent
 
-![Tres columnes estratigràfiques amb litologies i fòssils diferents](figures/A02-04-correlacio-estratigrafica.png)
+![Tres columnes estratigràfiques amb litologies i fòssils diferents](figures/a02-04-correlacio-estratigrafica.png)
 
 <p class="pv-pregunta"><strong>Quins nivells de X, Y i Z es poden correlacionar amb més precisió utilitzant el millor fòssil guia?</strong></p>
 
@@ -351,7 +351,7 @@ Primer localitzau el fòssil. Després comparau la **litologia** dels nivells co
 
 # 13 · Repte integrador
 
-![Tall geològic integrador](figures/A02-05-tall-integrador.png)
+![Tall geològic integrador](figures/a02-05-tall-integrador.png)
 
 **Resolució en parelles.** No intenteu escriure tota la història de cop.
 
