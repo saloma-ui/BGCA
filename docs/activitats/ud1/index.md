@@ -5,3 +5,5 @@
 ## [A02 · Ordenam el registre geològic](A02_UD01/index.md)
 
 ## [A03 · Posam edat al registre](A03_UD01/index.md)
+
+## [A04 · Reconstruïm una història geològica](A04_UD01/index.md)
