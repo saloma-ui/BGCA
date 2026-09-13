@@ -37,6 +37,10 @@ hooks:
 
 nav:
   - Inici: index.md
+  - Informació del curs:
+      - Programació: programacio.md
+      - Criteris d'avaluació: criteris-avaluacio.md
+      - Calendari: calendari.md
   - Material:
       - UD1 · Com reconstruïm la història de la Terra?: material/ud1/ud1.md
       - UD2 · Una Terra dinàmica: material/ud2/ud2.md
