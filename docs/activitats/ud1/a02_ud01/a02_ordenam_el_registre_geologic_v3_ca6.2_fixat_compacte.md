@@ -228,7 +228,7 @@ ______________________________________________________________
 | A | 190-110 Ma | àmplia |
 | B | 200-120 Ma | àmplia |
 | C | 165-160 Ma | àmplia |
-| D | 170-150 Ma | molt reduïda |
+| D | 250-50 Ma | àmplia |
 
 ### 4.1. Quin és el millor fòssil guia?
 
