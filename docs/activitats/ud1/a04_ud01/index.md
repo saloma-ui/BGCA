@@ -76,7 +76,7 @@ Si dues estructures no es tallen, no es superposen i no hi ha cap altra relació
 
 # 3 · Quines eines tens disponibles?
 
-A04 no introdueix cap eina nova. Has de decidir **quina necessites en cada moment**.
+En aquesta activitat no introduirem cap eina nova. Has de decidir **quina necessites en cada moment**.
 
 <div class="pv-tres-columnes">
   <div class="pv-targeta" markdown>
@@ -415,7 +415,7 @@ La millor reconstrucció no és la que inventa més detalls, sinó la que **just
 
 [Consulta el material guia de la UD1](../../../material/ud1/ud1.md)
 
-<!-- DOCENT: A04 és una activitat clara candidata a evidència de CA 4.1, però la selecció d'evidències formals de la UD1 es decidirà quan estiguin revisades totes les activitats. -->
+<!-- DOCENT: Aquesta activitat és una candidata clara a evidència de CA 4.1, però la selecció d'evidències formals de la UD1 es decidirà quan estiguin revisades totes les activitats. -->
 
 </section>
 
