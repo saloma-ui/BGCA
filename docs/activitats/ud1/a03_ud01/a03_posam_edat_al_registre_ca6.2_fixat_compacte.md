@@ -122,6 +122,10 @@ Quin és més antic? Per què **no** podem comparar-ne l'edat mirant només quin
 
 ## 5 · Una data no parla tota sola
 
+Fins ara hem utilitzat els isòtops com un rellotge per calcular quant de temps ha transcorregut. Però obtenir un número no basta. Per interpretar una edat radiomètrica hem de saber **quan va començar a funcionar aquell rellotge**, si el sistema s'ha mantingut **tancat** i **quin procés geològic representa** la data obtinguda.
+
+[Consulta el material guia: **6.4 · Els isòtops com a rellotges geològics**](../../../material/ud1/ud1.md#64-els-isotops-com-a-rellotges-geologics) · [**6.5 · No totes les roques es poden datar directament de la mateixa manera**](../../../material/ud1/ud1.md#65-no-totes-les-roques-es-poden-datar-directament-de-la-mateixa-manera)
+
 **Una edat radiomètrica només és geològicament útil si sabem què s'ha datat i quin esdeveniment representa.**
 
 ### 5.1. Què podem afirmar?
@@ -137,6 +141,8 @@ Després de formar-se, un mineral ha guanyat o perdut part dels isòtops utilitz
 
 **Cas D · Intrusió**  
 Una intrusió magmàtica datada en **180 Ma** talla tres estrats sedimentaris. Què podem afirmar sobre l'edat dels estrats?
+
+[Consulta el material guia: **7.1 · Situar una edat dins una seqüència d'esdeveniments**](../../../material/ud1/ud1.md#71-situar-una-edat-dins-una-sequencia-desdeveniments)
 
 ### 5.2. Acotam una edat
 
