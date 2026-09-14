@@ -279,7 +279,7 @@ En una **discordança angular**, els estrats antics estan deformats i truncats a
 | A | 190–110 Ma | àmplia |
 | B | 200–120 Ma | àmplia |
 | C | 165–160 Ma | àmplia |
-| D | 170–150 Ma | molt reduïda |
+| D | 250–50 Ma | àmplia |
 
 <div class="pv-quiz" data-pv-quiz>
   <p class="pv-pregunta"><strong>Quin és, en principi, el millor fòssil guia?</strong></p>
@@ -292,7 +292,7 @@ En una **discordança angular**, els estrats antics estan deformats i truncats a
   <div class="pv-feedback" data-feedback-id="fos-a" hidden>Té distribució àmplia, però un interval temporal molt llarg.</div>
   <div class="pv-feedback" data-feedback-id="fos-b" hidden>Té distribució àmplia, però un interval temporal molt llarg.</div>
   <div class="pv-feedback" data-feedback-id="fos-c" hidden><strong>Correcte.</strong> Combina una distribució geogràfica àmplia amb un interval temporal curt.</div>
-  <div class="pv-feedback" data-feedback-id="fos-d" hidden>L'interval és relativament curt, però la distribució geogràfica és massa reduïda per correlacionar àmpliament.</div>
+  <div class="pv-feedback" data-feedback-id="fos-d" hidden>Té distribució àmplia, però un interval temporal extremadament llarg i, per tant, molt poca precisió temporal.</div>
 </div>
 
 <p class="pv-pregunta"><strong>Si un estrat conté C, podem afirmar que es va formar exactament fa 162 Ma?</strong></p>
