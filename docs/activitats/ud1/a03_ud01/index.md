@@ -22,9 +22,9 @@ hide:
 
 <section class="pv-seccio" markdown>
 
-# 1 · D'A02 a A03: ordre no és edat
+# 1 · De l'ordre relatiu a l'edat numèrica
 
-A A02 podíem establir que una intrusió és **posterior** als estrats que talla o que una falla és **posterior** als materials que desplaça.
+A l'activitat *Ordenam el registre geològic* podíem establir que una intrusió és **posterior** als estrats que talla o que una falla és **posterior** als materials que desplaça.
 
 <p class="pv-pregunta"><strong>Què ens faltava per poder dir «això va passar fa aproximadament 300 Ma»?</strong></p>
 
