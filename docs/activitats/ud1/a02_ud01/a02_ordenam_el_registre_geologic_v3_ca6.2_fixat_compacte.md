@@ -226,9 +226,9 @@ ______________________________________________________________
 | Fòssil | Interval temporal conegut | Distribució geogràfica |
 |---|---:|---|
 | A | 190-110 Ma | àmplia |
-| B | 165-160 Ma | àmplia |
-| C | 170-150 Ma | molt reduïda |
-| D | 200-120 Ma | àmplia |
+| B | 200-120 Ma | àmplia |
+| C | 165-160 Ma | àmplia |
+| D | 170-150 Ma | molt reduïda |
 
 ### 4.1. Quin és el millor fòssil guia?
 
@@ -244,7 +244,7 @@ ______________________________________________________________
 
 ### 4.2. Posam un interval a un estrat
 
-Un estrat conté el fòssil B. Entre quines edats es va haver de formar?
+Un estrat conté el fòssil C. Entre quines edats es va haver de formar?
 
 ______________________________________________________________
 
@@ -302,13 +302,13 @@ ______________________________________________________________
 
 ______________________________________________________________
 
-### 5.3. Compara la **litologia** dels estrats que has correlacionat. Què ens mostra aquesta comparació sobre la relació entre **edat** i **tipus de roca**?
+### 5.3. Els estrats que has correlacionat ocupen la mateixa posició dins les tres columnes? Què ens indica això sobre l'ús de la profunditat o de l'ordre dels estrats per comparar localitats diferents?
 
 ______________________________________________________________
 
 ______________________________________________________________
 
-### 5.4. El fòssil D apareix en nivells diferents de les tres columnes. És això una contradicció? Justifica la resposta a partir del seu interval temporal conegut.
+### 5.4. Compara la **litologia** dels estrats que has correlacionat. Què ens mostra aquesta comparació sobre la relació entre **edat** i **tipus de roca**?
 
 ______________________________________________________________
 
