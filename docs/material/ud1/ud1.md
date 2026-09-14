@@ -8,6 +8,13 @@ La història de la Terra no comença amb les primeres roques que podem estudiar.
 
 Ningú no va observar directament aquests esdeveniments. El seu coneixement s’ha construït combinant **observacions actuals, evidències conservades i models científics**. Per tant, també en aquest cas hem de distingir entre allò que observam i allò que inferim a partir de les evidències.
 
+> **Observació, evidència i inferència no són el mateix.**  
+> Una **observació o mesura** descriu alguna cosa que podem detectar en el present. Aquesta observació esdevé **evidència** quan la utilitzam per valorar una explicació, una hipòtesi o un model. Una **inferència** és una conclusió que obtenim a partir d’aquestes evidències. Un **model científic** integra diferents evidències i inferències en una explicació coherent que es pot contrastar amb noves observacions.  
+>  
+> Per exemple, observar que les galàxies més llunyanes tendeixen a mostrar velocitats d’allunyament més grans és una **observació**. Aquest patró constitueix una **evidència** quan l’utilitzam per valorar un model segons el qual l’Univers s’expandeix. Inferir que, en el passat, les distàncies entre galàxies eren menors és una conclusió construïda a partir d’aquesta evidència.  
+>  
+> **Idea clau:** una dada no és «una evidència» per naturalesa: ho és en relació amb la pregunta o l’explicació que estam contrastant.
+
 ### 1.1. Un Univers en expansió
 
 Les observacions astronòmiques mostren que, a gran escala, les galàxies tendeixen a allunyar-se les unes de les altres. Aquesta expansió implica que, si retrocedim en el temps, la matèria i l’energia de l’Univers havien d’estar molt més concentrades que en l’actualitat.
