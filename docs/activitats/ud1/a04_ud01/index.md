@@ -80,17 +80,17 @@ En aquesta activitat no introduirem cap eina nova. Has de decidir **quina necess
 
 <div class="pv-tres-columnes">
   <div class="pv-targeta" markdown>
-  **Relacions espacials**
+  <strong>Relacions espacials</strong>
 
   Superposició, horitzontalitat original, continuïtat, tall i inclusió.
   </div>
   <div class="pv-targeta" markdown>
-  **Buits del registre**
+  <strong>Buits del registre</strong>
 
   Discordances, erosió, manca de sedimentació i hiats.
   </div>
   <div class="pv-targeta" markdown>
-  **Marcadors temporals**
+  <strong>Marcadors temporals</strong>
 
   Fòssils i edats radiomètriques per acotar esdeveniments.
   </div>
@@ -249,17 +249,17 @@ En el repte individual combina:
 
 <div class="pv-tres-columnes">
   <div class="pv-targeta" markdown>
-  **Data numèrica**
+  <strong>Data numèrica</strong>
 
   Una roca o procés concret ha estat datat.
   </div>
   <div class="pv-targeta" markdown>
-  **Interval acotat**
+  <strong>Interval acotat</strong>
 
   L'esdeveniment ha de caure entre dos límits temporals.
   </div>
   <div class="pv-targeta" markdown>
-  **Ordre relatiu**
+  <strong>Ordre relatiu</strong>
 
   Només podem afirmar abans/després.
   </div>
