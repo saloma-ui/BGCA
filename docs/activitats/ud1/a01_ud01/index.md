@@ -77,6 +77,8 @@ La taula representa un conjunt **simplificat de dades** que reprodueix un patró
   </div>
 </div>
 
+> **Consulta el material guia abans de continuar:** [observació, evidència, inferència i model](../../../material/ud1/ud1.md#1-de-lorigen-de-lunivers-a-la-formacio-de-la-terra)
+
 <!-- DOCENT: Fer verbalitzar la diferència entre descriure una relació i explicar-ne la causa. -->
 
 </section>
