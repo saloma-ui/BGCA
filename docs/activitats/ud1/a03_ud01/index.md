@@ -244,6 +244,10 @@ Dos minerals:
 
 # 9 · Una data no parla tota sola
 
+Fins ara hem utilitzat els isòtops com un rellotge per calcular quant de temps ha transcorregut. Però obtenir un número no basta. Per interpretar una edat radiomètrica hem de saber **quan va començar a funcionar aquell rellotge**, si el sistema s'ha mantingut **tancat** i **quin procés geològic representa** la data obtinguda.
+
+[Consulta el material guia: **6.4 · Els isòtops com a rellotges geològics**](../../../material/ud1/ud1.md#64-els-isotops-com-a-rellotges-geologics) · [**6.5 · No totes les roques es poden datar directament de la mateixa manera**](../../../material/ud1/ud1.md#65-no-totes-les-roques-es-poden-datar-directament-de-la-mateixa-manera)
+
 <p class="pv-pregunta"><strong>Què representa realment una edat radiomètrica?</strong></p>
 
 <div class="pv-termes" data-pv-classificacio>
@@ -254,6 +258,8 @@ Dos minerals:
 </div>
 
 > Una datació és útil geològicament només si sabem **què s'ha datat** i **quin esdeveniment representa el rellotge isotòpic**.
+
+[Consulta el material guia: **7.1 · Situar una edat dins una seqüència d'esdeveniments**](../../../material/ud1/ud1.md#71-situar-una-edat-dins-una-sequencia-desdeveniments)
 
 </section>
 
