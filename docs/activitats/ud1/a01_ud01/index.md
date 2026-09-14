@@ -182,17 +182,17 @@ En un mineral d'un meteorit s'obté una edat radiomètrica aproximada de **4.560
 
 <div class="pv-tres-columnes">
   <div class="pv-targeta" markdown>
-  **Mesura**
+  <strong>Mesura</strong>
 
   Proporcions o abundàncies d'isòtops en una mostra.
   </div>
   <div class="pv-targeta" markdown>
-  **Model físic**
+  <strong>Model físic</strong>
 
   Coneixem el comportament de la desintegració radioactiva.
   </div>
   <div class="pv-targeta" markdown>
-  **Inferència**
+  <strong>Inferència</strong>
 
   A partir de les mesures i del model estimam una edat.
   </div>
