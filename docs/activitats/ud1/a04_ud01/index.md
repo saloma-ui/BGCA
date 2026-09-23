@@ -225,6 +225,8 @@ El repte final d'aquesta activitat es resol en una **fitxa individual separada**
 
 Aquesta fitxa constitueix l'**evidència formal d'avaluació del CA 4.1**: hauràs de seleccionar i combinar dades i relacions geològiques per reconstruir una història coherent, justificar les inferències temporals i distingir entre allò que les evidències permeten establir i allò que no es pot determinar.
 
+[Obre la fitxa individual · CA 4.1 (PDF)](fitxes/a04_ud01_fitxa_individual_ca4_1.pdf)
+
 > Quan hagis lliurat la fitxa, tornarem a l'activitat interactiva per revisar errors típics i consolidar les idees clau.
 
 <!-- DOCENT: La fitxa individual separada substitueix els antics punts 9–12 de la versió interactiva i constitueix l'evidència formal de CA 4.1. -->
