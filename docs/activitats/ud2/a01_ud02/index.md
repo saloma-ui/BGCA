@@ -225,13 +225,75 @@ Quan hagis desat les tres estacions, aquesta taula recuperarà les teves respost
 
 </section>
 
-<section class="pv-seccio" markdown>
+<section class="pv-seccio" id="classificacio-fonts" markdown>
 
 # 4 · Què tenen en comú?
 
-**Pendent de construir en el següent prototip.**
+Ara ja tens tres fonts d’informació diferents. **No et donarem encara el nom de les categories.**
 
-La interacció permetrà agrupar **perforació · xenòlit · registre sísmic** sense mostrar inicialment les categories. Després de justificar l’agrupació, emergiran els conceptes **mètode directe** i **mètode indirecte**.
+<p class="pv-pregunta"><strong>Pots agrupar perforació, xenòlit i registre sísmic en dos grups segons el tipus d’informació que obtenim?</strong></p>
+
+<div class="pv-classifica-fonts" data-pv-fonts-classification>
+<p>Assigna cada font a <strong>Grup 1</strong> o <strong>Grup 2</strong>. Els noms dels grups no tenen significat: el criteri l’has de decidir tu.</p>
+
+<div class="pv-fonts-grid">
+<article class="pv-font-card" data-pv-font="perforacio">
+<h3>Perforació</h3>
+<p>Podem extreure mostres i fer mesures a les profunditats que travessa la perforació.</p>
+<div class="pv-grup-botons" role="group" aria-label="Assigna Perforació a un grup">
+<button type="button" data-pv-group="1" aria-pressed="false">Grup 1</button>
+<button type="button" data-pv-group="2" aria-pressed="false">Grup 2</button>
+</div>
+</article>
+
+<article class="pv-font-card" data-pv-font="xenolit">
+<h3>Xenòlit</h3>
+<p>Tenim un fragment real de roca que ha estat transportat cap a la superfície.</p>
+<div class="pv-grup-botons" role="group" aria-label="Assigna Xenòlit a un grup">
+<button type="button" data-pv-group="1" aria-pressed="false">Grup 1</button>
+<button type="button" data-pv-group="2" aria-pressed="false">Grup 2</button>
+</div>
+</article>
+
+<article class="pv-font-card" data-pv-font="registre">
+<h3>Registre sísmic</h3>
+<p>Mesuram a la superfície un efecte produït per ones que han travessat l’interior.</p>
+<div class="pv-grup-botons" role="group" aria-label="Assigna Registre sísmic a un grup">
+<button type="button" data-pv-group="1" aria-pressed="false">Grup 1</button>
+<button type="button" data-pv-group="2" aria-pressed="false">Grup 2</button>
+</div>
+</article>
+</div>
+
+<label class="pv-label" for="criteri-classificacio">Quin criteri has utilitzat per separar les tres fonts?</label>
+<textarea id="criteri-classificacio" rows="3" data-pv-classify-criterion placeholder="Explica en una frase què tenen en comú les fonts que has posat al mateix grup..."></textarea>
+
+<div class="pv-accions">
+<button type="button" class="pv-boto-principal" data-pv-classify-check>Comprova l’agrupació</button>
+<span class="pv-estat" data-pv-classify-status aria-live="polite"></span>
+</div>
+
+<div class="pv-classificacio-revela" data-pv-classify-reveal hidden>
+<h3>Ara podem posar nom als dos tipus de mètodes</h3>
+<div class="pv-dos-metodes">
+<div>
+<h4>Mètodes directes</h4>
+<p><strong>Perforació · Xenòlit</strong></p>
+<p>Obtenim <strong>materials de l’interior terrestre</strong> que podem observar, mesurar o analitzar.</p>
+</div>
+<div>
+<h4>Mètodes indirectes</h4>
+<p><strong>Registre sísmic</strong></p>
+<p>No obtenim el material profund: <strong>mesuram un efecte</strong> i, a partir d’aquestes dades, inferim propietats de l’interior.</p>
+</div>
+</div>
+<div class="pv-nota-conceptual">
+<strong>Important:</strong> «directe» no vol dir «sense interpretació». Un xenòlit és una mostra real, però encara hem d’interpretar d’on prové, si s’ha modificat durant el transport i fins a quin punt representa la regió profunda.
+</div>
+</div>
+</div>
+
+<!-- DOCENT: L'objectiu és que la classificació emergeixi després d'haver distingit dada i inferència a les tres estacions. No donar les etiquetes directe/indirecte abans que l'alumnat hagi intentat construir el criteri. -->
 
 </section>
 
