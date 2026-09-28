@@ -1,0 +1,121 @@
+/* Punt 4 · Classificació de fonts d'informació */
+.presentacio-vertical .pv-classifica-fonts {
+  max-width: 980px;
+  margin: 1.4rem auto 0;
+}
+
+.presentacio-vertical .pv-fonts-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0 1.4rem;
+}
+
+.presentacio-vertical .pv-font-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.7rem;
+  background: var(--md-code-bg-color);
+}
+
+.presentacio-vertical .pv-font-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+}
+
+.presentacio-vertical .pv-font-card p {
+  flex: 1;
+  margin-top: 0;
+}
+
+.presentacio-vertical .pv-grup-botons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55rem;
+  margin-top: 0.8rem;
+}
+
+.presentacio-vertical .pv-grup-botons button {
+  min-height: 2.6rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.presentacio-vertical .pv-grup-botons button:hover,
+.presentacio-vertical .pv-grup-botons button:focus-visible {
+  border-color: var(--md-primary-fg-color);
+  outline: none;
+}
+
+.presentacio-vertical .pv-grup-botons button.pv-grup-actiu {
+  border-color: var(--md-primary-fg-color);
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.presentacio-vertical .pv-classifica-fonts textarea {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+  min-height: 5.2rem;
+  padding: 0.75rem 0.85rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  line-height: 1.45;
+}
+
+.presentacio-vertical .pv-classificacio-revela {
+  margin-top: 1.4rem;
+  padding: 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.75rem;
+  background: var(--md-default-bg-color);
+}
+
+.presentacio-vertical .pv-classificacio-revela[hidden] {
+  display: none;
+}
+
+.presentacio-vertical .pv-dos-metodes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.presentacio-vertical .pv-dos-metodes > div {
+  padding: 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.65rem;
+  background: var(--md-code-bg-color);
+}
+
+.presentacio-vertical .pv-dos-metodes h4 {
+  margin-top: 0;
+}
+
+.presentacio-vertical .pv-nota-conceptual {
+  margin-top: 1rem;
+  padding: 0.95rem 1rem;
+  border-left: 0.25rem solid var(--md-primary-fg-color);
+  background: var(--md-code-bg-color);
+}
+
+@media screen and (max-width: 760px) {
+  .presentacio-vertical .pv-fonts-grid,
+  .presentacio-vertical .pv-dos-metodes {
+    grid-template-columns: 1fr;
+  }
+}
