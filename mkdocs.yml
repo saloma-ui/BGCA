@@ -72,8 +72,10 @@ markdown_extensions:
 extra_css:
   - presentacio.css
   - a01_ud02.css
+  - a01_ud02_classificacio.css
 
 extra_javascript:
   - interaccio.js
+  - a01_ud02_classificacio.js
   - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
