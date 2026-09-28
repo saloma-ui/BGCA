@@ -1,3 +1,56 @@
+const PV_A01_UD02_STORAGE_KEY = "bgca:a01_ud02:v1";
+
+function pvA01LlegeixEstat() {
+  try {
+    const raw = localStorage.getItem(PV_A01_UD02_STORAGE_KEY);
+    const estat = raw ? JSON.parse(raw) : {};
+    if (!estat.hipotesis) estat.hipotesis = {};
+    if (!estat.estacions) estat.estacions = {};
+    return estat;
+  } catch (error) {
+    return { hipotesis: {}, estacions: {} };
+  }
+}
+
+function pvA01DesaEstat(estat) {
+  try {
+    localStorage.setItem(PV_A01_UD02_STORAGE_KEY, JSON.stringify(estat));
+    return true;
+  } catch (error) {
+    return false;
+  }
+}
+
+function pvA01ActualitzaResum() {
+  const estat = pvA01LlegeixEstat();
+  const ids = ["perforacio", "xenolit", "registre"];
+  const completades = ids.filter((id) => estat.estacions[id]?.complet).length;
+
+  document.querySelectorAll("[data-pv-stations-count]").forEach((node) => {
+    node.textContent = `${completades} de 3 estacions completades`;
+  });
+
+  document.querySelectorAll("[data-pv-stations-bar]").forEach((node) => {
+    node.style.width = `${(completades / 3) * 100}%`;
+  });
+
+  document.querySelectorAll("[data-pv-summary]").forEach((cell) => {
+    const [id, camp] = cell.dataset.pvSummary.split(".");
+    const valor = estat.estacions[id]?.[camp]?.trim();
+    cell.textContent = valor || "—";
+  });
+
+  document.querySelectorAll("[data-pv-summary-status]").forEach((node) => {
+    if (completades === 3) {
+      node.textContent = "Has completat les tres estacions. Ara ja pots comparar les fonts d’informació.";
+      node.classList.add("pv-desa");
+    } else {
+      node.textContent = `Completa i desa les tres estacions per tenir la síntesi sencera (${completades}/3).`;
+      node.classList.remove("pv-desa");
+    }
+  });
+}
+
 function inicialitzaInteraccionsPresentacio() {
   document.querySelectorAll("[data-pv-quiz]").forEach((quiz) => {
     if (quiz.dataset.pvReady === "true") return;
@@ -130,6 +183,103 @@ function inicialitzaInteraccionsPresentacio() {
 
     pinta(0, "rang");
   });
+
+  document.querySelectorAll("[data-pv-hipotesis]").forEach((bloc) => {
+    if (bloc.dataset.pvReady === "true") return;
+    bloc.dataset.pvReady = "true";
+
+    const h1 = bloc.querySelector('[data-pv-hyp="1"]');
+    const h2 = bloc.querySelector('[data-pv-hyp="2"]');
+    const desa = bloc.querySelector("[data-pv-hyp-save]");
+    const estatNode = bloc.querySelector("[data-pv-hyp-status]");
+    if (!h1 || !h2 || !desa || !estatNode) return;
+
+    const estat = pvA01LlegeixEstat();
+    h1.value = estat.hipotesis?.h1 || "";
+    h2.value = estat.hipotesis?.h2 || "";
+    if (h1.value && h2.value) {
+      estatNode.textContent = "Hipòtesis recuperades d’aquest dispositiu.";
+      estatNode.classList.add("pv-desa");
+    }
+
+    desa.addEventListener("click", () => {
+      const v1 = h1.value.trim();
+      const v2 = h2.value.trim();
+      estatNode.classList.remove("pv-error", "pv-desa");
+
+      if (!v1 || !v2) {
+        estatNode.textContent = "Escriu dues possibilitats abans de desar.";
+        estatNode.classList.add("pv-error");
+        return;
+      }
+
+      const nouEstat = pvA01LlegeixEstat();
+      nouEstat.hipotesis = { h1: v1, h2: v2 };
+      const ok = pvA01DesaEstat(nouEstat);
+      estatNode.textContent = ok
+        ? "Hipòtesis desades en aquest dispositiu. Les recuperarem més endavant."
+        : "No s’han pogut desar al navegador. Mantén aquesta pàgina oberta o copia les respostes.";
+      estatNode.classList.add(ok ? "pv-desa" : "pv-error");
+    });
+  });
+
+  document.querySelectorAll("[data-pv-station]").forEach((bloc) => {
+    if (bloc.dataset.pvReady === "true") return;
+    bloc.dataset.pvReady = "true";
+
+    const id = bloc.dataset.pvStation;
+    const inputs = {
+      directe: bloc.querySelector('[data-pv-station-answer="directe"]'),
+      inferencia: bloc.querySelector('[data-pv-station-answer="inferencia"]'),
+      clau: bloc.querySelector('[data-pv-station-answer="clau"]')
+    };
+    const desa = bloc.querySelector("[data-pv-station-save]");
+    const estatNode = bloc.querySelector("[data-pv-station-status]");
+    const seguent = bloc.querySelector("[data-pv-station-next]");
+
+    if (!id || !inputs.directe || !inputs.inferencia || !inputs.clau || !desa || !estatNode) return;
+
+    const estat = pvA01LlegeixEstat();
+    const desada = estat.estacions?.[id];
+    if (desada) {
+      inputs.directe.value = desada.directe || "";
+      inputs.inferencia.value = desada.inferencia || "";
+      inputs.clau.value = desada.clau || "";
+      if (desada.complet) {
+        estatNode.textContent = "Estació recuperada d’aquest dispositiu.";
+        estatNode.classList.add("pv-desa");
+        if (seguent) seguent.hidden = false;
+      }
+    }
+
+    desa.addEventListener("click", () => {
+      const resposta = {
+        directe: inputs.directe.value.trim(),
+        inferencia: inputs.inferencia.value.trim(),
+        clau: inputs.clau.value.trim()
+      };
+      estatNode.classList.remove("pv-error", "pv-desa");
+
+      if (!resposta.directe || !resposta.inferencia || !resposta.clau) {
+        estatNode.textContent = "Respon les tres preguntes abans de continuar.";
+        estatNode.classList.add("pv-error");
+        return;
+      }
+
+      const nouEstat = pvA01LlegeixEstat();
+      nouEstat.estacions[id] = { ...resposta, complet: true };
+      const ok = pvA01DesaEstat(nouEstat);
+
+      estatNode.textContent = ok
+        ? "Estació desada. Pots continuar."
+        : "No s’ha pogut desar al navegador. Mantén aquesta pàgina oberta o copia les respostes.";
+      estatNode.classList.add(ok ? "pv-desa" : "pv-error");
+      if (ok && seguent) seguent.hidden = false;
+      pvA01ActualitzaResum();
+    });
+  });
+
+  pvA01ActualitzaResum();
 }
 
 if (typeof document$ !== "undefined") {
