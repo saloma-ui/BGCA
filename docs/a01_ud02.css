@@ -111,19 +111,22 @@
 
 .presentacio-vertical .pv-earth-guess-dot {
   fill: var(--md-accent-fg-color);
-  stroke: var(--md-default-bg-color);
-  stroke-width: 3;
+  stroke: transparent;
+  stroke-width: 28;
+  paint-order: stroke fill;
+  pointer-events: all;
   cursor: ns-resize;
-  transition: r 100ms ease;
+  touch-action: none;
 }
 
 .presentacio-vertical .pv-earth-guess-dot:hover,
 .presentacio-vertical .pv-earth-guess-dot:focus {
-  r: 13px;
+  outline: none;
+  filter: brightness(0.9);
 }
 
 .presentacio-vertical .pv-profunditat-visual.pv-arrossegant .pv-earth-guess-dot {
-  r: 14px;
+  cursor: grabbing;
 }
 
 .presentacio-vertical .pv-profunditat.pv-revelat .pv-earth-guess-dot {
