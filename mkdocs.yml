@@ -53,7 +53,9 @@ nav:
           - A02 · Ordenam el registre geològic: activitats/ud1/a02_ud01/index.md
           - A03 · Posam edat al registre: activitats/ud1/a03_ud01/index.md
           - A04 · Reconstruïm una història geològica: activitats/ud1/a04_ud01/index.md
-      - UD2: activitats/ud2/index.md
+      - UD2:
+          - Índex: activitats/ud2/index.md
+          - A01 · Com sabem què hi ha dins la Terra?: activitats/ud2/a01_ud02/index.md
       - UD3: activitats/ud3/index.md
       - UD4: activitats/ud4/index.md
 
@@ -69,6 +71,7 @@ markdown_extensions:
 
 extra_css:
   - presentacio.css
+  - a01_ud02.css
 
 extra_javascript:
   - interaccio.js
