@@ -122,7 +122,7 @@ function inicialitzaInteraccionsPresentacio() {
       comprova.disabled = !teValor;
       sortida.textContent = teValor
         ? `La teva estimació: ${Math.round(v).toLocaleString("ca-ES")} km`
-        : "Fes una estimació";
+        : "";
 
       if (linia && punt) {
         const y = 28 + (132 * v / 6371);
