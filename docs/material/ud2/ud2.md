@@ -8,9 +8,9 @@ En aquesta unitat estudiarem **quines fonts d’energia mantenen activa la Terra
 
 ---
 
-## 0. Una Terra en canvi
+## 1. Una Terra en canvi
 
-### 0.1. La Terra és un sistema
+### 1.1. La Terra és un sistema
 
 La Terra no és simplement una esfera de roca envoltada d’aire i aigua. Podem considerar-la un **sistema format per diferents components que interaccionen contínuament**:
 
@@ -25,7 +25,7 @@ Per exemple, l’aigua de pluja pot penetrar per les fractures d’una roca i al
 
 Per entendre la dinàmica terrestre, per tant, no basta estudiar cada component per separat: cal estudiar també **els fluxos de matèria i energia que els connecten**.
 
-### 0.2. D’on prové l’energia dels processos terrestres?
+### 1.2. D’on prové l’energia dels processos terrestres?
 
 Els canvis que observam a la Terra requereixen energia. Podem distingir dues grans fonts.
 
@@ -75,7 +75,7 @@ Aquesta separació és útil, però no significa que siguin dos sistemes indepen
 
 ---
 
-## 1. Com sabem què hi ha dins la Terra?
+## 2. Com sabem què hi ha dins la Terra?
 
 El radi mitjà de la Terra és d’uns **6.371 km**. En canvi, les perforacions humanes només han penetrat una fracció diminuta d’aquesta distància.
 
@@ -89,7 +89,7 @@ La resposta és una idea fonamental de les ciències de la Terra:
 
 La major part del nostre coneixement sobre l’interior terrestre prové, per tant, de **proves indirectes**.
 
-### 1.1. Mètodes directes i indirectes
+### 2.1. Mètodes directes i indirectes
 
 Els mètodes d’estudi de l’interior terrestre es poden agrupar en dos grans tipus.
 
@@ -126,7 +126,7 @@ Cap d’aquests mètodes proporciona tota la informació per si sol. La força d
 
 ![Mètodes d’estudi de l’interior terrestre](figures/00-01_sistema_i_interior/f02_metodes_estudi_interior_terrestre.png)
 
-### 1.2. Els terratrèmols ens permeten explorar l’interior
+### 2.2. Els terratrèmols ens permeten explorar l’interior
 
 Quan es produeix un terratrèmol, l’energia alliberada es propaga en forma d’**ones sísmiques**.
 
@@ -165,7 +165,7 @@ A diferència de les ones P:
 
 Aquesta propietat és especialment important per investigar l’interior de la Terra.
 
-### 1.3. Les ones canvien quan canvia el medi
+### 2.3. Les ones canvien quan canvia el medi
 
 Les ones sísmiques no viatgen sempre a la mateixa velocitat ni segueixen necessàriament una trajectòria recta.
 
@@ -184,7 +184,7 @@ L’estudi d’aquestes discontinuïtats ha permès deduir que l’interior de l
 
 ![Comparació conceptual entre ones P i S i refracció](figures/00-01_sistema_i_interior/f03_ones_p_s_i_refraccio.png)
 
-### 1.4. Les zones d’ombra: una evidència d’un nucli diferent del mantell
+### 2.4. Les zones d’ombra: una evidència d’un nucli diferent del mantell
 
 Si l’interior terrestre fos homogeni, podríem predir aproximadament com es propagarien les ones produïdes per un terratrèmol.
 
@@ -209,7 +209,7 @@ Això mostra una diferència fonamental entre una observació i una inferència:
 
 **Inferència:** a l’interior existeixen materials amb propietats i estats físics diferents.
 
-### 1.5. Quan les dades no encaixen amb el model
+### 2.5. Quan les dades no encaixen amb el model
 
 Un model científic no és una còpia exacta de la realitat. És una representació que intenta explicar les observacions disponibles i fer prediccions.
 
@@ -234,7 +234,7 @@ Aquest cas il·lustra una característica fonamental de la ciència:
 
 Això no significa necessàriament que el model anterior fos inútil. Sovint explicava correctament moltes observacions, però les noves dades mostraven que era **incomplet**.
 
-### 1.6. Dos models per descriure l’interior terrestre
+### 2.6. Dos models per descriure l’interior terrestre
 
 No existeix una única manera de dividir l’interior del planeta.
 
@@ -280,7 +280,7 @@ Un sòlid pot comportar-se de manera rígida a escala de segons i, al mateix tem
 
 ![Models geoquímic i geodinàmic de l’interior terrestre](figures/00-01_sistema_i_interior/f04_models_geoquimic_i_geodinamic.png)
 
-### 1.7. Un model sostingut per evidències
+### 2.7. Un model sostingut per evidències
 
 Quan representem l’interior terrestre amb capes ben delimitades és fàcil oblidar que ningú no les ha observades directament.
 
@@ -303,7 +303,7 @@ Els models científics no són simples opinions. Estan limitats per les evidènc
 
 ---
 
-## 2. Com construírem la teoria de la tectònica de plaques?
+## 3. Com construírem la teoria de la tectònica de plaques?
 
 Avui sabem que la superfície rígida de la Terra està fragmentada en **plaques litosfèriques que es mouen unes respecte de les altres**. Aquest model permet explicar conjuntament la distribució dels terratrèmols i volcans, la formació de serralades, l’obertura i el tancament d’oceans i molts altres processos geològics.
 
@@ -315,7 +315,7 @@ La tectònica de plaques és, per tant, un bon exemple de com es construeix el c
 
 **observacions → hipòtesis → problemes → noves dades → revisió dels models → teoria més explicativa**
 
-### 2.1. Els continents conserven indicis d’un passat diferent
+### 3.1. Els continents conserven indicis d’un passat diferent
 
 Molt abans que existís la tectònica de plaques ja s’havien observat semblances entre continents avui separats per oceans.
 
@@ -345,7 +345,7 @@ Aquestes observacions poden explicar-se si **els continents han canviat de posic
 
 > **Una sola coincidència pot tenir diverses explicacions. La força d’una hipòtesi augmenta quan diferents tipus d’evidències independents convergeixen en una mateixa interpretació.**
 
-### 2.2. Wegener i la deriva continental
+### 3.2. Wegener i la deriva continental
 
 A començaments del segle XX, **Alfred Wegener** va reunir diferents evidències i va defensar que els continents no havien ocupat sempre la seva posició actual.
 
@@ -368,7 +368,7 @@ Això és important per entendre com funciona la ciència. Les evidències de We
 
 Per avançar feien falta dades que en aquella època encara no teníem.
 
-### 2.3. El fons oceànic deixa de ser una regió desconeguda
+### 3.3. El fons oceànic deixa de ser una regió desconeguda
 
 Durant molt de temps es coneixia molt millor la geologia dels continents que la dels oceans.
 
@@ -395,7 +395,7 @@ La importància d’aquest resultat no consistia simplement a haver descobert un
 
 Les noves tècniques havien fet visible una part del planeta que fins aleshores coneixíem molt poc.
 
-### 2.4. El fons oceànic es forma i es renova
+### 3.4. El fons oceànic es forma i es renova
 
 Les investigacions posteriors varen aportar una altra dada sorprenent: **les roques del fons oceànic no tenen totes la mateixa edat**.
 
@@ -424,7 +424,7 @@ Els continents no necessitaven obrir-se pas de manera independent a través d’
 
 ![Com es renova el fons oceànic](figures/02_tectonica_plaques/f02_com_es_renova_el_fons_oceanic.png)
 
-### 2.5. Les roques oceàniques enregistren el camp magnètic
+### 3.5. Les roques oceàniques enregistren el camp magnètic
 
 Una de les evidències més potents de l’expansió oceànica prové del **paleomagnetisme**.
 
@@ -455,7 +455,7 @@ L’edat de les roques proporciona una segona comprovació independent: també �
 
 ![Paleomagnetisme i expansió del fons oceànic](figures/02_tectonica_plaques/f03_paleomagnetisme_i_expansio_fons_oceanic.png)
 
-### 2.6. Terratrèmols i volcans dibuixen els límits de les plaques
+### 3.6. Terratrèmols i volcans dibuixen els límits de les plaques
 
 Una altra evidència important prové de la distribució mundial de la **sismicitat i el vulcanisme**.
 
@@ -482,7 +482,7 @@ Un bon model científic és valuós precisament perquè **explica moltes observa
 
 ![De la deriva continental a la tectònica de plaques](figures/02_tectonica_plaques/f01_deriva_continental_a_tectonica_plaques.png)
 
-### 2.7. La tectònica de plaques: un model unificador
+### 3.7. La tectònica de plaques: un model unificador
 
 Segons la teoria de la tectònica de plaques, la **litosfera** està fragmentada en plaques que es desplacen unes respecte de les altres sobre zones del mantell que poden deformar-se lentament.
 
@@ -507,7 +507,7 @@ El que ens interessarà a partir d’ara és utilitzar-la per respondre pregunte
 
 És a dir, passarem de **conèixer el model** a **utilitzar-lo per explicar i predir processos geològics**.
 
-### 2.8. La ciència no avança com una successió de descobriments individuals
+### 3.8. La ciència no avança com una successió de descobriments individuals
 
 La història de la tectònica de plaques podria explicar-se com una llista de noms:
 
@@ -552,7 +552,7 @@ La idea de mobilitat continental va aportar una part important del problema. Les
 
 ---
 
-## 3. Com transforma els materials una Terra activa?
+## 4. Com transforma els materials una Terra activa?
 
 La tectònica de plaques no només modifica la posició dels continents i genera relleus. També crea condicions de **pressió, temperatura, deformació i circulació de fluids** que poden transformar profundament els materials terrestres.
 
@@ -570,7 +570,7 @@ però també:
 
 **característiques d’una roca → procés de formació → possible context geològic**
 
-### 3.1. Utilitzar la tectònica per fer prediccions
+### 4.1. Utilitzar la tectònica per fer prediccions
 
 Ja coneixem els principals tipus de límits de plaques. Ara ens interessa utilitzar aquest model per predir què pot passar amb els materials.
 
@@ -603,7 +603,7 @@ Per tant, conèixer el context tectònic ens permet formular **prediccions contr
 
 > **Recorda:** no totes les vores convergents produeixen exactament els mateixos fenòmens. Una subducció oceànica i una col·lisió entre dos continents són totes dues convergents, però les condicions i els processos resultants són diferents.
 
-### 3.2. Per què es formen els magmes?
+### 4.2. Per què es formen els magmes?
 
 Una idea molt habitual és pensar:
 
@@ -670,7 +670,7 @@ Aquests mecanismes no són necessàriament excloents. En una situació geològic
 
 ![Tres mecanismes de fusió parcial](figures/03_transformacio_materials/f01_3-2_tres_mecanismes_fusio_parcial.png)
 
-### 3.3. Del magma a les roques ígnies
+### 4.3. Del magma a les roques ígnies
 
 El **magma** és una mescla de material fos, cristalls i substàncies volàtils situada a l’interior terrestre.
 
@@ -720,7 +720,7 @@ Una roca no s’interpreta només identificant de què està composta. També he
 
 ![Del magma a la textura de la roca](figures/03_transformacio_materials/f02_3-3_del_magma_a_la_textura_roca.png)
 
-### 3.4. Metamorfisme: transformar una roca sense fondre-la
+### 4.4. Metamorfisme: transformar una roca sense fondre-la
 
 Una roca no necessita fondre’s per experimentar transformacions profundes.
 
@@ -767,7 +767,7 @@ La intensitat de la transformació tendeix a disminuir en allunyar-nos de la int
 
 ![Metamorfisme: transformar sense fondre](figures/03_transformacio_materials/f03_3-4_metamorfisme_transformar_sense_fondre.png)
 
-### 3.5. Minerals: els components de moltes roques
+### 4.5. Minerals: els components de moltes roques
 
 Una roca està formada habitualment per un o més **minerals**.
 
@@ -838,7 +838,7 @@ No totes les proves serveixen per a tots els minerals.
 
 La identificació correcta consisteix a cercar **la combinació d’evidències que discrimina millor entre diferents possibilitats**.
 
-### 3.6. La composició química també permet classificar els minerals
+### 4.6. La composició química també permet classificar els minerals
 
 A més de les propietats físiques, els minerals es poden agrupar segons la seva **composició química i estructura**.
 
@@ -862,7 +862,7 @@ No és necessari identificar un mineral només a partir de la seva fórmula quí
 
 per arribar a una identificació fiable.
 
-### 3.7. Les roques es classifiquen segons el seu origen
+### 4.7. Les roques es classifiquen segons el seu origen
 
 Una **roca** és un material geològic natural constituït generalment per un agregat d’un o més minerals.
 
@@ -886,7 +886,7 @@ Les **roques sedimentàries** les comprendrem millor quan estudiem els processos
 
 Aquesta distribució és deliberada: en lloc de memoritzar tres llistes de roques, relacionam cada grup amb **els processos que realment les formen**.
 
-### 3.8. Les roques formen part d’un sistema de transformacions
+### 4.8. Les roques formen part d’un sistema de transformacions
 
 Les roques poden experimentar moltes transformacions durant la història geològica.
 
@@ -938,7 +938,7 @@ La matèria rocosa es reutilitza contínuament, però els camins depenen de la h
 
 ---
 
-## 4. Com es transforma el paisatge?
+## 5. Com es transforma el paisatge?
 
 Quan observam un paisatge, veim el resultat d’una història.
 
@@ -954,7 +954,7 @@ Els processos externs **transformen i redistribueixen els materials**. Poden reb
 
 El paisatge és, per tant, el resultat d’una interacció contínua.
 
-### 4.1. L’atmosfera: molt més que l’aire que respiram
+### 5.1. L’atmosfera: molt més que l’aire que respiram
 
 L’**atmosfera** és l’embolcall gasós que envolta la Terra.
 
@@ -982,7 +982,7 @@ A diferència de la troposfera, dins bona part de l’estratosfera la temperatur
 
 Per damunt hi ha altres capes —mesosfera i termosfera, entre d’altres—, però no necessitam estudiar-les amb el mateix detall per comprendre la dinàmica geològica superficial.
 
-### 4.2. Per què es mou l’atmosfera?
+### 5.2. Per què es mou l’atmosfera?
 
 La superfície terrestre **no rep la mateixa quantitat d’energia solar a tot arreu**.
 
@@ -998,7 +998,7 @@ i condiciona les precipitacions, l’evaporació i, en conseqüència, molts del
 
 L’atmosfera no erosiona necessàriament una roca directament. Però la seva dinàmica condiciona la temperatura, les precipitacions, el vent i la disponibilitat d’aigua, i aquests factors controlen molts processos de meteorització i erosió.
 
-### 4.3. La hidrosfera: aigua en moviment
+### 5.3. La hidrosfera: aigua en moviment
 
 La **hidrosfera** inclou tota l’aigua de la Terra, independentment de l’estat o del lloc on es trobi.
 
@@ -1026,7 +1026,7 @@ Per això, el cicle de l’aigua és també un dels grans motors del modelatge d
 
 ![Atmosfera, hidrosfera i gravetat: motors del modelatge superficial](figures/04_transformacio_paisatge/f01_4-1_atmosfera_hidrosfera_gravetat.png)
 
-### 4.4. Meteorització: transformar la roca sense transportar-la
+### 5.4. Meteorització: transformar la roca sense transportar-la
 
 Una roca exposada a la superfície entra en contacte amb aigua, aire, canvis de temperatura i organismes.
 
@@ -1060,7 +1060,7 @@ La meteorització física i la química **no actuen necessàriament per separat*
 
 Els organismes també poden intervenir en tots dos tipus de processos.
 
-### 4.5. Meteorització, erosió, transport i sedimentació no són sinònims
+### 5.5. Meteorització, erosió, transport i sedimentació no són sinònims
 
 Aquests quatre conceptes descriuen processos diferents i convé distingir-los amb precisió.
 
@@ -1086,7 +1086,7 @@ Un material pot meteoritzar-se i continuar al mateix lloc durant molt de temps. 
 
 ![Quatre situacions en la transformació d’un aflorament](figures/04_transformacio_paisatge/f02_4-2_transformacio_aflorament.png)
 
-### 4.6. Els agents geològics externs
+### 5.6. Els agents geològics externs
 
 Diversos agents poden erosionar, transportar i dipositar materials.
 
@@ -1109,7 +1109,7 @@ Per exemple, en un penya-segat litoral poden intervenir l’onatge, la meteoritz
 
 Per tant, interpretar un paisatge consisteix sovint a identificar **quin conjunt de processos explica millor les observacions**, no a cercar una única causa.
 
-### 4.7. La roca també condiciona el paisatge
+### 5.7. La roca també condiciona el paisatge
 
 Dues zones sotmeses a un clima semblant poden desenvolupar paisatges molt diferents.
 
@@ -1139,7 +1139,7 @@ Però també:
 
 ![Mateix clima, roques diferents: respostes diferents](figures/04_transformacio_paisatge/f03_4-3_litologia_respostes_paisatge.png)
 
-### 4.8. Un cas especialment important: el modelatge càrstic
+### 5.8. Un cas especialment important: el modelatge càrstic
 
 Les **calcàries** estan constituïdes principalment per calcita, un mineral format per carbonat de calci.
 
@@ -1163,7 +1163,7 @@ En aquest cas, la **composició de la roca**, la seva fracturació, la circulaci
 
 A les Illes Balears, on les roques carbonatades són molt abundants en diverses zones, el modelatge càrstic té una importància paisatgística especial.
 
-### 4.9. El relleu és el resultat d’una interacció
+### 5.9. El relleu és el resultat d’una interacció
 
 Quan interpretam un paisatge convé evitar explicacions d’una sola causa.
 
@@ -1179,7 +1179,7 @@ Per això, els processos interns i externs no constitueixen dos capítols indepe
 
 El relleu actual integra tots dos.
 
-### 4.10. De sediment a roca sedimentària
+### 5.10. De sediment a roca sedimentària
 
 Quan els materials transportats es dipositen, formen **sediments**.
 
@@ -1205,7 +1205,7 @@ Però convé no convertir aquesta seqüència en una definició universal de roc
 
 Aquesta precisió manté la coherència amb el cicle litològic del bloc anterior: la litificació no és necessàriament una única ruta idèntica per a tots els sediments.
 
-### 4.11. De la roca alterada al sòl
+### 5.11. De la roca alterada al sòl
 
 La superfície continental no està coberta simplement per roca nua.
 
@@ -1254,7 +1254,7 @@ No tots els sòls, però, han de presentar un perfil igual de desenvolupat.
 
 ![Com es forma un sòl?](figures/04_transformacio_paisatge/f04_4-11_com_es_forma_un_sol.png)
 
-### 4.12. El sòl és un recurs que es forma lentament
+### 5.12. El sòl és un recurs que es forma lentament
 
 Des del punt de vista humà, molts sòls es poden considerar un recurs de **regeneració molt lenta**.
 
@@ -1275,7 +1275,7 @@ Les diferents combinacions de roca, clima, relleu, organismes i temps originen u
 
 Aquesta diversitat té valor ecològic i condiciona també els usos possibles del territori.
 
-### 4.13. Llegir un paisatge és reconstruir processos
+### 5.13. Llegir un paisatge és reconstruir processos
 
 Una fotografia només mostra **l’estat actual** d’un paisatge.
 
@@ -1314,7 +1314,7 @@ però sempre sobre un substrat que ja té una **història geològica prèvia**.
 
 ---
 
-## 5. Com convivim amb una Terra dinàmica?
+## 6. Com convivim amb una Terra dinàmica?
 
 Els processos geològics formen part del funcionament normal de la Terra.
 
@@ -1332,7 +1332,7 @@ I en totes tres necessitam combinar:
 
 **coneixement geològic + dades + decisions humanes.**
 
-### 5.1. Un fenomen natural no és necessàriament un desastre
+### 6.1. Un fenomen natural no és necessàriament un desastre
 
 Un terratrèmol pot tenir lloc en una regió deshabitada sense causar danys humans importants.
 
@@ -1358,7 +1358,7 @@ Per analitzar-lo hem de considerar almenys tres components:
 - **exposició**;
 - **vulnerabilitat**.
 
-### 5.2. Perillositat: què pot passar?
+### 6.2. Perillositat: què pot passar?
 
 La **perillositat** descriu la possibilitat que en una zona es produeixi un fenomen potencialment perjudicial amb una determinada intensitat o magnitud durant un interval de temps.
 
@@ -1383,7 +1383,7 @@ Per tant, la perillositat és una propietat del **fenomen i del territori**, no 
 
 Dues poblacions situades en una mateixa zona poden estar sotmeses a una perillositat semblant i, tanmateix, presentar riscos molt diferents.
 
-### 5.3. Exposició: què hi ha a la zona afectable?
+### 6.3. Exposició: què hi ha a la zona afectable?
 
 L’**exposició** fa referència als elements que poden quedar afectats.
 
@@ -1404,7 +1404,7 @@ En canvi, la mateixa perillositat pot tenir conseqüències molt més importants
 
 > **La perillositat descriu el fenomen; l’exposició descriu què hi hem situat davant.**
 
-### 5.4. Vulnerabilitat: com de fàcil és que resulti danyat?
+### 6.4. Vulnerabilitat: com de fàcil és que resulti danyat?
 
 Dos edificis sotmesos a una mateixa sacsejada sísmica no necessàriament experimentaran els mateixos danys.
 
@@ -1426,7 +1426,7 @@ La vulnerabilitat no és, per tant, una característica del terratrèmol o de la
 
 Això és important perquè, a diferència de molts processos naturals, **la vulnerabilitat es pot modificar considerablement mitjançant decisions humanes**.
 
-### 5.5. El risc resulta de la combinació dels tres components
+### 6.5. El risc resulta de la combinació dels tres components
 
 Podem representar conceptualment:
 
@@ -1451,7 +1451,7 @@ Això explica per què conèixer només la probabilitat d’un fenomen **no bast
 
 ![De la perillositat al risc](figures/05_convivim_terra_dinamica/f01_5-5_de_perillositat_a_risc.png)
 
-### 5.6. El risc no és una propietat immutable del territori
+### 6.6. El risc no és una propietat immutable del territori
 
 Suposem que la perillositat sísmica d’una regió no canvia significativament durant unes dècades.
 
@@ -1473,7 +1473,7 @@ Per tant:
 
 No podem impedir que una falla acumuli tensió ni que una precipitació intensa arribi a produir-se. Però sovint sí que podem actuar sobre **on construïm, com construïm i com ens preparam**.
 
-### 5.7. Podem predir els riscos naturals?
+### 6.7. Podem predir els riscos naturals?
 
 Aquí convé distingir entre dues qüestions.
 
@@ -1513,7 +1513,7 @@ Per tant:
 
 > **no poder predir exactament un fenomen no significa que no puguem reduir-ne el risc.**
 
-### 5.8. Predicció, prevenció i correcció
+### 6.8. Predicció, prevenció i correcció
 
 Podem actuar davant els riscos naturals de maneres diferents.
 
@@ -1562,7 +1562,7 @@ La decisió ha de considerar:
 
 ![Com podem reduir un risc?](figures/05_convivim_terra_dinamica/f02_5-8_com_podem_reduir_un_risc.png)
 
-### 5.9. Prendre decisions amb informació incompleta
+### 6.9. Prendre decisions amb informació incompleta
 
 En gestionar un risc gairebé mai disposam d’informació perfecta.
 
@@ -1593,7 +1593,7 @@ Això pot afectar:
 
 > **Canviar una conclusió davant evidències noves no és un fracàs del raonament científic: és part del raonament científic.**
 
-### 5.10. La geologia també ens proporciona recursos
+### 6.10. La geologia també ens proporciona recursos
 
 La nostra relació amb la geosfera no es limita als riscos.
 
@@ -1624,7 +1624,7 @@ i no:
 
 **nom del material → memorització d’un ús.**
 
-### 5.11. Utilitzar un recurs també té conseqüències
+### 6.11. Utilitzar un recurs també té conseqüències
 
 Per disposar d’un material geològic hem de:
 
@@ -1672,7 +1672,7 @@ La gestió responsable ha de considerar preguntes més útils:
 
 ![De la roca al recurs: propietats, usos i impactes](figures/05_convivim_terra_dinamica/f03_5-10_de_roca_a_recurs.png)
 
-### 5.12. Els materials geològics també expliquen un territori
+### 6.12. Els materials geològics també expliquen un territori
 
 Les roques disponibles en un territori han influït històricament en:
 
@@ -1698,7 +1698,7 @@ En el cas de les Illes Balears, aquest enfocament ens permet treballar els mater
 
 > Quines conseqüències pot tenir la seva explotació?
 
-### 5.13. Un aflorament pot tenir valor encara que no l’explotem
+### 6.13. Un aflorament pot tenir valor encara que no l’explotem
 
 Les roques no només tenen valor com a recursos materials.
 
@@ -1735,7 +1735,7 @@ Aquests valors **poden coincidir en un mateix lloc**.
 
 ![Quan la geologia esdevé patrimoni](figures/05_convivim_terra_dinamica/f04_5-13_geologia_patrimoni.png)
 
-### 5.14. Patrimoni geològic no significa immobilitzar el territori
+### 6.14. Patrimoni geològic no significa immobilitzar el territori
 
 Considerar un lloc patrimoni geològic no implica necessàriament impedir qualsevol activitat.
 
@@ -1766,7 +1766,7 @@ Segons el cas, la gestió pot consistir en:
 - divulgació;
 - compatibilització d’usos.
 
-### 5.15. Comunicar per conservar
+### 6.15. Comunicar per conservar
 
 Per protegir un element geològic, primer l’hem de poder **explicar**.
 
@@ -1786,7 +1786,7 @@ El criteri important és:
 
 > **la informació necessària ha de ser clara, rigorosa, rellevant i estar organitzada en un format adequat al destinatari.**
 
-### 5.16. Risc, recurs i patrimoni poden coincidir en un mateix territori
+### 6.16. Risc, recurs i patrimoni poden coincidir en un mateix territori
 
 La divisió en aquests tres apartats és útil per estudiar-los, però en la realitat sovint estan connectats.
 
