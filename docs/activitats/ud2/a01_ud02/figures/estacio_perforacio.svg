@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1650" role="img" aria-labelledby="title desc">
+<title id="title">Perforació: fins on hem arribat directament dins la Terra?</title>
+<desc id="desc">Infografia educativa sobre la perforació com a font d'informació de l'interior terrestre, amb dades de profunditat, mostres obtingudes i limitacions.</desc>
+<rect width="1200" height="1650" fill="#ffffff"/>
+<rect x="55" y="45" width="1090" height="120" rx="24" fill="#e8f3fb"/>
+<text x="80" y="115" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#102a43">PERFORACIÓ</text>
+<text x="80" y="150" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#334e68">Fins on hem arribat directament dins la Terra?</text>
+<text x="70" y="220" font-family="Arial, sans-serif" font-size="25" fill="#243b53">Les perforacions permeten obtenir materials i mesures de zones superficials,</text>
+<text x="70" y="255" font-family="Arial, sans-serif" font-size="25" fill="#243b53">però arriben a una profunditat diminuta comparada amb la mida del planeta.</text>
+
+<rect x="60" y="305" width="500" height="370" rx="24" fill="#eef7ff" stroke="#2680b9" stroke-width="3"/>
+<text x="90" y="355" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#116799">Dades clau</text>
+<circle cx="150" cy="445" r="62" fill="#d9edf7" stroke="#2680b9" stroke-width="4"/>
+<path d="M110 450c25-45 65-54 96-19-9 14-18 25-17 42-20 14-54 13-79-23z" fill="#6fb66c"/>
+<text x="245" y="420" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#243b53">Radi de la Terra</text>
+<text x="245" y="460" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#102a43">6.371 km</text>
+<line x1="145" y1="540" x2="145" y2="620" stroke="#102a43" stroke-width="10"/>
+<line x1="110" y1="620" x2="180" y2="620" stroke="#102a43" stroke-width="10"/>
+<line x1="125" y1="570" x2="165" y2="570" stroke="#102a43" stroke-width="8"/>
+<text x="245" y="540" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#243b53">Perforació de Kola</text>
+<text x="245" y="580" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#102a43">12,3 km</text>
+<text x="245" y="625" font-family="Arial, sans-serif" font-size="26" fill="#486581">≈ 0,19 % del radi terrestre</text>
+
+<rect x="600" y="305" width="540" height="370" rx="24" fill="#f3faef" stroke="#66a85c" stroke-width="3"/>
+<text x="630" y="355" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#3d7b35">Què obtenim directament?</text>
+<circle cx="660" cy="430" r="15" fill="#66a85c"/><text x="700" y="440" font-family="Arial, sans-serif" font-size="27" fill="#243b53">Mostres de roca del subsòl</text>
+<circle cx="660" cy="500" r="15" fill="#66a85c"/><text x="700" y="510" font-family="Arial, sans-serif" font-size="27" fill="#243b53">Temperatura en profunditat</text>
+<circle cx="660" cy="570" r="15" fill="#66a85c"/><text x="700" y="580" font-family="Arial, sans-serif" font-size="27" fill="#243b53">Materials travessats</text>
+<circle cx="660" cy="640" r="15" fill="#66a85c"/><text x="700" y="650" font-family="Arial, sans-serif" font-size="27" fill="#243b53">Propietats mesurables in situ</text>
+
+<rect x="60" y="725" width="650" height="580" rx="26" fill="#fbfdff" stroke="#9fb3c8" stroke-width="3"/>
+<text x="90" y="775" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#102a43">L'escala del problema</text>
+<circle cx="325" cy="1025" r="210" fill="#f0f4f8" stroke="#102a43" stroke-width="5"/>
+<circle cx="325" cy="815" r="8" fill="#2680b9"/>
+<line x1="325" y1="815" x2="325" y2="1025" stroke="#9fb3c8" stroke-width="4" stroke-dasharray="12 10"/>
+<line x1="325" y1="815" x2="325" y2="819" stroke="#e67e22" stroke-width="12" stroke-linecap="round"/>
+<text x="115" y="1270" font-family="Arial, sans-serif" font-size="25" fill="#486581">A escala de tota la Terra, 12,3 km són gairebé imperceptibles.</text>
+
+<rect x="745" y="725" width="395" height="270" rx="24" fill="#fff4e6" stroke="#e67e22" stroke-width="3"/>
+<text x="775" y="775" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#b44d12">Quina és la limitació?</text>
+<text x="775" y="830" font-family="Arial, sans-serif" font-size="25" fill="#243b53">Només exploram una part</text>
+<text x="775" y="865" font-family="Arial, sans-serif" font-size="25" fill="#243b53">molt superficial de la Terra.</text>
+<text x="775" y="915" font-family="Arial, sans-serif" font-size="25" fill="#243b53">No arribam al mantell profund</text>
+<text x="775" y="950" font-family="Arial, sans-serif" font-size="25" fill="#243b53">ni al nucli.</text>
+
+<rect x="745" y="1030" width="395" height="275" rx="24" fill="#edf8f6" stroke="#3f8f83" stroke-width="3"/>
+<text x="775" y="1080" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#28756b">Què podem arribar a saber?</text>
+<text x="775" y="1135" font-family="Arial, sans-serif" font-size="25" fill="#243b53">Les mostres ens informen dels</text>
+<text x="775" y="1170" font-family="Arial, sans-serif" font-size="25" fill="#243b53">materials que la perforació travessa</text>
+<text x="775" y="1205" font-family="Arial, sans-serif" font-size="25" fill="#243b53">i de les condicions mesurades</text>
+<text x="775" y="1240" font-family="Arial, sans-serif" font-size="25" fill="#243b53">en aquestes profunditats.</text>
+
+<rect x="60" y="1350" width="1080" height="190" rx="26" fill="#fff9d9" stroke="#e0b522" stroke-width="3"/>
+<text x="90" y="1400" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#5c4b00">Pensa i respon</text>
+<text x="95" y="1450" font-family="Arial, sans-serif" font-size="25" fill="#243b53">1. Què obtenim directament gràcies a una perforació?</text>
+<text x="95" y="1490" font-family="Arial, sans-serif" font-size="25" fill="#243b53">2. Què podem saber sobre els materials travessats?</text>
+<text x="95" y="1530" font-family="Arial, sans-serif" font-size="25" fill="#243b53">3. Quina és la principal limitació d'aquest mètode?</text>
+</svg>
