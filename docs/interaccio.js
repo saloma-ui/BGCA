@@ -107,8 +107,20 @@ function inicialitzaInteraccionsPresentacio() {
     const comparacio = bloc.querySelector("[data-pv-depth-comparison]");
     const linia = bloc.querySelector("[data-pv-depth-line]");
     const punt = bloc.querySelector("[data-pv-depth-dot]");
+    const visual = bloc.querySelector(".pv-profunditat-visual");
+    const svg = visual?.querySelector("svg");
 
-    if (!rang || !numero || !comprova || !sortida || !resultat) return;
+    if (!rang || !numero || !comprova || !sortida || !resultat || !linia || !punt || !svg) return;
+
+    let bloquejat = false;
+    let arrossegant = false;
+
+    punt.setAttribute("r", "11");
+    punt.setAttribute("tabindex", "0");
+    punt.setAttribute("role", "slider");
+    punt.setAttribute("aria-valuemin", "0");
+    punt.setAttribute("aria-valuemax", "6371");
+    punt.setAttribute("aria-label", "Profunditat estimada");
 
     const limita = (valor) => Math.max(0, Math.min(6371, Number.isFinite(valor) ? valor : 0));
 
@@ -119,26 +131,77 @@ function inicialitzaInteraccionsPresentacio() {
       if (origen !== "rang") rang.value = String(Math.round(v));
       if (origen !== "numero") numero.value = teValor ? String(Math.round(v)) : "";
 
-      comprova.disabled = !teValor;
-      sortida.textContent = teValor
-        ? `La teva estimació: ${Math.round(v).toLocaleString("ca-ES")} km`
-        : "";
+      comprova.disabled = !teValor || bloquejat;
+      sortida.textContent = teValor ? `${Math.round(v).toLocaleString("ca-ES")} km` : "";
+      sortida.setAttribute("x", "160");
+      punt.setAttribute("aria-valuenow", String(Math.round(v)));
+      punt.setAttribute("aria-valuetext", `${Math.round(v).toLocaleString("ca-ES")} quilòmetres`);
 
-      if (linia && punt) {
-        const y = 28 + (132 * v / 6371);
-        linia.setAttribute("y2", String(y));
-        punt.setAttribute("cy", String(y));
-      }
+      const y = 28 + (132 * v / 6371);
+      linia.setAttribute("y2", String(y));
+      punt.setAttribute("cy", String(y));
 
       if (validacio) validacio.textContent = "";
     };
 
+    const valorDesDePointer = (event) => {
+      const rect = svg.getBoundingClientRect();
+      if (!rect.height) return 0;
+      const ySvg = ((event.clientY - rect.top) / rect.height) * 320;
+      const yLimitat = Math.max(28, Math.min(160, ySvg));
+      return ((yLimitat - 28) / 132) * 6371;
+    };
+
+    const mouDesDePointer = (event) => {
+      if (bloquejat) return;
+      pinta(valorDesDePointer(event), "drag");
+    };
+
+    punt.addEventListener("pointerdown", (event) => {
+      if (bloquejat) return;
+      arrossegant = true;
+      visual?.classList.add("pv-arrossegant");
+      punt.setPointerCapture?.(event.pointerId);
+      mouDesDePointer(event);
+      event.preventDefault();
+    });
+
+    punt.addEventListener("pointermove", (event) => {
+      if (!arrossegant || bloquejat) return;
+      mouDesDePointer(event);
+    });
+
+    const acabaArrossegament = (event) => {
+      if (!arrossegant) return;
+      arrossegant = false;
+      visual?.classList.remove("pv-arrossegant");
+      if (punt.hasPointerCapture?.(event.pointerId)) punt.releasePointerCapture(event.pointerId);
+    };
+
+    punt.addEventListener("pointerup", acabaArrossegament);
+    punt.addEventListener("pointercancel", acabaArrossegament);
+
+    punt.addEventListener("keydown", (event) => {
+      if (bloquejat) return;
+      const actual = Number(numero.value || rang.value || 0);
+      let nou = actual;
+      if (event.key === "ArrowDown" || event.key === "ArrowRight") nou += 100;
+      else if (event.key === "ArrowUp" || event.key === "ArrowLeft") nou -= 100;
+      else if (event.key === "Home") nou = 0;
+      else if (event.key === "End") nou = 6371;
+      else return;
+      event.preventDefault();
+      pinta(nou, "teclat");
+    });
+
     rang.addEventListener("input", () => {
+      if (bloquejat) return;
       pinta(Number(rang.value), "rang");
       numero.value = rang.value === "0" ? "" : rang.value;
     });
 
     numero.addEventListener("input", () => {
+      if (bloquejat) return;
       if (numero.value === "") {
         pinta(0, "numero");
         rang.value = "0";
@@ -158,7 +221,13 @@ function inicialitzaInteraccionsPresentacio() {
 
     comprova.addEventListener("click", () => {
       const estimacio = limita(Number(numero.value || rang.value));
-      if (!(estimacio > 0)) return;
+      if (!(estimacio > 0) || bloquejat) return;
+
+      bloquejat = true;
+      bloc.classList.add("pv-revelat");
+      numero.disabled = true;
+      rang.disabled = true;
+      comprova.disabled = true;
 
       const diferencia = Math.abs(estimacio - 12.3);
       const factor = estimacio / 12.3;
@@ -172,6 +241,19 @@ function inicialitzaInteraccionsPresentacio() {
         } else {
           comparacio.textContent = `La teva estimació era inferior als 12,3 km assolits a Kola.`;
         }
+      }
+
+      if (!resultat.querySelector(".pv-zoom-kola")) {
+        const zoom = document.createElement("div");
+        zoom.className = "pv-zoom-kola";
+        zoom.innerHTML = `
+          <strong>Ampliam només els primers 15 km</strong>
+          <div class="pv-zoom-escala" aria-label="Escala dels primers quinze quilòmetres">
+            <span class="pv-zoom-zero">0 km · superfície</span>
+            <span class="pv-zoom-kola-marca">Kola · 12,3 km</span>
+            <span class="pv-zoom-quinze">15 km</span>
+          </div>`;
+        resultat.appendChild(zoom);
       }
 
       resultat.hidden = false;
