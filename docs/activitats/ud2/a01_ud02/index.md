@@ -16,7 +16,7 @@ hide:
 
 **UD02 · Una Terra dinàmica**
 
-<!-- DOCENT: Activitat d'aula. El material guia continua essent autosuficient per a autoestudi i recuperació d'absències; aquesta activitat no pretén reproduir-lo, sinó fer investigar, predir, observar, inferir i contrastar. -->
+<!-- DOCENT: Activitat d'aula i també itinerari autònom per a alumnat absent o que s'incorpora més tard. El material guia continua essent autosuficient per a autoestudi; aquesta activitat fa predir, observar, inferir i contrastar. -->
 
 </section>
 
@@ -71,58 +71,157 @@ La Terra té un radi d’uns **6.371 km**.
 
 <section class="pv-seccio" markdown>
 
-# 2 · El problema
+# 2 · Formula la teva hipòtesi inicial
 
 Si només hem accedit directament a una fracció diminuta del planeta...
 
 <p class="pv-pregunta"><strong>com podem saber què hi ha a l’interior profund de la Terra?</strong></p>
 
-### Al quadern
+Abans de consultar cap font, proposa **dues maneres diferents d’obtenir informació** sobre l’interior terrestre.
 
-Abans de consultar cap font, escriu **dues possibles maneres d’obtenir informació** sobre l’interior terrestre.
+<div class="pv-respostes" data-pv-hipotesis>
+<label class="pv-label" for="hipotesi-1">Possibilitat 1</label>
+<textarea id="hipotesi-1" rows="3" data-pv-hyp="1" placeholder="Escriu una primera possibilitat..."></textarea>
+<label class="pv-label" for="hipotesi-2">Possibilitat 2</label>
+<textarea id="hipotesi-2" rows="3" data-pv-hyp="2" placeholder="Escriu una segona possibilitat..."></textarea>
+<div class="pv-accions">
+<button type="button" class="pv-boto-principal" data-pv-hyp-save>Desa les meves hipòtesis</button>
+<span class="pv-estat" data-pv-hyp-status aria-live="polite"></span>
+</div>
+<p class="pv-nota-local">Les respostes es desen només en aquest navegador i dispositiu. No s’envien al professor ni a cap servidor.</p>
+</div>
 
-1. Primera possibilitat: ________________________________
-2. Segona possibilitat: _________________________________
+> **No cercam encara “la resposta correcta”.** Guardam la teva idea inicial perquè més endavant la puguis revisar a la llum de noves evidències.
 
-> **No cercam encara “la resposta correcta”.** Volem deixar registrada la teva hipòtesi inicial per poder-la revisar després.
-
-<!-- DOCENT: Posada en comú breu. Recollir diverses propostes sense classificar-les encara com a correctes/incorrectes ni introduir directe/indirecte. -->
+<!-- DOCENT: Posada en comú breu si es fa presencialment. No introduir encara les categories directe/indirecte. -->
 
 </section>
 
 <section class="pv-seccio" markdown>
 
-# 3 · Tres fonts d’informació
+# 3 · Tres estacions d’investigació
 
-Treballareu amb **tres estacions A3**:
+Investigaràs **tres maneres d’obtenir informació sobre l’interior terrestre**.
 
-<div class="pv-tres-columnes">
-<div class="pv-targeta" markdown>
-**PERFORACIÓ**
+A l’aula podeu treballar amb les infografies impreses en A3. Si fas l’activitat a distància, **les mateixes fonts d’informació són aquí** i pots completar tot l’itinerari de manera autònoma.
 
-Què obtenim realment quan perforam?
-</div>
-<div class="pv-targeta" markdown>
-**XENÒLIT**
-
-Com pot arribar fins a la superfície una roca procedent d’una zona profunda?
-</div>
-<div class="pv-targeta" markdown>
-**REGISTRE SÍSMIC**
-
-Què registra realment un sismògraf?
-</div>
+<div class="pv-progres-estacions" data-pv-stations-progress>
+<div class="pv-progres-text"><strong>Progrés:</strong> <span data-pv-stations-count>0 de 3 estacions completades</span></div>
+<div class="pv-progres-pista" aria-hidden="true"><span data-pv-stations-bar></span></div>
 </div>
 
-Per a cada estació, completa al quadern:
+Per a cada estació has de distingir dues coses:
 
-| Font | Què obtenim o mesuram directament? | Què podem arribar a inferir? |
-|---|---|---|
-| Perforació | | |
-| Xenòlit | | |
-| Registre sísmic | | |
+<div class="pv-cadena">
+<strong>què obtenim o mesuram directament</strong> → <strong>què podem arribar a inferir</strong>
+</div>
 
-<!-- DOCENT: Les infografies d'estació es preparen com a material A3 imprès. El seu text font és a materials_estacions.md. No introduir encara les etiquetes “mètode directe” i “mètode indirecte”. -->
+Comença per la perforació i avança per les tres estacions.
+
+</section>
+
+<section class="pv-seccio pv-estacio" id="estacio-perforacio" data-pv-station="perforacio" markdown>
+
+# 3.1 · Estació 1 — Perforació
+
+<p class="pv-pregunta"><strong>Què podem saber quan perforam l’escorça terrestre?</strong></p>
+
+<a class="pv-infografia-link" href="figures/estacio_perforacio.svg" target="_blank" rel="noopener">
+<img src="figures/estacio_perforacio.svg" alt="Infografia de l'estació Perforació: profunditat assolida, què obtenim directament i limitacions">
+<span>Obre la infografia en gran ↗</span>
+</a>
+
+<div class="pv-respostes pv-estacio-form">
+<label class="pv-label" for="perforacio-directe">1. Què obtenim o mesuram directament gràcies a una perforació?</label>
+<textarea id="perforacio-directe" rows="3" data-pv-station-answer="directe" placeholder="Descriu la dada o mostra que obtenim..."></textarea>
+<label class="pv-label" for="perforacio-inferencia">2. Què podem arribar a saber sobre els materials travessats?</label>
+<textarea id="perforacio-inferencia" rows="3" data-pv-station-answer="inferencia" placeholder="Explica què podem concloure a partir de les dades..."></textarea>
+<label class="pv-label" for="perforacio-clau">3. Quina és la principal limitació d’aquest mètode?</label>
+<textarea id="perforacio-clau" rows="3" data-pv-station-answer="clau" placeholder="Identifica la limitació principal..."></textarea>
+<div class="pv-accions">
+<button type="button" class="pv-boto-principal" data-pv-station-save>Desa i continua</button>
+<span class="pv-estat" data-pv-station-status aria-live="polite"></span>
+</div>
+<a class="pv-seguent" href="#estacio-xenolit" data-pv-station-next hidden>Ves a l’estació 2 · Xenòlit ↓</a>
+</div>
+
+</section>
+
+<section class="pv-seccio pv-estacio" id="estacio-xenolit" data-pv-station="xenolit" markdown>
+
+# 3.2 · Estació 2 — Xenòlit
+
+<p class="pv-pregunta"><strong>Com pot arribar fins a nosaltres una roca procedent d’una zona profunda?</strong></p>
+
+<a class="pv-infografia-link" href="figures/estacio_xenolit.svg" target="_blank" rel="noopener">
+<img src="figures/estacio_xenolit.svg" alt="Infografia de l'estació Xenòlit: transport de fragments de roca pel magma i informació que aporten">
+<span>Obre la infografia en gran ↗</span>
+</a>
+
+<div class="pv-respostes pv-estacio-form">
+<label class="pv-label" for="xenolit-directe">1. Què obtenim directament quan estudiam un xenòlit?</label>
+<textarea id="xenolit-directe" rows="3" data-pv-station-answer="directe" placeholder="Descriu què tenim físicament davant nosaltres..."></textarea>
+<label class="pv-label" for="xenolit-inferencia">2. Què podem arribar a inferir sobre la zona d’on procedeix?</label>
+<textarea id="xenolit-inferencia" rows="3" data-pv-station-answer="inferencia" placeholder="Explica què ens pot indicar aquesta mostra..."></textarea>
+<label class="pv-label" for="xenolit-clau">3. Com ha pogut arribar aquesta roca fins a la superfície?</label>
+<textarea id="xenolit-clau" rows="3" data-pv-station-answer="clau" placeholder="Reconstrueix el procés de transport..."></textarea>
+<div class="pv-accions">
+<button type="button" class="pv-boto-principal" data-pv-station-save>Desa i continua</button>
+<span class="pv-estat" data-pv-station-status aria-live="polite"></span>
+</div>
+<a class="pv-seguent" href="#estacio-registre" data-pv-station-next hidden>Ves a l’estació 3 · Registre sísmic ↓</a>
+</div>
+
+</section>
+
+<section class="pv-seccio pv-estacio" id="estacio-registre" data-pv-station="registre" markdown>
+
+# 3.3 · Estació 3 — Registre sísmic
+
+<p class="pv-pregunta"><strong>Què registra realment un sismògraf?</strong></p>
+
+<a class="pv-infografia-link" href="figures/estacio_registre_sismic.svg" target="_blank" rel="noopener">
+<img src="figures/estacio_registre_sismic.svg" alt="Infografia de l'estació Registre sísmic: terratrèmol, propagació de les ones, sismògraf i inferències">
+<span>Obre la infografia en gran ↗</span>
+</a>
+
+<div class="pv-respostes pv-estacio-form">
+<label class="pv-label" for="registre-directe">1. Què mesura directament un sismògraf?</label>
+<textarea id="registre-directe" rows="3" data-pv-station-answer="directe" placeholder="Descriu què queda enregistrat..."></textarea>
+<label class="pv-label" for="registre-inferencia">2. Què podem arribar a inferir a partir del registre?</label>
+<textarea id="registre-inferencia" rows="3" data-pv-station-answer="inferencia" placeholder="Explica què podem deduir sobre l'interior..."></textarea>
+<label class="pv-label" for="registre-clau">3. Quina diferència hi ha entre allò que mesuram i allò que concloem?</label>
+<textarea id="registre-clau" rows="3" data-pv-station-answer="clau" placeholder="Diferencia la dada de la interpretació..."></textarea>
+<div class="pv-accions">
+<button type="button" class="pv-boto-principal" data-pv-station-save>Desa l’estació</button>
+<span class="pv-estat" data-pv-station-status aria-live="polite"></span>
+</div>
+<a class="pv-seguent" href="#sintesi-estacions" data-pv-station-next hidden>Veu la teva síntesi ↓</a>
+</div>
+
+</section>
+
+<section class="pv-seccio" id="sintesi-estacions" markdown>
+
+# 3.4 · La teva síntesi de les tres estacions
+
+Quan hagis desat les tres estacions, aquesta taula recuperarà les teves respostes.
+
+<div class="pv-sintesi" data-pv-stations-summary>
+<table>
+<thead>
+<tr><th>Font</th><th>Què obtenim o mesuram directament?</th><th>Què podem arribar a inferir?</th></tr>
+</thead>
+<tbody>
+<tr><th>Perforació</th><td data-pv-summary="perforacio.directe">—</td><td data-pv-summary="perforacio.inferencia">—</td></tr>
+<tr><th>Xenòlit</th><td data-pv-summary="xenolit.directe">—</td><td data-pv-summary="xenolit.inferencia">—</td></tr>
+<tr><th>Registre sísmic</th><td data-pv-summary="registre.directe">—</td><td data-pv-summary="registre.inferencia">—</td></tr>
+</tbody>
+</table>
+<p class="pv-estat" data-pv-summary-status aria-live="polite">Completa i desa les tres estacions per tenir la síntesi sencera.</p>
+</div>
+
+> **Atura’t abans de classificar-les.** Al punt següent compararem les tres fonts i intentarem descobrir quines comparteixen una mateixa manera d’obtenir informació.
 
 </section>
 
@@ -132,7 +231,7 @@ Per a cada estació, completa al quadern:
 
 **Pendent de construir en el següent prototip.**
 
-La interacció haurà de permetre agrupar **perforació · xenòlit · registre sísmic** sense mostrar inicialment les categories. Després de justificar l’agrupació, emergiran els conceptes **mètode directe** i **mètode indirecte**.
+La interacció permetrà agrupar **perforació · xenòlit · registre sísmic** sense mostrar inicialment les categories. Després de justificar l’agrupació, emergiran els conceptes **mètode directe** i **mètode indirecte**.
 
 </section>
 
