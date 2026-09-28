@@ -1,0 +1,140 @@
+/* Estils específics de la interacció de profunditat d'A01 UD02. */
+
+.presentacio-vertical .pv-profunditat {
+  margin: 1.4rem 0;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.65rem;
+  background: var(--md-code-bg-color);
+}
+
+.presentacio-vertical .pv-profunditat-controls {
+  display: grid;
+  grid-template-columns: minmax(160px, 0.55fr) minmax(260px, 1.45fr) auto;
+  gap: 1rem;
+  align-items: end;
+}
+
+.presentacio-vertical .pv-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+
+.presentacio-vertical .pv-profunditat-numero {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.presentacio-vertical .pv-profunditat-numero input {
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.45rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+}
+
+.presentacio-vertical .pv-profunditat-slider input[type="range"] {
+  width: 100%;
+  accent-color: var(--md-primary-fg-color);
+}
+
+.presentacio-vertical .pv-escala {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.presentacio-vertical .pv-boto-comprova {
+  min-height: 2.75rem;
+  padding: 0.6rem 1rem;
+  font-weight: 700;
+}
+
+.presentacio-vertical .pv-boto-comprova:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.presentacio-vertical .pv-profunditat-visual {
+  max-width: 420px;
+  margin: 1.2rem auto 0;
+}
+
+.presentacio-vertical .pv-profunditat-visual svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.presentacio-vertical .pv-earth-outline {
+  fill: var(--md-default-bg-color);
+  stroke: var(--md-default-fg-color);
+  stroke-width: 3;
+}
+
+.presentacio-vertical .pv-earth-surface {
+  fill: var(--md-primary-fg-color);
+}
+
+.presentacio-vertical .pv-earth-radius {
+  stroke: var(--md-default-fg-color--lighter);
+  stroke-width: 2;
+  stroke-dasharray: 5 5;
+}
+
+.presentacio-vertical .pv-earth-guess {
+  stroke: var(--md-accent-fg-color);
+  stroke-width: 6;
+  stroke-linecap: round;
+}
+
+.presentacio-vertical .pv-earth-guess-dot {
+  fill: var(--md-accent-fg-color);
+}
+
+.presentacio-vertical .pv-svg-label {
+  font-size: 13px;
+  fill: var(--md-default-fg-color--light);
+}
+
+.presentacio-vertical .pv-svg-value {
+  font-size: 14px;
+  font-weight: 700;
+  fill: var(--md-default-fg-color);
+}
+
+.presentacio-vertical .pv-validacio {
+  min-height: 1.3rem;
+  margin: 0.45rem 0 0;
+  color: var(--md-typeset-color);
+  font-size: 0.9rem;
+}
+
+.presentacio-vertical .pv-resultat-profunditat {
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
+  border-left: 0.25rem solid var(--md-primary-fg-color);
+  background: var(--md-default-bg-color);
+}
+
+.presentacio-vertical .pv-resultat-profunditat[hidden] {
+  display: none;
+}
+
+@media screen and (max-width: 760px) {
+  .presentacio-vertical .pv-profunditat-controls {
+    grid-template-columns: 1fr;
+  }
+
+  .presentacio-vertical .pv-boto-comprova {
+    width: 100%;
+  }
+}
