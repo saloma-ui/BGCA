@@ -52,7 +52,7 @@ La Terra té un radi d’uns **6.371 km**.
 <circle cx="160" cy="28" r="6" class="pv-earth-guess-dot" data-pv-depth-dot></circle>
 <text x="178" y="43" class="pv-svg-label">superfície</text>
 <text x="178" y="164" class="pv-svg-label">centre</text>
-<text x="20" y="295" class="pv-svg-value" data-pv-depth-output>Fes una estimació</text>
+<text x="20" y="295" class="pv-svg-value" data-pv-depth-output></text>
 </svg>
 </div>
 <p class="pv-validacio" data-pv-depth-validation aria-live="polite"></p>
@@ -126,8 +126,8 @@ Comença per la perforació i avança per les tres estacions.
 
 <p class="pv-pregunta"><strong>Què podem saber quan perforam l’escorça terrestre?</strong></p>
 
-<a class="pv-infografia-link" href="figures/estacio_perforacio.svg" target="_blank" rel="noopener">
-<img src="figures/estacio_perforacio.svg" alt="Infografia de l'estació Perforació: profunditat assolida, què obtenim directament i limitacions">
+<a class="pv-infografia-link" href="figures/estacio_perforacio.png" target="_blank" rel="noopener">
+<img src="figures/estacio_perforacio.png" alt="Infografia de l'estació Perforació: profunditat assolida, què obtenim directament i limitacions">
 <span>Obre la infografia en gran ↗</span>
 </a>
 
@@ -153,8 +153,8 @@ Comença per la perforació i avança per les tres estacions.
 
 <p class="pv-pregunta"><strong>Com pot arribar fins a nosaltres una roca procedent d’una zona profunda?</strong></p>
 
-<a class="pv-infografia-link" href="figures/estacio_xenolit.svg" target="_blank" rel="noopener">
-<img src="figures/estacio_xenolit.svg" alt="Infografia de l'estació Xenòlit: transport de fragments de roca pel magma i informació que aporten">
+<a class="pv-infografia-link" href="figures/estacio_xenolit.png" target="_blank" rel="noopener">
+<img src="figures/estacio_xenolit.png" alt="Infografia de l'estació Xenòlit: transport de fragments de roca pel magma i informació que aporten">
 <span>Obre la infografia en gran ↗</span>
 </a>
 
@@ -180,8 +180,8 @@ Comença per la perforació i avança per les tres estacions.
 
 <p class="pv-pregunta"><strong>Què registra realment un sismògraf?</strong></p>
 
-<a class="pv-infografia-link" href="figures/estacio_registre_sismic.svg" target="_blank" rel="noopener">
-<img src="figures/estacio_registre_sismic.svg" alt="Infografia de l'estació Registre sísmic: terratrèmol, propagació de les ones, sismògraf i inferències">
+<a class="pv-infografia-link" href="figures/estacio_registre_sismic.png" target="_blank" rel="noopener">
+<img src="figures/estacio_registre_sismic.png" alt="Infografia de l'estació Registre sísmic: terratrèmol, propagació de les ones, sismògraf i inferències">
 <span>Obre la infografia en gran ↗</span>
 </a>
 
