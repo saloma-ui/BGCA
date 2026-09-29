@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000">
+  <defs>
+    <marker id="arrowS" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1b8f3a"/>
+    </marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill:#10263f; }
+      .title { font-size:42px; font-weight:700; }
+      .label { font-size:28px; font-weight:600; }
+      .small { font-size:23px; }
+      .wave { fill:none; stroke:#1b8f3a; stroke-width:6; marker-end:url(#arrowS); }
+    </style>
+  </defs>
+  <rect width="1200" height="1000" fill="white"/>
+  <text x="600" y="60" text-anchor="middle" class="title">Zona d’ombra de les ones S</text>
+  <circle cx="600" cy="470" r="360" fill="#fff5df" stroke="#10263f" stroke-width="6"/>
+  <circle cx="600" cy="470" r="165" fill="#eef2f5" stroke="#10263f" stroke-width="5"/>
+  <text x="600" y="480" text-anchor="middle" class="label">regió interna</text>
+  <path d="M 951 551 A 360 360 0 0 1 249 551 L 385 510 A 220 220 0 0 0 815 510 Z" fill="#9ba3ad" fill-opacity="0.55"/>
+  <text x="600" y="720" text-anchor="middle" class="label">zona d’ombra de les ones S</text>
+  <text x="600" y="755" text-anchor="middle" class="small">no es registren ones S directes</text>
+  <circle cx="600" cy="110" r="15" fill="#d32020"/>
+  <circle cx="600" cy="110" r="28" fill="none" stroke="#d32020" stroke-width="4"/>
+  <circle cx="600" cy="110" r="40" fill="none" stroke="#d32020" stroke-width="3"/>
+  <text x="600" y="92" text-anchor="middle" class="label" fill="#d32020">Terratrèmol</text>
+  <path class="wave" d="M600 125 C520 160 400 205 305 300"/>
+  <path class="wave" d="M600 125 C480 185 350 290 270 420"/>
+  <path class="wave" d="M600 125 C455 210 320 390 260 535"/>
+  <path class="wave" d="M600 125 C675 160 800 205 895 300"/>
+  <path class="wave" d="M600 125 C720 185 850 290 930 420"/>
+  <path class="wave" d="M600 125 C745 210 880 390 940 535"/>
+  <path class="wave" d="M600 125 C555 210 505 280 470 325"/>
+  <path class="wave" d="M600 125 C645 210 695 280 730 325"/>
+  <text x="300" y="260" class="label" fill="#1b8f3a">ones S</text>
+  <circle cx="249" cy="551" r="7" fill="#10263f"/>
+  <circle cx="951" cy="551" r="7" fill="#10263f"/>
+  <text x="175" y="565" class="label">103°</text>
+  <text x="965" y="565" class="label">103°</text>
+  <rect x="150" y="855" width="900" height="75" rx="16" fill="#eef7ff" stroke="#10263f" stroke-width="3"/>
+  <text x="600" y="903" text-anchor="middle" class="label">Les ones S no travessen la regió interna.</text>
+  <text x="600" y="965" text-anchor="middle" class="small">Esquema conceptual simplificat; les trajectòries no estan representades a escala.</text>
+</svg>
