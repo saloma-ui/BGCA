@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000">
+  <defs>
+    <marker id="arrowP" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1474c4"/>
+    </marker>
+    <style>
+      text { font-family: Arial, Helvetica, sans-serif; fill:#10263f; }
+      .title { font-size:42px; font-weight:700; }
+      .label { font-size:28px; font-weight:600; }
+      .small { font-size:23px; }
+      .wave { fill:none; stroke:#1474c4; stroke-width:6; marker-end:url(#arrowP); }
+    </style>
+  </defs>
+  <rect width="1200" height="1000" fill="white"/>
+  <text x="600" y="60" text-anchor="middle" class="title">Zona d’ombra de les ones P</text>
+  <circle cx="600" cy="470" r="360" fill="#fff5df" stroke="#10263f" stroke-width="6"/>
+  <circle cx="600" cy="470" r="165" fill="#eef2f5" stroke="#10263f" stroke-width="5"/>
+  <text x="600" y="480" text-anchor="middle" class="label">regió interna</text>
+  <path d="M951 551 A360 360 0 0 1 821 753 L745 660 A240 240 0 0 0 816 523 Z" fill="#9ba3ad" fill-opacity="0.58"/>
+  <path d="M249 551 A360 360 0 0 0 379 753 L455 660 A240 240 0 0 1 384 523 Z" fill="#9ba3ad" fill-opacity="0.58"/>
+  <text x="875" y="630" text-anchor="middle" class="small">zona d’ombra</text>
+  <text x="875" y="662" text-anchor="middle" class="small">de les ones P</text>
+  <text x="325" y="630" text-anchor="middle" class="small">zona d’ombra</text>
+  <text x="325" y="662" text-anchor="middle" class="small">de les ones P</text>
+  <circle cx="600" cy="110" r="15" fill="#d32020"/>
+  <circle cx="600" cy="110" r="28" fill="none" stroke="#d32020" stroke-width="4"/>
+  <circle cx="600" cy="110" r="40" fill="none" stroke="#d32020" stroke-width="3"/>
+  <text x="600" y="92" text-anchor="middle" class="label" fill="#d32020">Terratrèmol</text>
+  <path class="wave" d="M600 125 C515 160 400 205 305 300"/>
+  <path class="wave" d="M600 125 C470 190 335 320 270 510"/>
+  <path class="wave" d="M600 125 C685 160 800 205 895 300"/>
+  <path class="wave" d="M600 125 C730 190 865 320 930 510"/>
+  <path class="wave" d="M600 125 C555 230 545 315 560 355 C575 395 530 505 475 615 C450 665 430 705 405 740"/>
+  <path class="wave" d="M600 125 C645 230 655 315 640 355 C625 395 670 505 725 615 C750 665 770 705 795 740"/>
+  <path class="wave" d="M600 125 C595 250 590 345 590 405 C590 530 590 660 590 820"/>
+  <text x="300" y="260" class="label" fill="#1474c4">ones P</text>
+  <circle cx="249" cy="551" r="7" fill="#10263f"/>
+  <circle cx="951" cy="551" r="7" fill="#10263f"/>
+  <circle cx="379" cy="753" r="7" fill="#10263f"/>
+  <circle cx="821" cy="753" r="7" fill="#10263f"/>
+  <text x="175" y="565" class="label">103°</text>
+  <text x="965" y="565" class="label">103°</text>
+  <text x="300" y="795" class="label">142°</text>
+  <text x="825" y="795" class="label">142°</text>
+  <text x="315" y="835" class="small">les ones P es tornen a detectar</text>
+  <text x="735" y="835" class="small">les ones P es tornen a detectar</text>
+  <rect x="120" y="865" width="960" height="75" rx="16" fill="#eef7ff" stroke="#10263f" stroke-width="3"/>
+  <text x="600" y="900" text-anchor="middle" class="label">Les ones P travessen la regió interna,</text>
+  <text x="600" y="932" text-anchor="middle" class="label">però la seva trajectòria canvia.</text>
+  <text x="600" y="975" text-anchor="middle" class="small">Esquema conceptual simplificat; les trajectòries no estan representades a escala.</text>
+</svg>
