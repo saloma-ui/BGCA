@@ -305,85 +305,175 @@ Aquesta serà la pregunta de partida de la sessió següent.
 
 <section class="pv-seccio" markdown>
 
-# 4 · De les trajectòries a l’interior
+# 4 · Què ens revelen les zones d’ombra?
 
-Les ones sísmiques poden canviar de velocitat i de trajectòria quan canvien les propietats dels materials que travessen.
+Sabem que les ones sísmiques es propaguen per l’interior de la Terra i que el seu comportament depèn dels materials que travessen.
 
-Per tant, **la trajectòria d’una ona conté informació sobre l’interior terrestre**.
+Si registram un mateix terratrèmol en moltes estacions distribuïdes pel planeta, podem comprovar **on arriben les ones i on no arriben**.
 
-## 4.1 · Primer, només observam
+Aquest patró també és una dada.
 
-Mira la figura durant aproximadament un minut. **No intentis explicar-la encara.** Fixa’t només en què fan les diferents trajectòries.
+## 4.1 · Un terratrèmol, moltes estacions
 
-<a class="pv-infografia-link" href="figures/a01_fig04_trajectories_sismiques.png" target="_blank" rel="noopener">
-<img src="figures/a01_fig04_trajectories_sismiques.png" alt="Esquema conceptual de trajectòries sísmiques que arriben als punts A, B, C i D">
+Un mateix terratrèmol genera ones que es propaguen en moltes direccions. Les estacions sísmiques situades en punts diferents de la superfície registren **si les ones hi arriben i quan ho fan**.
+
+<p class="pv-pregunta"><strong>Si l’interior de la Terra fos completament homogeni, què esperaries observar en els registres de les diferents estacions?</strong></p>
+
+**30 segons individualment → 1 minut en parelles → posada en comú breu.**
+
+No cal escriure una resposta. Cercam una predicció senzilla abans d’observar les dades reals.
+
+> **Predicció inicial**  
+> Si les propietats de l’interior fossin les mateixes a tot arreu, esperaríem un patró relativament regular de propagació.
+
+Però això **no és el que observam**.
+
+<!-- DOCENT: 3–4 min. Fer explícit que disposam de registres del mateix terratrèmol des de molts punts de la superfície. -->
+
+## 4.2 · Una zona on no arriben les ones S
+
+Observa primer aquesta representació. Durant uns segons, limita’t a **descriure què hi veus**; encara no intentis explicar per què passa.
+
+<a class="pv-infografia-link" href="figures/a01_fig04a_zona_ombra_ones_s.svg" target="_blank" rel="noopener">
+<img src="figures/a01_fig04a_zona_ombra_ones_s.svg" alt="Esquema conceptual de la zona d'ombra de les ones S">
 <span>Obre la figura en gran ↗</span>
 </a>
 
-<p class="pv-pregunta"><strong>Què hi observes?</strong></p>
-
-<!-- DOCENT: 1 min de silenci. Recollir oralment observacions sense interpretar-les. Si apareix una conclusió («hi ha una capa líquida»), demanar: «això ho veus a la figura o ho estàs inferint?». -->
-
-<div class="pv-cadena"><strong>OBSERVACIÓ</strong> ≠ <strong>INTERPRETACIÓ</strong></div>
-
-## 4.2 · Quines trajectòries són diferents?
+### Primer, observam
 
 <div class="pv-repte">
 <p><strong>En parelles</strong></p>
-<p>Compareu les trajectòries que arriben als punts <strong>A, B, C i D</strong>.</p>
-<p>Identificau <strong>dues diferències que es puguin observar directament a la figura</strong>.</p>
+<p>Descriviu el patró de les ones S <strong>sense explicar encara què significa</strong>.</p>
 </div>
 
-No cal escriure una explicació llarga. L’objectiu d’aquesta passa és aprendre a **descriure la representació abans d’interpretar-la**.
+Algunes preguntes que poden ajudar a mirar la figura:
 
-<!-- DOCENT: 2–3 min en parelles + 4–5 min de posada en comú. Exemples d'observacions vàlides: una trajectòria es corba, una altra canvia de direcció en una frontera, algunes no travessen la mateixa regió. Evitar posar noms de capes encara. -->
+- On es registren ones S?
+- A partir de quina distància angular deixen de detectar-se directament?
+- Quina extensió té la zona sense registres directes d’ones S?
 
-## 4.3 · Ara sí: què podem inferir?
+<div class="pv-cadena"><strong>OBSERVACIÓ</strong> ≠ <strong>INTERPRETACIÓ</strong></div>
 
-<p class="pv-pregunta"><strong>Quina hipòtesi sobre l’interior terrestre podria explicar aquestes diferències entre les trajectòries?</strong></p>
+<!-- DOCENT: 1–2 min en parelles. Recollir formulacions estrictament descriptives abans d’acceptar interpretacions. -->
 
-No cercam encara els noms de les capes. Cercam **la inferència mínima que les dades permeten justificar**.
+### Ara, interpretam
+
+Recorda una propietat que ja hem treballat:
+
+> **Les ones S es propaguen pels sòlids però no pels líquids.**
+
+<p class="pv-pregunta"><strong>Quina propietat hauria de tenir una regió interna perquè pogués explicar aquest patró?</strong></p>
+
+Quan ho posem en comú, podem construir aquesta inferència:
+
+<div class="pv-cadena"><strong>no arriben ones S</strong> → <strong>hi ha una regió que no poden travessar</strong> → <strong>és compatible amb un medi líquid</strong></div>
+
+No li posam encara nom a aquesta regió. De moment ens interessa què permeten justificar les dades.
+
+<!-- DOCENT: 4–5 min. Fer que la conclusió «líquid» aparegui després de recuperar la propietat de les ones S. -->
+
+## 4.3 · Les ones P ens conten una història diferent
+
+Observa ara què passa amb les ones P produïdes pel mateix tipus de terratrèmol.
+
+<a class="pv-infografia-link" href="figures/a01_fig04b_zona_ombra_ones_p.svg" target="_blank" rel="noopener">
+<img src="figures/a01_fig04b_zona_ombra_ones_p.svg" alt="Esquema conceptual de la zona d'ombra de les ones P">
+<span>Obre la figura en gran ↗</span>
+</a>
+
+<div class="pv-repte">
+<p><strong>Compara aquesta figura amb l’anterior.</strong></p>
+<p>Quina diferència important hi ha entre el comportament de les <strong>ones P</strong> i el de les <strong>ones S</strong> quan arriben a la regió interna?</p>
+</div>
+
+**2 minuts en parelles.**
+
+Volem distingir dues observacions:
+
+- les ones S **no travessen** la regió interna;
+- les ones P **sí que la travessen**, però la seva trajectòria canvia notablement.
+
+Ara recuperam una altra idea del bloc anterior:
+
+> Quan una ona entra en un material amb propietats diferents, la seva velocitat pot canviar i la trajectòria es pot **refractar**.
+
+<p class="pv-pregunta"><strong>Què ens permet inferir el canvi de trajectòria de les ones P?</strong></p>
 
 > **Inferència provisional**  
-> Si les trajectòries canvien de manera sistemàtica, l’interior terrestre **no pot ser homogeni**. Hi ha regions o fronteres internes amb propietats diferents.
+> Hi ha una frontera entre regions amb propietats diferents i aquest canvi modifica la propagació de les ones P.
 
-<div class="pv-cadena"><strong>trajectòria observada</strong> → <strong>canvi de propietats</strong> → <strong>frontera o regió interna</strong></div>
+<!-- DOCENT: 6–7 min. Evitar introduir encara els noms de les discontinuïtats. -->
 
-## 4.4 · Construïm el model més senzill possible
+## 4.4 · Posam les dues evidències juntes
+
+Ara compara directament els dos patrons.
+
+<div class="pv-dos-passos">
+<div>
+<strong>ONES S</strong><br>
+No travessen la regió interna.<br>
+Generen una gran zona d’ombra.<br>
+Aporten informació sobre l’estat físic del material.
+</div>
+<div>
+<strong>ONES P</strong><br>
+Travessen la regió interna.<br>
+Canvien fortament de trajectòria.<br>
+Aporten informació sobre canvis en les propietats dels materials.
+</div>
+</div>
 
 <div class="pv-repte">
 <p><strong>Repte en parelles</strong></p>
-<p>Dibuixau un cercle que representi la Terra i construïu <strong>el model més senzill de l’interior que pugui explicar les trajectòries observades</strong>.</p>
-<p>No heu de reproduir el model del llibre. Representau només les regions o fronteres que considereu que podeu <strong>justificar amb les evidències disponibles</strong>.</p>
+<p>Construïu <strong>el model més senzill possible de l’interior terrestre</strong> que pugui explicar simultàniament:</p>
+<ol>
+<li>que les ones S desapareguin a partir d’una determinada distància;</li>
+<li>que les ones P travessin la regió profunda però canviïn fortament de trajectòria;</li>
+<li>que apareguin zones de la superfície on no es registren determinades ones.</li>
+</ol>
+<p><strong>Dibuixau el model al quadern.</strong> No heu de recordar el model del llibre: representau només allò que pugueu justificar amb aquestes evidències.</p>
 </div>
-
-Feis el dibuix **al quadern, en una pissarreta o damunt un full**. La web no necessita un editor de dibuix: el que importa és poder explicar per què heu situat cada frontera.
 
 ### Quan posem els models en comú
 
-Ens farem tres preguntes:
+Ens farem aquestes preguntes:
 
 1. **Quina dada justifica cada frontera que heu dibuixat?**
-2. **Podríem explicar les observacions amb menys regions?**
-3. **Què és dada i què és una decisió del nostre model?**
+2. **Per què la regió interna no pot tenir les mateixes propietats que la que l’envolta?**
+3. **Per què les ones P i S ens aporten informació diferent?**
+4. **Podríem explicar les observacions amb una Terra homogènia?**
 
-<!-- DOCENT: 5–7 min de construcció + uns 5 min de contrast col·lectiu. Projectar un cercle buit i reconstruir un model comú a partir de les justificacions de l'alumnat. -->
+<!-- DOCENT: 6–8 min de construcció + uns 5 min de contrast col·lectiu. -->
 
-## 4.5 · De la dada al model
+## 4.5 · Dades → inferències → model
 
 <div class="pv-dos-passos">
-<div><strong>DADA</strong><br>Les ones segueixen trajectòries diferents, canvien de velocitat o no arriben a determinades zones.</div>
-<div><strong>INFERÈNCIA</strong><br>Els materials que travessen no tenen les mateixes propietats.</div>
+<div>
+<strong>DADES</strong><br>
+Zones on les S no arriben.<br>
+Canvis de trajectòria de les P.<br>
+Zones d’ombra diferents.
+</div>
+<div>
+<strong>INFERÈNCIES</strong><br>
+L’interior no és homogeni.<br>
+Hi ha fronteres entre materials diferents.<br>
+Una regió profunda és compatible amb estat líquid.
+</div>
 </div>
 
-<div class="pv-cadena"><strong>DADA</strong> → <strong>INFERÈNCIA</strong> → <strong>MODEL</strong></div>
+<div class="pv-cadena"><strong>DADES</strong> → <strong>INFERÈNCIES</strong> → <strong>MODEL DE L’INTERIOR</strong></div>
 
-> **Model**  
-> Representam l’interior terrestre mitjançant regions separades per fronteres perquè aquesta representació permet explicar les observacions disponibles.
+> **Idea clau**  
+> No coneixem l’interior terrestre perquè l’hàgim observat directament. Construïm el model que **explica conjuntament els patrons observats en les ones sísmiques**.
 
 > **Per ampliar o repassar:** [Material guia · 2.3 · Les ones canvien quan canvia el medi](../../../material/ud2/ud2/#23-les-ones-canvien-quan-canvia-el-medi) · [2.4 · Les zones d’ombra](../../../material/ud2/ud2/#24-les-zones-dombra-una-evidencia-dun-nucli-diferent-del-mantell)
 
-<!-- DOCENT: Bloc 4: aproximadament 25–30 min. No introduir encara formalment els models geoquímic i geodinàmic. El bloc 5 començarà contrastant el model construït per l'alumnat amb els models geològics actuals. -->
+<p class="pv-pregunta"><strong>Si les dades indiquen que l’interior està format per regions diferents, quines són aquestes regions i com les descriu actualment la geologia?</strong></p>
+
+Aquesta pregunta ens durà al bloc següent: **5 · Comparam el nostre model amb el model científic**.
+
+<!-- DOCENT: Bloc 4: aproximadament 31–37 min. És el nucli de la sessió 2. -->
 
 </section>
 
