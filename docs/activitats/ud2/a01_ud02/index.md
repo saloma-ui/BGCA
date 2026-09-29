@@ -101,4 +101,78 @@ Al bloc següent veurem alguns exemples i ens centrarem en la font que més info
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 2 · Com obtenim informació de l’interior?
+
+No totes les dades sobre l’interior terrestre s’obtenen de la mateixa manera.
+
+De vegades podem estudiar **materials que procedeixen de l’interior**. En altres casos no obtenim el material mateix, sinó que **mesuram algun efecte produït per l’interior** i interpretam què significa.
+
+## 2.1 · Materials que podem estudiar
+
+Les **perforacions** i els **xenòlits** són exemples de **mètodes directes**.
+
+En una perforació podem extreure roques i mesurar propietats dels materials que travessam, però només arribam a profunditats molt petites.
+
+Un **xenòlit** és un fragment de roca que un magma ha arrencat durant el seu ascens i ha transportat cap a zones més superficials. Podem analitzar-ne directament els minerals, la composició i la textura.
+
+<a class="pv-infografia-link" href="figures/estacio_xenolit.png" target="_blank" rel="noopener">
+<img src="figures/estacio_xenolit.png" alt="Infografia sobre els xenòlits com a mostres de roca transportades cap a la superfície pel magma">
+<span>Obre la infografia en gran ↗</span>
+</a>
+
+<p class="pv-nota-local"><strong>Infografia de consulta:</strong> no cal respondre les preguntes que hi apareixen. Observa sobretot què obtenim directament, què ens pot indicar la mostra i quines limitacions té.</p>
+
+> **Important**  
+> «Directe» no significa «perfecte». Tenim una mostra real, però encara hem d’interpretar d’on prové exactament i fins a quin punt representa la regió profunda.
+
+## 2.2 · Quan només podem mesurar efectes
+
+En altres casos no tenim cap mostra de la regió que volem estudiar.
+
+Un **sismògraf**, per exemple, no observa el mantell ni el nucli. Registra el moviment del sòl provocat per l’arribada de les ones sísmiques.
+
+A partir del comportament d’aquestes ones podem inferir propietats dels materials que han travessat. Això és un **mètode indirecte**.
+
+<a class="pv-infografia-link" href="figures/estacio_registre_sismic.png" target="_blank" rel="noopener">
+<img src="figures/estacio_registre_sismic.png" alt="Infografia sobre el registre sísmic com a mètode indirecte d'estudi de l'interior terrestre">
+<span>Obre la infografia en gran ↗</span>
+</a>
+
+<p class="pv-nota-local"><strong>Infografia de consulta:</strong> no cal respondre les preguntes que hi apareixen. Fixa't especialment en la diferència entre allò que mesura el sismògraf i allò que inferim a partir del registre.</p>
+
+> **Altres evidències indirectes**  
+> També podem obtenir informació de l’interior estudiant la **gravetat**, el **flux de calor**, el **camp magnètic** o el comportament de minerals sotmesos a pressions i temperatures elevades.
+
+## 2.3 · Una idea més important que els noms
+
+> **Els models de l’interior terrestre no depenen d’una única prova.**  
+> Són fiables perquè **evidències diferents i independents encaixen en una mateixa explicació**.
+
+### Comparam dues fonts
+
+<p class="pv-pregunta"><strong>Quina diferència fonamental hi ha entre la informació que ens proporciona un xenòlit i la que ens proporciona un sismògraf?</strong></p>
+
+**Pensa-hi uns segons. Després comenta-ho amb la persona del costat i preparau una resposta oral breu.**
+
+Quan ho posem en comú, ens fixarem sobretot en aquesta diferència:
+
+<div class="pv-cadena">
+<strong>material que podem estudiar</strong> → mètode directe<br>
+<strong>efecte que podem mesurar</strong> → mètode indirecte
+</div>
+
+No cal memoritzar ara una llista de mètodes. El que ens interessa és entendre **quin tipus de dada obtenim i què podem inferir a partir d’ella**.
+
+> **Per ampliar o repassar:** [Material guia · 2.1 · Mètodes directes i indirectes](../../../material/ud2/ud2/#21-metodes-directes-i-indirectes)
+
+D’entre els mètodes indirectes, les **ones sísmiques** han aportat informació especialment detallada sobre l’estructura profunda de la Terra.
+
+Per entendre què ens poden revelar, primer hem de saber **com es comporten les ones P i S**.
+
+<!-- DOCENT: 8–10 min. 4–5 min d'explicació visual amb les dues infografies, 30 s individual + 1–2 min en parelles + 2–3 intervencions en veu alta. Formalitzar directe/indirecte al final. No es recull cap resposta ni es qualifica. -->
+
+</section>
+
 </div>
