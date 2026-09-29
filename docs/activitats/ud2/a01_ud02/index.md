@@ -258,13 +258,13 @@ Un mateix terratrèmol genera ones que es propaguen en moltes direccions. Les es
 **30 segons individualment → 1 minut en parelles → posada en comú breu.**
 
 > **Predicció inicial**  
-> Si les propietats de l’interior fossin les mateixes a tot arreu, esperaríem un patró relativament regular de propagació.
+> Si l’interior fos homogeni, esperaríem que les ones es propagassin de manera contínua i predictible, sense zones extenses on deixassin de registrar-se.
 
 Però això **no és el que observam**.
 
 ## 4.2 · Una zona on no arriben les ones S
 
-Observa aquesta figura. Durant uns segons, limita’t a **descriure què hi veus**; encara no intentis explicar per què passa.
+Observa aquesta figura i fixa’t en **on arriben les ones S i on deixen de registrar-se**.
 
 <a class="pv-infografia-link" href="figures/a01_fig04a_zona_ombra_ones_s.png" target="_blank" rel="noopener">
 <img src="figures/a01_fig04a_zona_ombra_ones_s.png" alt="Figura 4A: esquema conceptual de la zona d'ombra de les ones S">
@@ -273,16 +273,12 @@ Observa aquesta figura. Durant uns segons, limita’t a **descriure què hi veus
 
 <div class="pv-repte">
 <p><strong>En parelles</strong></p>
-<p>Descriviu el patró de les ones S <strong>sense explicar encara què significa</strong>.</p>
+<p>Descriviu el patró que mostra la figura.</p>
+<ul>
+<li>On es registren ones S?</li>
+<li>Què passa a partir d’uns <strong>103°</strong>?</li>
+</ul>
 </div>
-
-Algunes preguntes que poden ajudar a mirar la figura:
-
-- On es registren ones S?
-- A partir de quina distància angular deixen de detectar-se directament?
-- Quina extensió té la zona sense registres directes d’ones S?
-
-<div class="pv-cadena"><strong>OBSERVACIÓ</strong> ≠ <strong>INTERPRETACIÓ</strong></div>
 
 ### Ara, interpretam
 
@@ -290,7 +286,7 @@ Recorda una propietat que ja hem treballat:
 
 > **Les ones S es propaguen pels sòlids però no pels líquids.**
 
-<p class="pv-pregunta"><strong>Quina propietat hauria de tenir una regió interna perquè pogués explicar aquest patró?</strong></p>
+<p class="pv-pregunta"><strong>Com podem explicar aquest patró?</strong></p>
 
 <div class="pv-cadena"><strong>no arriben ones S</strong> → <strong>hi ha una regió que no poden travessar</strong> → <strong>és compatible amb un medi líquid</strong></div>
 
@@ -310,16 +306,16 @@ Observa ara què passa amb les ones P.
 <p>Quina diferència important hi ha entre el comportament de les <strong>ones P</strong> i el de les <strong>ones S</strong> quan arriben a la regió interna?</p>
 </div>
 
-Volem distingir dues observacions:
+<!-- DOCENT: Deixar que la comparació aparegui en la posada en comú abans de formalitzar-la. -->
 
-- les ones S **no travessen** la regió interna;
-- les ones P **sí que la travessen**, però la seva trajectòria canvia notablement.
+> **Després de la posada en comú**  
+> A diferència de les ones S, les ones P **travessen la regió interna**, però la seva trajectòria canvia notablement.
 
 Recorda ara la refracció:
 
 > Quan una ona entra en un material amb propietats diferents, la seva velocitat pot canviar i la trajectòria es pot **refractar**.
 
-<p class="pv-pregunta"><strong>Què ens permet inferir el canvi de trajectòria de les ones P?</strong></p>
+<p class="pv-pregunta"><strong>Què indica el canvi brusc de trajectòria de les ones P sobre les propietats dels materials que travessen?</strong></p>
 
 > **Inferència provisional**  
 > Hi ha una frontera entre regions amb propietats diferents i aquest canvi modifica la propagació de les ones P.
@@ -342,87 +338,36 @@ Aporten informació sobre canvis en les propietats dels materials.
 </div>
 
 <div class="pv-repte">
-<p><strong>Repte en parelles</strong></p>
-<p>Construïu <strong>el model més senzill possible de l’interior terrestre</strong> que pugui explicar simultàniament:</p>
-<ol>
-<li>que les ones S desapareguin a partir d’una determinada distància;</li>
-<li>que les ones P travessin la regió profunda però canviïn fortament de trajectòria;</li>
-<li>que apareguin zones de la superfície on no es registren determinades ones.</li>
-</ol>
-<p><strong>Dibuixau el model al quadern.</strong> Representau només allò que pugueu justificar amb aquestes evidències.</p>
+<p><strong>Evidència formativa · en parelles</strong></p>
+<p>Dibuixau <strong>el model més senzill de l’interior terrestre</strong> que pugui explicar simultàniament els dos patrons de les figures 4A i 4B.</p>
+<p>Al costat del dibuix, indicau <strong>quina evidència justifica cada regió o frontera</strong> que hi representeu.</p>
 </div>
 
 ### Quan posem els models en comú
 
-1. **Quina dada justifica cada frontera que heu dibuixat?**
-2. **Per què la regió interna no pot tenir les mateixes propietats que la que l’envolta?**
-3. **Per què les ones P i S ens aporten informació diferent?**
-4. **Podríem explicar les observacions amb una Terra homogènia?**
+1. **Quina dada justifica cada frontera o regió del vostre model?**
+2. **Podríem explicar els dos patrons amb un model més senzill?**
 
-## 4.5 · Dades → inferències → model
+<!-- DOCENT: Aquesta producció és evidència formativa, no qualificable. Serveix per observar si l'alumnat vincula cada element del model amb dades concretes. -->
 
-<div class="pv-dos-passos">
-<div>
-<strong>DADES</strong><br>
-Zones on les S no arriben.<br>
-Canvis de trajectòria de les P.<br>
-Zones d’ombra diferents.
-</div>
-<div>
-<strong>INFERÈNCIES</strong><br>
-L’interior no és homogeni.<br>
-Hi ha fronteres entre materials diferents.<br>
-Una regió profunda és compatible amb estat líquid.
-</div>
-</div>
+## 4.5 · Què acabam de fer?
 
-<div class="pv-cadena"><strong>DADES</strong> → <strong>INFERÈNCIES</strong> → <strong>MODEL DE L’INTERIOR</strong></div>
+<div class="pv-cadena"><strong>dades sísmiques</strong> → <strong>inferències sobre els materials</strong> → <strong>model de l’interior</strong></div>
 
 > **Idea clau**  
-> No coneixem l’interior terrestre perquè l’hàgim observat directament. Construïm el model que **explica conjuntament els patrons observats en les ones sísmiques**.
+> Un model científic és útil si permet explicar conjuntament les observacions disponibles.
 
 > **Per ampliar o repassar:** [Material guia · 2.3 · Les ones canvien quan canvia el medi](../../../material/ud2/ud2/#23-les-ones-canvien-quan-canvia-el-medi) · [2.4 · Les zones d’ombra](../../../material/ud2/ud2/#24-les-zones-dombra-una-evidencia-dun-nucli-diferent-del-mantell)
-
-<p class="pv-pregunta"><strong>Si les dades indiquen que l’interior està format per regions diferents, quines són aquestes regions i com les descriu actualment la geologia?</strong></p>
 
 </section>
 
 <section class="pv-seccio" markdown>
 
-# 5 · Comparam el nostre model amb el model científic
+# 5 · Posam nom al model científic
 
-Al bloc anterior hem intentat explicar les zones d’ombra i les trajectòries de les ones construint **el model més senzill possible**.
+Al bloc anterior hem construït un model mínim a partir de les zones d’ombra i de les trajectòries de les ones. Ara el comparam amb el model que utilitza actualment la geologia i hi posam nom a les regions.
 
-Ara podem comparar aquella proposta amb el model que utilitza actualment la geologia.
-
-## 5.1 · Què havíem aconseguit inferir?
-
-Recupera el model que heu construït en parelles.
-
-<p class="pv-pregunta"><strong>Quines idees principals intentava explicar?</strong></p>
-
-Recuperarem oralment les idees que havíem justificat amb les dades: que l’interior **no és homogeni**, que hi ha **regions amb propietats diferents** i que una regió profunda és compatible amb un **estat líquid**.
-
-### Contrast visual
-
-Observa ara una representació de com es propaguen les ones P i S a través d’un interior estructurat en regions.
-
-<a class="pv-infografia-link" href="figures/geo04_04_ones_p_s_interior.png" target="_blank" rel="noopener">
-<img src="figures/geo04_04_ones_p_s_interior.png" alt="Esquema de propagació de les ones P i S a través de diferents regions de l'interior terrestre">
-<span>Obre la figura en gran ↗</span>
-</a>
-
-<p class="pv-pregunta"><strong>En què s’assembla aquesta representació al model que havíeu proposat?</strong></p>
-
-## 5.2 · Què aporta aquesta representació?
-
-Les trajectòries de les ones no són rectes perquè la velocitat de propagació **canvia amb la profunditat**.
-
-Quan les ones arriben a fronteres entre materials amb propietats diferents, poden **refractar-se**. El comportament diferent de les ones P i S permet identificar regions internes i inferir-ne algunes propietats.
-
-<div class="pv-cadena"><strong>observacions sísmiques</strong> → <strong>inferències</strong> → <strong>model de l’interior</strong></div>
-
-## 5.3 · Posam nom a les regions
+## 5.1 · Posam nom a les regions
 
 <a class="pv-infografia-link" href="figures/geo04_08_model_interior_terra.png" target="_blank" rel="noopener">
 <img src="figures/geo04_08_model_interior_terra.png" alt="Model de l'estructura interna de la Terra amb les principals regions i discontinuïtats">
@@ -445,7 +390,7 @@ Les principals fronteres sísmiques són:
 > **Dues precisions importants**  
 > El **mantell és majoritàriament sòlid**, encara que es pugui deformar molt lentament a escala geològica. El **nucli extern és líquid** i el **nucli intern és sòlid**.
 
-## 5.4 · Dos models per descriure la mateixa Terra
+## 5.2 · Dos models per descriure la mateixa Terra
 
 La Terra es pot dividir de maneres diferents segons **quina propietat ens interessa descriure**.
 
@@ -468,7 +413,7 @@ Es basa sobretot en el **comportament mecànic** dels materials:
 
 > **Per ampliar o repassar:** [Material guia · Models de l’interior terrestre](../../../material/ud2/ud2/)
 
-## 5.5 · Tornam a les dades
+## 5.3 · Tornam a les dades
 
 <p class="pv-pregunta"><strong>Quina evidència sísmica és compatible amb un nucli extern líquid?</strong></p>
 
@@ -481,7 +426,7 @@ Recorda que:
 
 No cercam només recordar una dada. Volem comprovar si el model ens permet **fer una predicció**.
 
-## 5.6 · Síntesi
+## 5.4 · Síntesi
 
 > **Idea clau**  
 > Les capes internes de la Terra no són una classificació arbitrària. Les distingim perquè **diverses dades indiquen canvis en les propietats dels materials amb la profunditat**.
