@@ -81,23 +81,15 @@ Les perforacions ens permeten obtenir **mostres de roca**, mesurar la **temperat
 > **Idea clau**  
 > Podem obtenir mostres directes de les zones més superficials de la Terra, però la immensa majoria del planeta és inaccessible.
 
-<!-- DOCENT: 2 min. Observar i comentar la infografia. No demanar una resposta escrita. Preguntes orals possibles: què obtenim realment?, quina és la limitació?, què no podem saber simplement perforant? -->
-
 ## I aleshores, com ho sabem?
 
 <p class="pv-pregunta"><strong>Si no podem arribar físicament a gairebé cap part de l’interior terrestre, d’on pot venir la informació que ens permet construir-ne un model?</strong></p>
 
 **Pensa-hi uns segons i comenta una possibilitat amb la persona del costat.** Després en posarem algunes en comú.
 
-No cercam encara una classificació ni una definició. Només intentam identificar **quines coses podríem observar o mesurar sense haver d’arribar físicament a les zones profundes**.
-
 Les perforacions no són l’única font d’informació. Algunes dades provenen de **materials que arriben fins a nosaltres**; d’altres, d’**efectes que podem mesurar des de la superfície**.
 
-Al bloc següent veurem alguns exemples i ens centrarem en la font que més informació ha aportat sobre l’estructura profunda de la Terra: **les ones sísmiques**.
-
 > **Per ampliar o repassar:** [Material guia · 2.1 · Mètodes directes i indirectes](../../../material/ud2/ud2/#21-metodes-directes-i-indirectes)
-
-<!-- DOCENT: 30 s individual + 1 min en parella + posada en comú breu. No es recull cap resposta. -->
 
 </section>
 
@@ -113,8 +105,6 @@ De vegades podem estudiar **materials que procedeixen de l’interior**. En altr
 
 Les **perforacions** i els **xenòlits** són exemples de **mètodes directes**.
 
-En una perforació podem extreure roques i mesurar propietats dels materials que travessam, però només arribam a profunditats molt petites.
-
 Un **xenòlit** és un fragment de roca que un magma ha arrencat durant el seu ascens i ha transportat cap a zones més superficials. Podem analitzar-ne directament els minerals, la composició i la textura.
 
 <a class="pv-infografia-link" href="figures/estacio_xenolit.png" target="_blank" rel="noopener">
@@ -129,9 +119,7 @@ Un **xenòlit** és un fragment de roca que un magma ha arrencat durant el seu a
 
 ## 2.2 · Quan només podem mesurar efectes
 
-En altres casos no tenim cap mostra de la regió que volem estudiar.
-
-Un **sismògraf**, per exemple, no observa el mantell ni el nucli. Registra el moviment del sòl provocat per l’arribada de les ones sísmiques.
+Un **sismògraf** no observa el mantell ni el nucli. Registra el moviment del sòl provocat per l’arribada de les ones sísmiques.
 
 A partir del comportament d’aquestes ones podem inferir propietats dels materials que han travessat. Això és un **mètode indirecte**.
 
@@ -156,22 +144,12 @@ A partir del comportament d’aquestes ones podem inferir propietats dels materi
 
 **Pensa-hi uns segons. Després comenta-ho amb la persona del costat i preparau una resposta oral breu.**
 
-Quan ho posem en comú, ens fixarem sobretot en aquesta diferència:
-
 <div class="pv-cadena">
 <strong>material que podem estudiar</strong> → mètode directe<br>
 <strong>efecte que podem mesurar</strong> → mètode indirecte
 </div>
 
-No cal memoritzar ara una llista de mètodes. El que ens interessa és entendre **quin tipus de dada obtenim i què podem inferir a partir d’ella**.
-
 > **Per ampliar o repassar:** [Material guia · 2.1 · Mètodes directes i indirectes](../../../material/ud2/ud2/#21-metodes-directes-i-indirectes)
-
-D’entre els mètodes indirectes, les **ones sísmiques** han aportat informació especialment detallada sobre l’estructura profunda de la Terra.
-
-Per entendre què ens poden revelar, primer hem de saber **com es comporten les ones P i S**.
-
-<!-- DOCENT: 8–10 min. 4–5 min d'explicació visual amb les dues infografies, 30 s individual + 1–2 min en parelles + 2–3 intervencions en veu alta. Formalitzar directe/indirecte al final. No es recull cap resposta ni es qualifica. -->
 
 </section>
 
@@ -181,7 +159,7 @@ Per entendre què ens poden revelar, primer hem de saber **com es comporten les 
 
 Quan es produeix un terratrèmol, part de l’energia alliberada es propaga per l’interior de la Terra en forma d’**ones sísmiques**.
 
-No podem veure directament per on passen, però podem registrar **quan arriben, com es propaguen i com canvien la velocitat o la trajectòria**. Aquests canvis ens donen informació sobre els materials que han travessat.
+No podem veure directament per on passen, però podem registrar **quan arriben, com es propaguen i com canvien la velocitat o la trajectòria**.
 
 ## 3.1 · Miram com es propaguen
 
@@ -214,8 +192,6 @@ Selecciona un tipus d’ona i observa **com es mouen les partícules del materia
 
 <p class="pv-pregunta"><strong>Quina diferència observes entre el moviment de les partícules en una ona P i en una ona S?</strong></p>
 
-<!-- DOCENT: Projectar l'animació. 30 s d'observació i comentaris espontanis. Formalitzar després, sense recollir resposta escrita. -->
-
 Després de l’observació, podem resumir-ho així:
 
 - **Ones P:** les partícules vibren en la mateixa direcció en què avança l’ona. Es propaguen per **sòlids i líquids**.
@@ -223,28 +199,9 @@ Després de l’observació, podem resumir-ho així:
 
 > **Per ampliar o repassar:** [Material guia · 2.2 · Els terratrèmols ens permeten explorar l’interior](../../../material/ud2/ud2/#22-els-terratremols-ens-permeten-explorar-linterior)
 
-## 3.2 · Una primera predicció
+## 3.2 · Quan una ona canvia de medi
 
-<p class="pv-pregunta"><strong>Una ona P entra en una regió profunda i continua propagant-se. Una ona S, en canvi, deixa de detectar-se després d’arribar-hi. Quina hipòtesi formularies sobre aquesta regió?</strong></p>
-
-<div data-pv-quiz>
-<div class="pv-opcions">
-<button type="button" class="pv-opcio" data-feedback="p-solida" aria-pressed="false">A · És sòlida</button>
-<button type="button" class="pv-opcio" data-feedback="p-liquida" aria-pressed="false">B · És líquida</button>
-<button type="button" class="pv-opcio" data-feedback="p-cap" aria-pressed="false">C · No tenim cap informació</button>
-</div>
-<p class="pv-feedback" data-feedback-id="p-solida" hidden>No és la hipòtesi més compatible amb aquestes dades: les ones S sí que es poden propagar pels sòlids.</p>
-<p class="pv-feedback" data-feedback-id="p-liquida" hidden><strong>És la hipòtesi més compatible.</strong> Les ones P poden travessar líquids, però les ones S no.</p>
-<p class="pv-feedback" data-feedback-id="p-cap" hidden>Les dades sí que ens aporten informació: la desaparició de les ones S és una evidència rellevant sobre l’estat físic del material.</p>
-</div>
-
-<!-- DOCENT: Si es fa presencialment, abans de clicar es pot fer una votació A/B/C amb dits o targetes. Demanar: «quina dada justifica la resposta?». Introduir explícitament la cadena dada → inferència. -->
-
-<div class="pv-cadena"><strong>dada observada</strong> → <strong>inferència sobre el material</strong></div>
-
-## 3.3 · Quan l’ona canvia de direcció
-
-Observa ara què pot passar quan una ona arriba al límit entre dos materials amb propietats diferents.
+Observa què pot passar quan una ona arriba al límit entre dos materials amb propietats diferents.
 
 <a class="pv-infografia-link" href="../../../material/ud2/figures/00-01_sistema_i_interior/f03_ones_p_s_i_refraccio.png" target="_blank" rel="noopener">
 <img src="../../../material/ud2/figures/00-01_sistema_i_interior/f03_ones_p_s_i_refraccio.png" alt="Comparació conceptual entre ones P i S i refracció quan una ona canvia de medi">
@@ -258,48 +215,29 @@ Si detectam un canvi brusc en la velocitat o la trajectòria d’una ona, tenim 
 > **Discontinuïtat**  
 > Una zona de l’interior terrestre on es produeix un canvi important en les propietats dels materials.
 
-### Observació i inferència
+<p class="pv-pregunta"><strong>Què canvia quan l’ona passa del medi 1 al medi 2?</strong></p>
 
 <div class="pv-dos-passos">
 <div><strong>OBSERVACIÓ</strong><br>L’ona canvia de velocitat o de direcció.</div>
-<div><strong>INFERÈNCIA</strong><br>Ha travessat una frontera entre materials amb propietats diferents.</div>
+<div><strong>IDEA QUE ENS SERÀ ÚTIL</strong><br>Un canvi en la propagació pot indicar un canvi en les propietats del medi.</div>
 </div>
 
 > **Per ampliar o repassar:** [Material guia · 2.3 · Les ones canvien quan canvia el medi](../../../material/ud2/ud2/#23-les-ones-canvien-quan-canvia-el-medi)
 
-<!-- DOCENT: 30–60 s d'observació silenciosa de la figura. Després distingir oralment què observam i què inferim. Escriure a la pissarra OBSERVACIÓ → INFERÈNCIA. -->
+## 3.3 · Quines eines tenim ara?
 
-## 3.4 · Ara posa-ho junt
+Per interpretar els registres sísmics disposam de dues pistes:
 
-<div class="pv-repte">
-<p><strong>Repte en parelles</strong></p>
-<p>En una zona de l’interior terrestre s’observen aquestes dues dades:</p>
-<ol>
-<li>Les <strong>ones S deixen de detectar-se</strong>.</li>
-<li>Les <strong>ones P canvien bruscament de velocitat i de trajectòria</strong>.</li>
-</ol>
-<p><strong>Explica què podem inferir sobre aquesta zona i indica quines dades sustenten la teva interpretació.</strong></p>
-<p class="pv-nota-local">Per aquesta primera explicació pots utilitzar l’estructura: <strong>«Observam que... Això permet inferir que... perquè...»</strong></p>
+<div class="pv-dos-passos">
+<div><strong>P I S</strong><br>Les ones P i S no es propaguen igual per tots els materials.</div>
+<div><strong>REFRACCIÓ</strong><br>La velocitat i la trajectòria poden canviar quan canvien les propietats del medi.</div>
 </div>
 
-<!-- DOCENT: 4–5 min en parelles. Llegir dues respostes i millorar-les col·lectivament. No es qualifica. -->
+Encara **no hem aplicat aquestes pistes a l’interior real de la Terra**. Ho farem al bloc següent, comparant què registren estacions situades en diferents punts del planeta.
 
-<details class="pv-contrast">
-<summary>Si treballes a distància, contrasta el teu raonament</summary>
-<p>Les ones S desapareixen, fet compatible amb una regió líquida. A més, el canvi brusc de velocitat i trajectòria de les ones P indica que hi ha una frontera entre materials amb propietats diferents. Les dues observacions, interpretades conjuntament, permeten formular un model sobre aquesta regió interna.</p>
-</details>
+<p class="pv-pregunta"><strong>Si registram les ones d’un mateix terratrèmol arreu del planeta, hi arribaran de la mateixa manera a tot arreu?</strong></p>
 
-## Final de la primera sessió
-
-Ja sabem que les ones **responen als materials que travessen**.
-
-Per tant, si estudiam les seves trajectòries a escala planetària, podem intentar reconstruir **com és l’interior terrestre**.
-
-<p class="pv-pregunta"><strong>Què ens indiquen les trajectòries reals de les ones sísmiques?</strong></p>
-
-Aquesta serà la pregunta de partida de la sessió següent.
-
-<!-- DOCENT: El conjunt dels blocs 1–3 està pensat per ocupar aproximadament 40–45 minuts, deixant marge per transicions i participació oral. -->
+<!-- DOCENT: Tancament de la sessió 1. No resoldre encara la pregunta: és l'entrada al bloc 4. -->
 
 </section>
 
@@ -309,9 +247,7 @@ Aquesta serà la pregunta de partida de la sessió següent.
 
 Sabem que les ones sísmiques es propaguen per l’interior de la Terra i que el seu comportament depèn dels materials que travessen.
 
-Si registram un mateix terratrèmol en moltes estacions distribuïdes pel planeta, podem comprovar **on arriben les ones i on no arriben**.
-
-Aquest patró també és una dada.
+Si registram un mateix terratrèmol en moltes estacions distribuïdes pel planeta, podem comprovar **on arriben les ones i on no arriben**. Aquest patró també és una dada.
 
 ## 4.1 · Un terratrèmol, moltes estacions
 
@@ -321,25 +257,19 @@ Un mateix terratrèmol genera ones que es propaguen en moltes direccions. Les es
 
 **30 segons individualment → 1 minut en parelles → posada en comú breu.**
 
-No cal escriure una resposta. Cercam una predicció senzilla abans d’observar les dades reals.
-
 > **Predicció inicial**  
 > Si les propietats de l’interior fossin les mateixes a tot arreu, esperaríem un patró relativament regular de propagació.
 
 Però això **no és el que observam**.
 
-<!-- DOCENT: 3–4 min. Fer explícit que disposam de registres del mateix terratrèmol des de molts punts de la superfície. -->
-
 ## 4.2 · Una zona on no arriben les ones S
 
-Observa primer aquesta representació. Durant uns segons, limita’t a **descriure què hi veus**; encara no intentis explicar per què passa.
+Observa aquesta figura. Durant uns segons, limita’t a **descriure què hi veus**; encara no intentis explicar per què passa.
 
 <a class="pv-infografia-link" href="figures/a01_fig04a_zona_ombra_ones_s.svg" target="_blank" rel="noopener">
-<img src="figures/a01_fig04a_zona_ombra_ones_s.svg" alt="Esquema conceptual de la zona d'ombra de les ones S">
-<span>Obre la figura en gran ↗</span>
+<img src="figures/a01_fig04a_zona_ombra_ones_s.svg" alt="Figura 4A: esquema conceptual de la zona d'ombra de les ones S">
+<span>Obre la figura 4A en gran ↗</span>
 </a>
-
-### Primer, observam
 
 <div class="pv-repte">
 <p><strong>En parelles</strong></p>
@@ -354,8 +284,6 @@ Algunes preguntes que poden ajudar a mirar la figura:
 
 <div class="pv-cadena"><strong>OBSERVACIÓ</strong> ≠ <strong>INTERPRETACIÓ</strong></div>
 
-<!-- DOCENT: 1–2 min en parelles. Recollir formulacions estrictament descriptives abans d’acceptar interpretacions. -->
-
 ### Ara, interpretam
 
 Recorda una propietat que ja hem treballat:
@@ -364,21 +292,17 @@ Recorda una propietat que ja hem treballat:
 
 <p class="pv-pregunta"><strong>Quina propietat hauria de tenir una regió interna perquè pogués explicar aquest patró?</strong></p>
 
-Quan ho posem en comú, podem construir aquesta inferència:
-
 <div class="pv-cadena"><strong>no arriben ones S</strong> → <strong>hi ha una regió que no poden travessar</strong> → <strong>és compatible amb un medi líquid</strong></div>
 
 No li posam encara nom a aquesta regió. De moment ens interessa què permeten justificar les dades.
 
-<!-- DOCENT: 4–5 min. Fer que la conclusió «líquid» aparegui després de recuperar la propietat de les ones S. -->
-
 ## 4.3 · Les ones P ens conten una història diferent
 
-Observa ara què passa amb les ones P produïdes pel mateix tipus de terratrèmol.
+Observa ara què passa amb les ones P.
 
 <a class="pv-infografia-link" href="figures/a01_fig04b_zona_ombra_ones_p.svg" target="_blank" rel="noopener">
-<img src="figures/a01_fig04b_zona_ombra_ones_p.svg" alt="Esquema conceptual de la zona d'ombra de les ones P">
-<span>Obre la figura en gran ↗</span>
+<img src="figures/a01_fig04b_zona_ombra_ones_p.svg" alt="Figura 4B: esquema conceptual de la zona d'ombra de les ones P">
+<span>Obre la figura 4B en gran ↗</span>
 </a>
 
 <div class="pv-repte">
@@ -386,14 +310,12 @@ Observa ara què passa amb les ones P produïdes pel mateix tipus de terratrèmo
 <p>Quina diferència important hi ha entre el comportament de les <strong>ones P</strong> i el de les <strong>ones S</strong> quan arriben a la regió interna?</p>
 </div>
 
-**2 minuts en parelles.**
-
 Volem distingir dues observacions:
 
 - les ones S **no travessen** la regió interna;
 - les ones P **sí que la travessen**, però la seva trajectòria canvia notablement.
 
-Ara recuperam una altra idea del bloc anterior:
+Recorda ara la refracció:
 
 > Quan una ona entra en un material amb propietats diferents, la seva velocitat pot canviar i la trajectòria es pot **refractar**.
 
@@ -402,11 +324,7 @@ Ara recuperam una altra idea del bloc anterior:
 > **Inferència provisional**  
 > Hi ha una frontera entre regions amb propietats diferents i aquest canvi modifica la propagació de les ones P.
 
-<!-- DOCENT: 6–7 min. Evitar introduir encara els noms de les discontinuïtats. -->
-
 ## 4.4 · Posam les dues evidències juntes
-
-Ara compara directament els dos patrons.
 
 <div class="pv-dos-passos">
 <div>
@@ -431,19 +349,15 @@ Aporten informació sobre canvis en les propietats dels materials.
 <li>que les ones P travessin la regió profunda però canviïn fortament de trajectòria;</li>
 <li>que apareguin zones de la superfície on no es registren determinades ones.</li>
 </ol>
-<p><strong>Dibuixau el model al quadern.</strong> No heu de recordar el model del llibre: representau només allò que pugueu justificar amb aquestes evidències.</p>
+<p><strong>Dibuixau el model al quadern.</strong> Representau només allò que pugueu justificar amb aquestes evidències.</p>
 </div>
 
 ### Quan posem els models en comú
-
-Ens farem aquestes preguntes:
 
 1. **Quina dada justifica cada frontera que heu dibuixat?**
 2. **Per què la regió interna no pot tenir les mateixes propietats que la que l’envolta?**
 3. **Per què les ones P i S ens aporten informació diferent?**
 4. **Podríem explicar les observacions amb una Terra homogènia?**
-
-<!-- DOCENT: 6–8 min de construcció + uns 5 min de contrast col·lectiu. -->
 
 ## 4.5 · Dades → inferències → model
 
@@ -471,17 +385,13 @@ Una regió profunda és compatible amb estat líquid.
 
 <p class="pv-pregunta"><strong>Si les dades indiquen que l’interior està format per regions diferents, quines són aquestes regions i com les descriu actualment la geologia?</strong></p>
 
-Aquesta pregunta ens durà al bloc següent: **5 · Comparam el nostre model amb el model científic**.
-
-<!-- DOCENT: Bloc 4: aproximadament 31–37 min. És el nucli de la sessió 2. -->
-
 </section>
 
 <section class="pv-seccio" markdown>
 
 # 5 · Comparam el nostre model amb el model científic
 
-Al bloc anterior hem intentat explicar les trajectòries de les ones construint **el model més senzill possible**.
+Al bloc anterior hem intentat explicar les zones d’ombra i les trajectòries de les ones construint **el model més senzill possible**.
 
 Ara podem comparar aquella proposta amb el model que utilitza actualment la geologia.
 
@@ -489,11 +399,9 @@ Ara podem comparar aquella proposta amb el model que utilitza actualment la geol
 
 Recupera el model que heu construït en parelles.
 
-<p class="pv-pregunta"><strong>Quines dues idees principals intentava explicar?</strong></p>
+<p class="pv-pregunta"><strong>Quines idees principals intentava explicar?</strong></p>
 
-No cal una resposta escrita llarga. Recuperarem oralment les idees que havíem justificat amb les dades: que l’interior **no és homogeni**, que hi ha **regions amb propietats diferents** i que les fronteres internes poden modificar el comportament de les ones.
-
-<!-- DOCENT: 2–3 min. Recuperació oral del model propi abans de mostrar el model científic. -->
+Recuperarem oralment les idees que havíem justificat amb les dades: que l’interior **no és homogeni**, que hi ha **regions amb propietats diferents** i que una regió profunda és compatible amb un **estat líquid**.
 
 ### Contrast visual
 
@@ -506,10 +414,6 @@ Observa ara una representació de com es propaguen les ones P i S a través d’
 
 <p class="pv-pregunta"><strong>En què s’assembla aquesta representació al model que havíeu proposat?</strong></p>
 
-**1 minut individual → 2 minuts en parelles → posada en comú breu.**
-
-No cercam encara noms de capes: ens interessa comprovar si el nostre model intentava explicar **les mateixes observacions**.
-
 ## 5.2 · Què aporta aquesta representació?
 
 Les trajectòries de les ones no són rectes perquè la velocitat de propagació **canvia amb la profunditat**.
@@ -518,11 +422,7 @@ Quan les ones arriben a fronteres entre materials amb propietats diferents, pode
 
 <div class="pv-cadena"><strong>observacions sísmiques</strong> → <strong>inferències</strong> → <strong>model de l’interior</strong></div>
 
-No necessitam memoritzar les trajectòries exactes de la figura. El que interessa és entendre **per què aquestes trajectòries constitueixen evidències sobre l’estructura interna**.
-
 ## 5.3 · Posam nom a les regions
-
-Ara podem formalitzar el model.
 
 <a class="pv-infografia-link" href="figures/geo04_08_model_interior_terra.png" target="_blank" rel="noopener">
 <img src="figures/geo04_08_model_interior_terra.png" alt="Model de l'estructura interna de la Terra amb les principals regions i discontinuïtats">
@@ -545,8 +445,6 @@ Les principals fronteres sísmiques són:
 > **Dues precisions importants**  
 > El **mantell és majoritàriament sòlid**, encara que es pugui deformar molt lentament a escala geològica. El **nucli extern és líquid** i el **nucli intern és sòlid**.
 
-<!-- DOCENT: 5–7 min d'explicació amb la figura projectada. No fer copiar definicions. Relacionar cada regió amb les evidències treballades abans. -->
-
 ## 5.4 · Dos models per descriure la mateixa Terra
 
 La Terra es pot dividir de maneres diferents segons **quina propietat ens interessa descriure**.
@@ -568,15 +466,9 @@ Es basa sobretot en el **comportament mecànic** dels materials:
 
 <p class="pv-pregunta"><strong>Per què l’escorça i la litosfera no són sinònims?</strong></p>
 
-Aquesta pregunta la discutirem oralment. No cal convertir-la en una definició per memoritzar.
-
 > **Per ampliar o repassar:** [Material guia · Models de l’interior terrestre](../../../material/ud2/ud2/)
 
-<!-- DOCENT: 5–6 min. Si es disposa d'una figura comparativa geoquímic/geodinàmic, projectar-la aquí. L'objectiu és evitar la confusió escorça = litosfera. -->
-
 ## 5.5 · Tornam a les dades
-
-Ara que coneixem el model, tornem a la pregunta científica que el sustenta.
 
 <p class="pv-pregunta"><strong>Quina evidència sísmica és compatible amb un nucli extern líquid?</strong></p>
 
@@ -585,13 +477,9 @@ Recorda que:
 - les **ones S no travessen líquids**;
 - les **ones P sí que poden travessar-los**, però poden canviar de velocitat i de trajectòria.
 
-Després plantejarem una segona pregunta:
-
 <p class="pv-pregunta"><strong>Què esperaríem observar si el nucli extern fos sòlid?</strong></p>
 
 No cercam només recordar una dada. Volem comprovar si el model ens permet **fer una predicció**.
-
-<!-- DOCENT: 4–5 min. Discussió oral o en parelles. Fer explícita la relació model → predicció. -->
 
 ## 5.6 · Síntesi
 
@@ -601,8 +489,6 @@ No cercam només recordar una dada. Volem comprovar si el model ens permet **fer
 <div class="pv-cadena"><strong>dades</strong> → <strong>inferència</strong> → <strong>model</strong> → <strong>prediccions</strong></div>
 
 Al bloc següent hauràs d’interpretar **unes dades noves sense que el model ja estigui dibuixat**.
-
-<!-- DOCENT: Bloc 5: 25–29 min aproximadament. Si la discussió del bloc 4 s'allarga, es pot començar 5.1–5.3 al final de la sessió 2 i reprendre 5.4–5.6 a l'inici de la sessió 3. -->
 
 </section>
 
