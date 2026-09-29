@@ -533,25 +533,25 @@ L’objectiu no és només llegir la gràfica: has de passar de les **dades** a 
 <p>Respon individualment les cinc qüestions següents. En totes les respostes, utilitza les dades de la gràfica quan siguin pertinents.</p>
 </div>
 
-## 6.1 · Observam dos canvis clau
+## 6.1 · Dos canvis als 2.900 km
 
-<p class="pv-pregunta"><strong>1. Identifica els dos canvis més importants que es produeixen prop dels 2.900 km de profunditat i descriu-los utilitzant dades de la gràfica.</strong></p>
+<p class="pv-pregunta"><strong>1. Observa el punt dels 2.900 km de profunditat. Descriu amb les teves paraules quins dos fets dràstics ocorren amb les velocitats de les ones P i S. <em>(Consell: assegura't de citar els valors numèrics de la gràfica per donar suport a la teva resposta).</em></strong></p>
 
-## 6.2 · De les dades a la inferència
+## 6.2 · Una frontera molt prima, un canvi molt marcat
 
-<p class="pv-pregunta"><strong>2. Explica què permeten inferir aquests dos canvis sobre les propietats del material situat per davall dels 2.900 km.</strong></p>
+<p class="pv-pregunta"><strong>2. A l'extrem esquerre de la gràfica (profunditat 0-70 km), la velocitat de les ones salta bruscament a la discontinuïtat de Moho. Fes un cop d'ull a l'eix horitzontal: per què l'escorça gairebé no es veu visualment, però genera un canvi de velocitat tan marcat a l'eix vertical? Què creus que passa amb la roca just en passar aquesta línia?</strong></p>
 
-## 6.3 · Quina evidència és especialment informativa?
+## 6.3 · Del patró a l’estat físic
 
-<p class="pv-pregunta"><strong>3. Explica per què la desaparició de les ones S és una evidència especialment important per inferir l’estat físic del nucli extern.</strong></p>
+<p class="pv-pregunta"><strong>3. Aquests canvis dels 2.900 km marquen la frontera amb el nucli extern. L'estat d'aquest nucli és líquid. Explica pas a pas com l'absència de la línia de les ones S a partir d'aquest punt ens permet arribar a aquesta conclusió amb tanta seguretat.</strong></p>
 
-## 6.4 · Feim una predicció
+## 6.4 · Una Terra alternativa
 
-<p class="pv-pregunta"><strong>4. Si el nucli extern fos sòlid, quin comportament de les ones S esperaríem observar? Justifica-ho.</strong></p>
+<p class="pv-pregunta"><strong>4. Ara imagina una Terra alternativa on el nucli extern fos un bloc sòlid de ferro massís, molt més dens i rígid que el mantell rocós. Com dibuixaries la continuació de la corba de les ones S a partir dels 2.900 km? Baixaria, es mantindria igual o pujaria de cop? Raona la teva hipòtesi.</strong></p>
 
-## 6.5 · Criticam el model
+## 6.5 · Per què simplificam la realitat?
 
-<p class="pv-pregunta"><strong>5. La gràfica no mostra ones S al nucli intern, tot i que aquest és sòlid. Què ens indica això sobre la naturalesa d’aquesta representació? Explica per què una gràfica científica pot ser útil encara que simplifiqui la realitat.</strong></p>
+<p class="pv-pregunta"><strong>5. Sabem que el nucli intern és sòlid, i científicament està provat que per ell hi viatgen algunes ones secundàries. Tot i això, els creadors d'aquesta gràfica van decidir no dibuixar-les. Per què creus que en un llibre de text (o en un model científic inicial) és útil simplificar la realitat i ometre aquesta dada?</strong></p>
 
 <div class="pv-cadena"><strong>observació</strong> → <strong>inferència</strong> → <strong>justificació</strong> → <strong>predicció</strong> → <strong>crítica del model</strong></div>
 
