@@ -437,4 +437,50 @@ Al bloc següent hauràs d’interpretar **unes dades noves sense que el model j
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 6 · Repte individual · Què indiquen aquestes dades?
+
+**Tancament individual · CA 1.1**
+
+Ara treballaràs individualment amb una representació de la variació de la velocitat de les ones P i S amb la profunditat.
+
+L’objectiu no és només llegir la gràfica: has de passar de les **dades** a una **inferència**, justificar-la i valorar què pot —i què no pot— representar aquest model.
+
+<a class="pv-infografia-link" href="figures/a01_fig06_velocitat_ones_profunditat.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig06_velocitat_ones_profunditat.png" alt="Variació de la velocitat de les ones P i S amb la profunditat a l'interior de la Terra">
+<span>Obre la gràfica en gran ↗</span>
+</a>
+
+<div class="pv-repte">
+<p><strong>Evidència individual · CA 1.1</strong></p>
+<p>Respon individualment les cinc qüestions següents. En totes les respostes, utilitza les dades de la gràfica quan siguin pertinents.</p>
+</div>
+
+## 6.1 · Observam dos canvis clau
+
+<p class="pv-pregunta"><strong>1. Identifica els dos canvis més importants que es produeixen prop dels 2.900 km de profunditat i descriu-los utilitzant dades de la gràfica.</strong></p>
+
+## 6.2 · De les dades a la inferència
+
+<p class="pv-pregunta"><strong>2. Explica què permeten inferir aquests dos canvis sobre les propietats del material situat per davall dels 2.900 km.</strong></p>
+
+## 6.3 · Quina evidència és especialment informativa?
+
+<p class="pv-pregunta"><strong>3. Explica per què la desaparició de les ones S és una evidència especialment important per inferir l’estat físic del nucli extern.</strong></p>
+
+## 6.4 · Feim una predicció
+
+<p class="pv-pregunta"><strong>4. Si el nucli extern fos sòlid, quin comportament de les ones S esperaríem observar? Justifica-ho.</strong></p>
+
+## 6.5 · Criticam el model
+
+<p class="pv-pregunta"><strong>5. La gràfica no mostra ones S al nucli intern, tot i que aquest és sòlid. Què ens indica això sobre la naturalesa d’aquesta representació? Explica per què una gràfica científica pot ser útil encara que simplifiqui la realitat.</strong></p>
+
+<div class="pv-cadena"><strong>observació</strong> → <strong>inferència</strong> → <strong>justificació</strong> → <strong>predicció</strong> → <strong>crítica del model</strong></div>
+
+<!-- DOCENT: Evidència qualificable de CA 1.1. La pregunta 5 permet discriminar entre una lectura literal de la representació i una comprensió del caràcter simplificat dels models científics. -->
+
+</section>
+
 </div>
