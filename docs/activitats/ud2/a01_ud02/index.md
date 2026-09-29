@@ -266,8 +266,8 @@ Però això **no és el que observam**.
 
 Observa aquesta figura. Durant uns segons, limita’t a **descriure què hi veus**; encara no intentis explicar per què passa.
 
-<a class="pv-infografia-link" href="figures/a01_fig04a_zona_ombra_ones_s.svg" target="_blank" rel="noopener">
-<img src="figures/a01_fig04a_zona_ombra_ones_s.svg" alt="Figura 4A: esquema conceptual de la zona d'ombra de les ones S">
+<a class="pv-infografia-link" href="figures/a01_fig04a_zona_ombra_ones_s.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig04a_zona_ombra_ones_s.png" alt="Figura 4A: esquema conceptual de la zona d'ombra de les ones S">
 <span>Obre la figura 4A en gran ↗</span>
 </a>
 
@@ -300,8 +300,8 @@ No li posam encara nom a aquesta regió. De moment ens interessa què permeten j
 
 Observa ara què passa amb les ones P.
 
-<a class="pv-infografia-link" href="figures/a01_fig04b_zona_ombra_ones_p.svg" target="_blank" rel="noopener">
-<img src="figures/a01_fig04b_zona_ombra_ones_p.svg" alt="Figura 4B: esquema conceptual de la zona d'ombra de les ones P">
+<a class="pv-infografia-link" href="figures/a01_fig04b_zona_ombra_ones_p.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig04b_zona_ombra_ones_p.png" alt="Figura 4B: esquema conceptual de la zona d'ombra de les ones P">
 <span>Obre la figura 4B en gran ↗</span>
 </a>
 
