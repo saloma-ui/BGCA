@@ -387,4 +387,133 @@ Ens farem tres preguntes:
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 5 · Comparam el nostre model amb el model científic
+
+Al bloc anterior hem intentat explicar les trajectòries de les ones construint **el model més senzill possible**.
+
+Ara podem comparar aquella proposta amb el model que utilitza actualment la geologia.
+
+## 5.1 · Què havíem aconseguit inferir?
+
+Recupera el model que heu construït en parelles.
+
+<p class="pv-pregunta"><strong>Quines dues idees principals intentava explicar?</strong></p>
+
+No cal una resposta escrita llarga. Recuperarem oralment les idees que havíem justificat amb les dades: que l’interior **no és homogeni**, que hi ha **regions amb propietats diferents** i que les fronteres internes poden modificar el comportament de les ones.
+
+<!-- DOCENT: 2–3 min. Recuperació oral del model propi abans de mostrar el model científic. -->
+
+### Contrast visual
+
+Observa ara una representació de com es propaguen les ones P i S a través d’un interior estructurat en regions.
+
+<a class="pv-infografia-link" href="figures/geo04_04_ones_p_s_interior.png" target="_blank" rel="noopener">
+<img src="figures/geo04_04_ones_p_s_interior.png" alt="Esquema de propagació de les ones P i S a través de diferents regions de l'interior terrestre">
+<span>Obre la figura en gran ↗</span>
+</a>
+
+<p class="pv-pregunta"><strong>En què s’assembla aquesta representació al model que havíeu proposat?</strong></p>
+
+**1 minut individual → 2 minuts en parelles → posada en comú breu.**
+
+No cercam encara noms de capes: ens interessa comprovar si el nostre model intentava explicar **les mateixes observacions**.
+
+## 5.2 · Què aporta aquesta representació?
+
+Les trajectòries de les ones no són rectes perquè la velocitat de propagació **canvia amb la profunditat**.
+
+Quan les ones arriben a fronteres entre materials amb propietats diferents, poden **refractar-se**. El comportament diferent de les ones P i S permet identificar regions internes i inferir-ne algunes propietats.
+
+<div class="pv-cadena"><strong>observacions sísmiques</strong> → <strong>inferències</strong> → <strong>model de l’interior</strong></div>
+
+No necessitam memoritzar les trajectòries exactes de la figura. El que interessa és entendre **per què aquestes trajectòries constitueixen evidències sobre l’estructura interna**.
+
+## 5.3 · Posam nom a les regions
+
+Ara podem formalitzar el model.
+
+<a class="pv-infografia-link" href="figures/geo04_08_model_interior_terra.png" target="_blank" rel="noopener">
+<img src="figures/geo04_08_model_interior_terra.png" alt="Model de l'estructura interna de la Terra amb les principals regions i discontinuïtats">
+<span>Obre la figura en gran ↗</span>
+</a>
+
+A partir de moltes dades sísmiques i d’altres evidències, podem distingir grans regions segons la seva **composició**:
+
+- **escorça**;
+- **mantell**;
+- **nucli extern**;
+- **nucli intern**.
+
+Les principals fronteres sísmiques són:
+
+- **discontinuïtat de Mohorovičić (Moho)** → separa l’escorça del mantell;
+- **discontinuïtat de Gutenberg** → separa el mantell del nucli extern;
+- **discontinuïtat de Lehmann** → separa el nucli extern del nucli intern.
+
+> **Dues precisions importants**  
+> El **mantell és majoritàriament sòlid**, encara que es pugui deformar molt lentament a escala geològica. El **nucli extern és líquid** i el **nucli intern és sòlid**.
+
+<!-- DOCENT: 5–7 min d'explicació amb la figura projectada. No fer copiar definicions. Relacionar cada regió amb les evidències treballades abans. -->
+
+## 5.4 · Dos models per descriure la mateixa Terra
+
+La Terra es pot dividir de maneres diferents segons **quina propietat ens interessa descriure**.
+
+### Model geoquímic
+
+Es basa sobretot en la **composició** dels materials:
+
+<div class="pv-cadena"><strong>escorça</strong> → <strong>mantell</strong> → <strong>nucli</strong></div>
+
+### Model geodinàmic
+
+Es basa sobretot en el **comportament mecànic** dels materials:
+
+<div class="pv-cadena"><strong>litosfera</strong> → <strong>astenosfera</strong> → <strong>mantell inferior</strong> → <strong>nucli extern</strong> → <strong>nucli intern</strong></div>
+
+> **No són dos models rivals.**  
+> Descriuen la mateixa Terra fixant-se en propietats diferents.
+
+<p class="pv-pregunta"><strong>Per què l’escorça i la litosfera no són sinònims?</strong></p>
+
+Aquesta pregunta la discutirem oralment. No cal convertir-la en una definició per memoritzar.
+
+> **Per ampliar o repassar:** [Material guia · Models de l’interior terrestre](../../../material/ud2/ud2/)
+
+<!-- DOCENT: 5–6 min. Si es disposa d'una figura comparativa geoquímic/geodinàmic, projectar-la aquí. L'objectiu és evitar la confusió escorça = litosfera. -->
+
+## 5.5 · Tornam a les dades
+
+Ara que coneixem el model, tornem a la pregunta científica que el sustenta.
+
+<p class="pv-pregunta"><strong>Quina evidència sísmica és compatible amb un nucli extern líquid?</strong></p>
+
+Recorda que:
+
+- les **ones S no travessen líquids**;
+- les **ones P sí que poden travessar-los**, però poden canviar de velocitat i de trajectòria.
+
+Després plantejarem una segona pregunta:
+
+<p class="pv-pregunta"><strong>Què esperaríem observar si el nucli extern fos sòlid?</strong></p>
+
+No cercam només recordar una dada. Volem comprovar si el model ens permet **fer una predicció**.
+
+<!-- DOCENT: 4–5 min. Discussió oral o en parelles. Fer explícita la relació model → predicció. -->
+
+## 5.6 · Síntesi
+
+> **Idea clau**  
+> Les capes internes de la Terra no són una classificació arbitrària. Les distingim perquè **diverses dades indiquen canvis en les propietats dels materials amb la profunditat**.
+
+<div class="pv-cadena"><strong>dades</strong> → <strong>inferència</strong> → <strong>model</strong> → <strong>prediccions</strong></div>
+
+Al bloc següent hauràs d’interpretar **unes dades noves sense que el model ja estigui dibuixat**.
+
+<!-- DOCENT: Bloc 5: 25–29 min aproximadament. Si la discussió del bloc 4 s'allarga, es pot començar 5.1–5.3 al final de la sessió 2 i reprendre 5.4–5.6 a l'inici de la sessió 3. -->
+
+</section>
+
 </div>
