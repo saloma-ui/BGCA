@@ -175,4 +175,132 @@ Per entendre què ens poden revelar, primer hem de saber **com es comporten les 
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 3 · Les ones com a font d’informació
+
+Quan es produeix un terratrèmol, part de l’energia alliberada es propaga per l’interior de la Terra en forma d’**ones sísmiques**.
+
+No podem veure directament per on passen, però podem registrar **quan arriben, com es propaguen i com canvien la velocitat o la trajectòria**. Aquests canvis ens donen informació sobre els materials que han travessat.
+
+## 3.1 · Miram com es propaguen
+
+Selecciona un tipus d’ona i observa **com es mouen les partícules del material respecte de la direcció de propagació**.
+
+<div class="pv-ones-demo">
+<input class="pv-ona-radio" type="radio" name="tipus-ona" id="pv-ona-p" checked>
+<input class="pv-ona-radio" type="radio" name="tipus-ona" id="pv-ona-s">
+<div class="pv-ona-controls" role="group" aria-label="Selecciona el tipus d'ona sísmica">
+<label for="pv-ona-p">Ona P</label>
+<label for="pv-ona-s">Ona S</label>
+</div>
+<div class="pv-ona-panells">
+<div class="pv-ona-panell pv-panell-p" aria-label="Animació conceptual d'una ona P">
+<div class="pv-particules pv-particules-p" aria-hidden="true">
+<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+</div>
+<div class="pv-direccio">direcció de propagació →</div>
+<p><strong>Ona P · compressió</strong></p>
+</div>
+<div class="pv-ona-panell pv-panell-s" aria-label="Animació conceptual d'una ona S">
+<div class="pv-particules pv-particules-s" aria-hidden="true">
+<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+</div>
+<div class="pv-direccio">direcció de propagació →</div>
+<p><strong>Ona S · cisalla</strong></p>
+</div>
+</div>
+</div>
+
+<p class="pv-pregunta"><strong>Quina diferència observes entre el moviment de les partícules en una ona P i en una ona S?</strong></p>
+
+<!-- DOCENT: Projectar l'animació. 30 s d'observació i comentaris espontanis. Formalitzar després, sense recollir resposta escrita. -->
+
+Després de l’observació, podem resumir-ho així:
+
+- **Ones P:** les partícules vibren en la mateixa direcció en què avança l’ona. Es propaguen per **sòlids i líquids**.
+- **Ones S:** les partícules vibren perpendicularment a la direcció de propagació. Es propaguen pels **sòlids**, però **no pels líquids**.
+
+> **Per ampliar o repassar:** [Material guia · 2.2 · Els terratrèmols ens permeten explorar l’interior](../../../material/ud2/ud2/#22-els-terratremols-ens-permeten-explorar-linterior)
+
+## 3.2 · Una primera predicció
+
+<p class="pv-pregunta"><strong>Una ona P entra en una regió profunda i continua propagant-se. Una ona S, en canvi, deixa de detectar-se després d’arribar-hi. Quina hipòtesi formularies sobre aquesta regió?</strong></p>
+
+<div data-pv-quiz>
+<div class="pv-opcions">
+<button type="button" class="pv-opcio" data-feedback="p-solida" aria-pressed="false">A · És sòlida</button>
+<button type="button" class="pv-opcio" data-feedback="p-liquida" aria-pressed="false">B · És líquida</button>
+<button type="button" class="pv-opcio" data-feedback="p-cap" aria-pressed="false">C · No tenim cap informació</button>
+</div>
+<p class="pv-feedback" data-feedback-id="p-solida" hidden>No és la hipòtesi més compatible amb aquestes dades: les ones S sí que es poden propagar pels sòlids.</p>
+<p class="pv-feedback" data-feedback-id="p-liquida" hidden><strong>És la hipòtesi més compatible.</strong> Les ones P poden travessar líquids, però les ones S no.</p>
+<p class="pv-feedback" data-feedback-id="p-cap" hidden>Les dades sí que ens aporten informació: la desaparició de les ones S és una evidència rellevant sobre l’estat físic del material.</p>
+</div>
+
+<!-- DOCENT: Si es fa presencialment, abans de clicar es pot fer una votació A/B/C amb dits o targetes. Demanar: «quina dada justifica la resposta?». Introduir explícitament la cadena dada → inferència. -->
+
+<div class="pv-cadena"><strong>dada observada</strong> → <strong>inferència sobre el material</strong></div>
+
+## 3.3 · Quan l’ona canvia de direcció
+
+Observa ara què pot passar quan una ona arriba al límit entre dos materials amb propietats diferents.
+
+<a class="pv-infografia-link" href="../../../material/ud2/figures/00-01_sistema_i_interior/f03_ones_p_s_i_refraccio.png" target="_blank" rel="noopener">
+<img src="../../../material/ud2/figures/00-01_sistema_i_interior/f03_ones_p_s_i_refraccio.png" alt="Comparació conceptual entre ones P i S i refracció quan una ona canvia de medi">
+<span>Obre la figura en gran ↗</span>
+</a>
+
+Una ona que passa d’un material a un altre pot canviar de **velocitat** i de **direcció**. Aquest canvi de direcció s’anomena **refracció**.
+
+Si detectam un canvi brusc en la velocitat o la trajectòria d’una ona, tenim una evidència que **han canviat les propietats del material que travessa**.
+
+> **Discontinuïtat**  
+> Una zona de l’interior terrestre on es produeix un canvi important en les propietats dels materials.
+
+### Observació i inferència
+
+<div class="pv-dos-passos">
+<div><strong>OBSERVACIÓ</strong><br>L’ona canvia de velocitat o de direcció.</div>
+<div><strong>INFERÈNCIA</strong><br>Ha travessat una frontera entre materials amb propietats diferents.</div>
+</div>
+
+> **Per ampliar o repassar:** [Material guia · 2.3 · Les ones canvien quan canvia el medi](../../../material/ud2/ud2/#23-les-ones-canvien-quan-canvia-el-medi)
+
+<!-- DOCENT: 30–60 s d'observació silenciosa de la figura. Després distingir oralment què observam i què inferim. Escriure a la pissarra OBSERVACIÓ → INFERÈNCIA. -->
+
+## 3.4 · Ara posa-ho junt
+
+<div class="pv-repte">
+<p><strong>Repte en parelles</strong></p>
+<p>En una zona de l’interior terrestre s’observen aquestes dues dades:</p>
+<ol>
+<li>Les <strong>ones S deixen de detectar-se</strong>.</li>
+<li>Les <strong>ones P canvien bruscament de velocitat i de trajectòria</strong>.</li>
+</ol>
+<p><strong>Explica què podem inferir sobre aquesta zona i indica quines dades sustenten la teva interpretació.</strong></p>
+<p class="pv-nota-local">Per aquesta primera explicació pots utilitzar l’estructura: <strong>«Observam que... Això permet inferir que... perquè...»</strong></p>
+</div>
+
+<!-- DOCENT: 4–5 min en parelles. Llegir dues respostes i millorar-les col·lectivament. No es qualifica. -->
+
+<details class="pv-contrast">
+<summary>Si treballes a distància, contrasta el teu raonament</summary>
+<p>Les ones S desapareixen, fet compatible amb una regió líquida. A més, el canvi brusc de velocitat i trajectòria de les ones P indica que hi ha una frontera entre materials amb propietats diferents. Les dues observacions, interpretades conjuntament, permeten formular un model sobre aquesta regió interna.</p>
+</details>
+
+## Final de la primera sessió
+
+Ja sabem que les ones **responen als materials que travessen**.
+
+Per tant, si estudiam les seves trajectòries a escala planetària, podem intentar reconstruir **com és l’interior terrestre**.
+
+<p class="pv-pregunta"><strong>Què ens indiquen les trajectòries reals de les ones sísmiques?</strong></p>
+
+Aquesta serà la pregunta de partida de la sessió següent.
+
+<!-- DOCENT: El conjunt dels blocs 1–3 està pensat per ocupar aproximadament 40–45 minuts, deixant marge per transicions i participació oral. -->
+
+</section>
+
 </div>
