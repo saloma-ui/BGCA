@@ -303,4 +303,88 @@ Aquesta serà la pregunta de partida de la sessió següent.
 
 </section>
 
+<section class="pv-seccio" markdown>
+
+# 4 · De les trajectòries a l’interior
+
+Les ones sísmiques poden canviar de velocitat i de trajectòria quan canvien les propietats dels materials que travessen.
+
+Per tant, **la trajectòria d’una ona conté informació sobre l’interior terrestre**.
+
+## 4.1 · Primer, només observam
+
+Mira la figura durant aproximadament un minut. **No intentis explicar-la encara.** Fixa’t només en què fan les diferents trajectòries.
+
+<a class="pv-infografia-link" href="figures/a01_fig04_trajectories_sismiques.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig04_trajectories_sismiques.png" alt="Esquema conceptual de trajectòries sísmiques que arriben als punts A, B, C i D">
+<span>Obre la figura en gran ↗</span>
+</a>
+
+<p class="pv-pregunta"><strong>Què hi observes?</strong></p>
+
+<!-- DOCENT: 1 min de silenci. Recollir oralment observacions sense interpretar-les. Si apareix una conclusió («hi ha una capa líquida»), demanar: «això ho veus a la figura o ho estàs inferint?». -->
+
+<div class="pv-cadena"><strong>OBSERVACIÓ</strong> ≠ <strong>INTERPRETACIÓ</strong></div>
+
+## 4.2 · Quines trajectòries són diferents?
+
+<div class="pv-repte">
+<p><strong>En parelles</strong></p>
+<p>Compareu les trajectòries que arriben als punts <strong>A, B, C i D</strong>.</p>
+<p>Identificau <strong>dues diferències que es puguin observar directament a la figura</strong>.</p>
+</div>
+
+No cal escriure una explicació llarga. L’objectiu d’aquesta passa és aprendre a **descriure la representació abans d’interpretar-la**.
+
+<!-- DOCENT: 2–3 min en parelles + 4–5 min de posada en comú. Exemples d'observacions vàlides: una trajectòria es corba, una altra canvia de direcció en una frontera, algunes no travessen la mateixa regió. Evitar posar noms de capes encara. -->
+
+## 4.3 · Ara sí: què podem inferir?
+
+<p class="pv-pregunta"><strong>Quina hipòtesi sobre l’interior terrestre podria explicar aquestes diferències entre les trajectòries?</strong></p>
+
+No cercam encara els noms de les capes. Cercam **la inferència mínima que les dades permeten justificar**.
+
+> **Inferència provisional**  
+> Si les trajectòries canvien de manera sistemàtica, l’interior terrestre **no pot ser homogeni**. Hi ha regions o fronteres internes amb propietats diferents.
+
+<div class="pv-cadena"><strong>trajectòria observada</strong> → <strong>canvi de propietats</strong> → <strong>frontera o regió interna</strong></div>
+
+## 4.4 · Construïm el model més senzill possible
+
+<div class="pv-repte">
+<p><strong>Repte en parelles</strong></p>
+<p>Dibuixau un cercle que representi la Terra i construïu <strong>el model més senzill de l’interior que pugui explicar les trajectòries observades</strong>.</p>
+<p>No heu de reproduir el model del llibre. Representau només les regions o fronteres que considereu que podeu <strong>justificar amb les evidències disponibles</strong>.</p>
+</div>
+
+Feis el dibuix **al quadern, en una pissarreta o damunt un full**. La web no necessita un editor de dibuix: el que importa és poder explicar per què heu situat cada frontera.
+
+### Quan posem els models en comú
+
+Ens farem tres preguntes:
+
+1. **Quina dada justifica cada frontera que heu dibuixat?**
+2. **Podríem explicar les observacions amb menys regions?**
+3. **Què és dada i què és una decisió del nostre model?**
+
+<!-- DOCENT: 5–7 min de construcció + uns 5 min de contrast col·lectiu. Projectar un cercle buit i reconstruir un model comú a partir de les justificacions de l'alumnat. -->
+
+## 4.5 · De la dada al model
+
+<div class="pv-dos-passos">
+<div><strong>DADA</strong><br>Les ones segueixen trajectòries diferents, canvien de velocitat o no arriben a determinades zones.</div>
+<div><strong>INFERÈNCIA</strong><br>Els materials que travessen no tenen les mateixes propietats.</div>
+</div>
+
+<div class="pv-cadena"><strong>DADA</strong> → <strong>INFERÈNCIA</strong> → <strong>MODEL</strong></div>
+
+> **Model**  
+> Representam l’interior terrestre mitjançant regions separades per fronteres perquè aquesta representació permet explicar les observacions disponibles.
+
+> **Per ampliar o repassar:** [Material guia · 2.3 · Les ones canvien quan canvia el medi](../../../material/ud2/ud2/#23-les-ones-canvien-quan-canvia-el-medi) · [2.4 · Les zones d’ombra](../../../material/ud2/ud2/#24-les-zones-dombra-una-evidencia-dun-nucli-diferent-del-mantell)
+
+<!-- DOCENT: Bloc 4: aproximadament 25–30 min. No introduir encara formalment els models geoquímic i geodinàmic. El bloc 5 començarà contrastant el model construït per l'alumnat amb els models geològics actuals. -->
+
+</section>
+
 </div>
