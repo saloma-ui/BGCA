@@ -365,75 +365,155 @@ Aporten informació sobre canvis en les propietats dels materials.
 
 # 5 · Posam nom al model científic
 
-Al bloc anterior hem construït un model mínim a partir de les zones d’ombra i de les trajectòries de les ones. Ara el comparam amb el model que utilitza actualment la geologia i hi posam nom a les regions.
+Al bloc anterior hem construït **el model més senzill possible** a partir de les dades sísmiques.
 
-## 5.1 · Posam nom a les regions
+Ara podem comparar-lo amb el model que utilitza actualment la geologia i posar nom a les regions i fronteres que hem començat a inferir.
 
-<a class="pv-infografia-link" href="figures/geo04_08_model_interior_terra.png" target="_blank" rel="noopener">
-<img src="figures/geo04_08_model_interior_terra.png" alt="Model de l'estructura interna de la Terra amb les principals regions i discontinuïtats">
+## 5.1 · Les grans regions de l’interior
+
+<a class="pv-infografia-link" href="figures/a01_fig05_estructura_interna_terra.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig05_estructura_interna_terra.png" alt="Model de l'estructura interna de la Terra amb les principals regions i discontinuïtats">
 <span>Obre la figura en gran ↗</span>
 </a>
 
-A partir de moltes dades sísmiques i d’altres evidències, podem distingir grans regions segons la seva **composició**:
+El model actual distingeix quatre grans regions:
 
 - **escorça**;
 - **mantell**;
 - **nucli extern**;
 - **nucli intern**.
 
-Les principals fronteres sísmiques són:
+Entre aquestes regions hi ha fronteres on les propietats dels materials canvien. Algunes produeixen canvis detectables en la propagació de les ones sísmiques i reben el nom de **discontinuïtats**.
 
-- **discontinuïtat de Mohorovičić (Moho)** → separa l’escorça del mantell;
-- **discontinuïtat de Gutenberg** → separa el mantell del nucli extern;
-- **discontinuïtat de Lehmann** → separa el nucli extern del nucli intern.
+<div class="pv-dos-passos">
+<div>
+<strong>REGIONS</strong><br>
+Escorça<br>
+Mantell<br>
+Nucli extern<br>
+Nucli intern
+</div>
+<div>
+<strong>DISCONTINUÏTATS PRINCIPALS</strong><br>
+Moho · escorça–mantell<br>
+Gutenberg · mantell–nucli extern<br>
+Lehmann · nucli extern–nucli intern
+</div>
+</div>
 
-> **Dues precisions importants**  
-> El **mantell és majoritàriament sòlid**, encara que es pugui deformar molt lentament a escala geològica. El **nucli extern és líquid** i el **nucli intern és sòlid**.
+> **Una precisió important**  
+> El **mantell és majoritàriament sòlid**. El **nucli extern és líquid** i el **nucli intern és sòlid**.
 
-## 5.2 · Dos models per descriure la mateixa Terra
+<p class="pv-pregunta"><strong>Quina de les fronteres del model científic correspon millor a la que havíeu inferit a partir de les zones d’ombra?</strong></p>
 
-La Terra es pot dividir de maneres diferents segons **quina propietat ens interessa descriure**.
+<!-- DOCENT: Recuperar Gutenberg a partir del model construït al bloc 4. No convertir-ho en una bateria de preguntes de memòria. -->
 
-### Model geoquímic
+## 5.2 · L’escorça no té el mateix gruix a tot arreu
 
-Es basa sobretot en la **composició** dels materials:
+La capa més externa de la Terra és molt prima comparada amb el conjunt del planeta. A més, **no té el mateix gruix sota els continents i sota els oceans**.
 
-<div class="pv-cadena"><strong>escorça</strong> → <strong>mantell</strong> → <strong>nucli</strong></div>
+<a class="pv-infografia-link" href="figures/a01_fig05b_escorca_continental_oceanica.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig05b_escorca_continental_oceanica.png" alt="Comparació del gruix de l'escorça continental i de l'escorça oceànica">
+<span>Obre el detall de l’escorça en gran ↗</span>
+</a>
 
-### Model geodinàmic
+De manera aproximada:
 
-Es basa sobretot en el **comportament mecànic** dels materials:
+- l’**escorça continental** sol tenir un gruix d’uns **30–70 km**;
+- l’**escorça oceànica** és molt més prima, aproximadament **5–10 km**.
 
-<div class="pv-cadena"><strong>litosfera</strong> → <strong>astenosfera</strong> → <strong>mantell inferior</strong> → <strong>nucli extern</strong> → <strong>nucli intern</strong></div>
+Per això, la discontinuïtat de **Mohorovičić (Moho)** no es troba a la mateixa profunditat a tot el planeta.
+
+<p class="pv-pregunta"><strong>On esperaries trobar la Moho més profunda: sota un continent o sota un oceà? Quina dada de la figura ho justifica?</strong></p>
+
+## 5.3 · Escorça no és sinònim de litosfera
+
+Podem dividir l’interior terrestre utilitzant **criteris diferents**.
+
+Quan ens fixam sobretot en la **composició**, parlam d’escorça, mantell i nucli.
+
+Quan ens fixam en el **comportament mecànic**, apareixen altres regions, com la litosfera i l’astenosfera.
+
+<a class="pv-infografia-link" href="figures/a01_fig05c_litosfera_astenosfera.png" target="_blank" rel="noopener">
+<img src="figures/a01_fig05c_litosfera_astenosfera.png" alt="Detall de la litosfera i de l'astenosfera amb una escala de profunditat">
+<span>Obre el detall de la litosfera i l’astenosfera en gran ↗</span>
+</a>
+
+La **litosfera** és la capa externa rígida i inclou:
+
+- tota l’**escorça**;
+- i una part del **mantell superior**.
+
+Per davall hi ha l’**astenosfera**, formada també per materials del mantell, però amb un comportament més deformable a escala geològica.
+
+<div class="pv-cadena">
+<strong>escorça</strong> ≠ <strong>litosfera</strong><br>
+la litosfera inclou <strong>escorça + part superior del mantell</strong>
+</div>
+
+> **Important**  
+> Que l’astenosfera es pugui deformar i fluir lentament **no significa que sigui una capa líquida**.
+
+<p class="pv-pregunta"><strong>Per què una mateixa roca del mantell pot formar part de la litosfera o de l’astenosfera?</strong></p>
+
+## 5.4 · Dos models complementaris
+
+La mateixa Terra es pot descriure utilitzant models diferents segons **quina propietat ens interessa**.
+
+<div class="pv-dos-passos">
+<div>
+<strong>MODEL GEOQUÍMIC</strong><br>
+Es fixa sobretot en la <strong>composició</strong>.<br><br>
+escorça<br>
+mantell<br>
+nucli
+</div>
+<div>
+<strong>MODEL GEODINÀMIC</strong><br>
+Es fixa sobretot en el <strong>comportament mecànic</strong>.<br><br>
+litosfera<br>
+astenosfera<br>
+regions més profundes
+</div>
+</div>
 
 > **No són dos models rivals.**  
-> Descriuen la mateixa Terra fixant-se en propietats diferents.
+> Descriuen el mateix planeta fixant-se en propietats diferents.
 
 <p class="pv-pregunta"><strong>Per què l’escorça i la litosfera no són sinònims?</strong></p>
 
 > **Per ampliar o repassar:** [Material guia · Models de l’interior terrestre](../../../material/ud2/ud2/)
 
-## 5.3 · Tornam a les dades
+## 5.5 · Tornam a les dades
 
-<p class="pv-pregunta"><strong>Quina evidència sísmica és compatible amb un nucli extern líquid?</strong></p>
+Ara que hem posat nom a les regions, podem tornar a les observacions del bloc anterior.
 
-Recorda que:
+<div class="pv-dos-passos">
+<div>
+<strong>ONES S</strong><br>
+No travessen el nucli extern.<br>
+És una evidència compatible amb el seu <strong>estat líquid</strong>.
+</div>
+<div>
+<strong>ONES P</strong><br>
+El travessen, però canvien de velocitat i trajectòria.<br>
+Revelen un <strong>canvi important de propietats</strong>.
+</div>
+</div>
 
-- les **ones S no travessen líquids**;
-- les **ones P sí que poden travessar-los**, però poden canviar de velocitat i de trajectòria.
+<p class="pv-pregunta"><strong>Si el nucli extern fos sòlid, quina de les observacions anteriors esperaríem que fos diferent?</strong></p>
 
-<p class="pv-pregunta"><strong>Què esperaríem observar si el nucli extern fos sòlid?</strong></p>
+No es tracta només de recordar el model. Un model científic també ens ha de permetre **explicar observacions i fer prediccions**.
 
-No cercam només recordar una dada. Volem comprovar si el model ens permet **fer una predicció**.
+## 5.6 · Del model al repte individual
 
-## 5.4 · Síntesi
+<div class="pv-cadena"><strong>dades</strong> → <strong>inferències</strong> → <strong>model</strong> → <strong>prediccions</strong></div>
 
-> **Idea clau**  
-> Les capes internes de la Terra no són una classificació arbitrària. Les distingim perquè **diverses dades indiquen canvis en les propietats dels materials amb la profunditat**.
+Al bloc següent hauràs d’interpretar **unes dades sísmiques noves** sense que les regions de l’interior ja hi apareguin dibuixades.
 
-<div class="pv-cadena"><strong>dades</strong> → <strong>inferència</strong> → <strong>model</strong> → <strong>prediccions</strong></div>
+Hauràs de decidir què indiquen les dades i **justificar la conclusió amb evidències concretes**.
 
-Al bloc següent hauràs d’interpretar **unes dades noves sense que el model ja estigui dibuixat**.
+<!-- DOCENT: Transició al tancament individual de CA 1.1, equivalent al FULL 5 del PDF original. -->
 
 </section>
 
@@ -448,7 +528,7 @@ Ara treballaràs individualment amb una representació de la variació de la vel
 L’objectiu no és només llegir la gràfica: has de passar de les **dades** a una **inferència**, justificar-la i valorar què pot —i què no pot— representar aquest model.
 
 <a class="pv-infografia-link" href="figures/a01_fig06_velocitat_ones_profunditat.png" target="_blank" rel="noopener">
-<img src="figures/a01_fig06_velocitat_ones_profunditat.png" alt="Variació de la velocitat de les ones P i S amb la profunditat a l'interior de la Terra">
+<img src="figures/a01_fig06_velocitat_ones_profunditat.jpg" alt="Variació de la velocitat de les ones P i S amb la profunditat a l'interior de la Terra">
 <span>Obre la gràfica en gran ↗</span>
 </a>
 
