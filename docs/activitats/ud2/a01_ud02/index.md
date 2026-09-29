@@ -480,8 +480,6 @@ regions més profundes
 > **No són dos models rivals.**  
 > Descriuen el mateix planeta fixant-se en propietats diferents.
 
-<p class="pv-pregunta"><strong>Per què l’escorça i la litosfera no són sinònims?</strong></p>
-
 > **Per ampliar o repassar:** [Material guia · Models de l’interior terrestre](../../../material/ud2/ud2/)
 
 ## 5.5 · Tornam a les dades
@@ -501,9 +499,7 @@ Revelen un <strong>canvi important de propietats</strong>.
 </div>
 </div>
 
-<p class="pv-pregunta"><strong>Si el nucli extern fos sòlid, quina de les observacions anteriors esperaríem que fos diferent?</strong></p>
-
-No es tracta només de recordar el model. Un model científic també ens ha de permetre **explicar observacions i fer prediccions**.
+Aquestes observacions mostren com el model permet **explicar patrons sísmics**. Al bloc següent aplicaràs aquesta relació entre dades i model de manera individual.
 
 ## 5.6 · Del model al repte individual
 
@@ -584,7 +580,7 @@ Algunes ones P febles apareixen en zones que aquest model no explica bé.
 </div>
 </div>
 
-<p class="pv-pregunta"><strong>Si una dada nova no encaixa amb un model que fins ara funcionava, què hauríem de fer: descartar totes les observacions anteriors o revisar només la part del model que ja no les explica totes?</strong></p>
+<p class="pv-pregunta"><strong>Què hauríem de conservar del model anterior i què hauríem de revisar perquè també pugui explicar aquesta nova dada? Per què?</strong></p>
 
 **Comentau-ho breument en parelles abans de continuar.**
 
