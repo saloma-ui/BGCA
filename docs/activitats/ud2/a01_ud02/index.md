@@ -527,7 +527,7 @@ Ara treballaràs individualment amb una representació de la variació de la vel
 
 L’objectiu no és només llegir la gràfica: has de passar de les **dades** a una **inferència**, justificar-la i valorar què pot —i què no pot— representar aquest model.
 
-<a class="pv-infografia-link" href="figures/a01_fig06_velocitat_ones_profunditat.png" target="_blank" rel="noopener">
+<a class="pv-infografia-link" href="figures/a01_fig06_velocitat_ones_profunditat.jpg" target="_blank" rel="noopener">
 <img src="figures/a01_fig06_velocitat_ones_profunditat.jpg" alt="Variació de la velocitat de les ones P i S amb la profunditat a l'interior de la Terra">
 <span>Obre la gràfica en gran ↗</span>
 </a>
