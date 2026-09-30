@@ -292,6 +292,10 @@ Recorda una propietat que ja hem treballat:
 
 No li posam encara nom a aquesta regió. De moment ens interessa què permeten justificar les dades.
 
+Les ones S ja ens han donat una pista molt potent: hi ha una regió profunda que es comporta com un líquid. Però amb una sola evidència encara no tenim prou informació per construir un model complet de l’interior.
+
+Per això els sismòlegs comparen **tipus d’ones diferents**. Si les ones P mostren un patró compatible amb la mateixa frontera, la interpretació guanya força.
+
 ## 4.3 · Les ones P ens conten una història diferent
 
 Observa ara què passa amb les ones P.
@@ -319,6 +323,8 @@ Recorda ara la refracció:
 
 > **Inferència provisional**  
 > Hi ha una frontera entre regions amb propietats diferents i aquest canvi modifica la propagació de les ones P.
+
+Ara tenim dues observacions independents que apunten cap al mateix canvi intern. La qüestió ja no és només «què passa amb les ones?», sinó **quin model mínim de la Terra pot explicar simultàniament les dues dades**.
 
 ## 4.4 · Posam les dues evidències juntes
 
@@ -403,6 +409,9 @@ Lehmann · nucli extern–nucli intern
 
 > **Una precisió important**  
 > El **mantell és majoritàriament sòlid**. El **nucli extern és líquid** i el **nucli intern és sòlid**.
+
+> **Ciència i persones · Inge Lehmann**  
+> El 1936, la sismòloga danesa **Inge Lehmann** va interpretar registres d’ones P que no encaixaven amb un model de nucli completament líquid i va proposar l’existència d’un **nucli intern diferenciat**. El seu treball mostra com noves dades poden obligar a afinar un model científic sense haver de descartar allò que ja explicava bé.
 
 <p class="pv-pregunta"><strong>Quina de les fronteres del model científic correspon millor a la que havíeu inferit a partir de les zones d’ombra?</strong></p>
 
@@ -556,83 +565,6 @@ L’objectiu no és només llegir la gràfica: has de passar de les **dades** a 
 <div class="pv-cadena"><strong>observació</strong> → <strong>inferència</strong> → <strong>justificació</strong> → <strong>predicció</strong> → <strong>crítica del model</strong></div>
 
 <!-- DOCENT: Evidència qualificable de CA 1.1. La pregunta 5 permet discriminar entre una lectura literal de la representació i una comprensió del caràcter simplificat dels models científics. -->
-
-</section>
-
-<section class="pv-seccio" markdown>
-
-# 7 · Quan una dada no encaixa
-
-Els models científics no són dibuixos definitius de la realitat. Són explicacions que han de continuar funcionant quan apareixen **noves observacions**.
-
-Després d’identificar un nucli extern líquid, encara quedava un problema: alguns registres mostraven **ones P en zones on el model més senzill no preveia detectar-les**.
-
-## 7.1 · Una observació inesperada
-
-<div class="pv-dos-passos">
-<div>
-<strong>MODEL INICIAL</strong><br>
-Un mantell sòlid i un nucli líquid permeten explicar les grans zones d’ombra.
-</div>
-<div>
-<strong>NOVA DADA</strong><br>
-Algunes ones P febles apareixen en zones que aquest model no explica bé.
-</div>
-</div>
-
-<p class="pv-pregunta"><strong>Què hauríem de conservar del model anterior i què hauríem de revisar perquè també pugui explicar aquesta nova dada? Per què?</strong></p>
-
-**Comentau-ho breument en parelles abans de continuar.**
-
-> **Idea clau**  
-> Una dada inesperada no obliga necessàriament a començar de zero. Pot indicar que el model necessita **més detall**.
-
-## 7.2 · Inge Lehmann: una científica que va veure una pista diferent
-
-El **1936**, la sismòloga danesa **Inge Lehmann** va proposar una explicació per a aquestes arribades inesperades d’ones P.
-
-La seva interpretació era que el nucli no era una única regió líquida: a l’interior del nucli extern hi havia una **regió interna amb propietats diferents**, capaç de modificar la trajectòria de les ones P.
-
-Aquesta proposta permetia explicar dades que el model anterior deixava sense resposta.
-
-<div class="pv-dos-passos">
-<div>
-<strong>ABANS</strong><br>
-Mantell sòlid<br>
-Nucli líquid
-</div>
-<div>
-<strong>MODEL REVISAT</strong><br>
-Mantell sòlid<br>
-Nucli extern líquid<br>
-Nucli intern sòlid
-</div>
-</div>
-
-La frontera entre el nucli extern i el nucli intern rep avui el nom de **discontinuïtat de Lehmann**.
-
-<p class="pv-pregunta"><strong>Quina part del model anterior es manté i quina part s’ha hagut de modificar per incorporar la nova evidència?</strong></p>
-
-<!-- DOCENT: Pregunta de discussió, no evidència qualificable. Interessa que l'alumnat vegi que la revisió conserva les parts del model que continuen explicant les dades. -->
-
-## 7.3 · Una científica dins la història del model
-
-Quan estudiam l’estructura de la Terra és fàcil recordar només els noms de les capes i les discontinuïtats. Però aquests models són el resultat del treball de persones que **interpreten dades, proposen explicacions i les sotmeten a contrast**.
-
-El cas d’Inge Lehmann permet veure una científica no com una nota al marge de la història, sinó **al centre d’un canvi important en el model de l’interior terrestre**.
-
-<p class="pv-pregunta"><strong>Què ens ensenya aquest cas sobre la diferència entre “aprendre un model” i entendre com s’ha construït?</strong></p>
-
-## 7.4 · Tancam l’activitat
-
-Al llarg de l’activitat hem seguit el mateix recorregut que segueix moltes vegades la ciència:
-
-<div class="pv-cadena"><strong>observació</strong> → <strong>evidència</strong> → <strong>inferència</strong> → <strong>model</strong> → <strong>predicció</strong> → <strong>nova dada</strong> → <strong>revisió del model</strong></div>
-
-> **Idea final**  
-> Els models científics no són immutables. Es mantenen mentre expliquen les observacions i es **revisen quan noves evidències exigeixen una explicació millor**.
-
-<!-- DOCENT: Tancament conceptual i històric de l'activitat. No genera una nova evidència qualificable. -->
 
 </section>
 
