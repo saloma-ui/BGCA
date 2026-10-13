@@ -20,7 +20,7 @@ hide:
 
 **La nostra investigació:** observam evidències, proposam models, feim prediccions i comprovam què canvia quan apareixen dades noves.
 
-**Organització:** quatre sessions d'investigació compartida i una sessió final de treball individual. Les aportacions dels episodis 1–7 són formatives; els dos tancaments de la sessió 5 són individuals i avaluables.
+**Organització:** els episodis 1–7 es treballen de manera guiada i les aportacions són formatives. L'episodi 8 és individual i recull dues evidències d'avaluació diferenciades.
 
 </div>
 
@@ -36,8 +36,6 @@ hide:
 
 ## 1 · Wegener: les primeres evidències
 
-<span class="a02-sessio">Sessió 1 · 19 minuts</span>
-
 A començaments del segle XX, Alfred Wegener va reunir observacions que eren difícils d'explicar si els continents sempre haguessin ocupat la mateixa posició.
 
 <figure class="a02-figura a02-mapa">
@@ -47,7 +45,7 @@ A començaments del segle XX, Alfred Wegener va reunir observacions que eren dif
 
 <p class="pv-pregunta"><strong>Quines coincidències observau? Quina hipòtesi permet explicar-les conjuntament?</strong></p>
 
-**Primer, pensa-hi individualment (1 min); després, contrasta-ho amb una parella.** Triau almenys dues observacions per defensar la hipòtesi.
+**Primer, pensa-hi individualment; després, contrasta-ho amb una parella.** Triau almenys dues observacions per defensar la hipòtesi.
 
 <div class="a02-camp">
 <label for="a02-h1">Hipòtesi provisional (opcional si la registrau al quadern)</label>
@@ -69,8 +67,6 @@ A començaments del segle XX, Alfred Wegener va reunir observacions que eren dif
 <section class="pv-seccio" markdown>
 
 ## 2 · Un model que encara té un problema
-
-<span class="a02-sessio">Sessió 1 · 11 minuts</span>
 
 Wegener va proposar que els continents havien estat units i posteriorment s'havien desplaçat. El model relacionava diverses observacions, però els mecanismes físics que proposava no eren satisfactoris.
 
@@ -101,8 +97,6 @@ Wegener va proposar que els continents havien estat units i posteriorment s'havi
 
 ## 3 · Descobrim el fons oceànic
 
-<span class="a02-sessio">Sessions 1 i 2 · 24 minuts</span>
-
 ### 3.1 · Mesuram allò que no podem veure
 
 Durant molt temps, el relleu dels grans oceans era poc conegut. Les campanyes oceanogràfiques varen començar a acumular mesures amb ecosondes.
@@ -125,13 +119,13 @@ Durant molt temps, el relleu dels grans oceans era poc conegut. Les campanyes oc
 
 **Observau sense explicar encara l'origen:** el fons no és una plana uniforme. A la zona central destaca una dorsal amb una depressió axial.
 
-**Pregunta oberta per a la sessió 2:** com podríem saber si aquesta estructura també és geològicament activa?
+**Pregunta per continuar:** com podríem saber si aquesta estructura també és geològicament activa?
 
 </div>
 
 ### 3.2 · Una segona font de dades
 
-A la sessió següent, començam examinant el relleu batimètric de la regió.
+Examinam ara el relleu batimètric de la regió.
 
 <figure class="a02-figura a02-panel-estret">
 <a href="figures/a02-03a-batimetria.webp" target="_blank" rel="noopener" aria-label="Obre la figura en una pestanya nova per ampliar-la"><img src="figures/a02-03a-batimetria.webp" alt="Mapa batimètric amb una elevació submarina central d'orientació nord-sud, envoltada de zones més profundes." loading="lazy"></a>
@@ -161,8 +155,6 @@ A la sessió següent, començam examinant el relleu batimètric de la regió.
 
 ## 4 · Marie Tharp: ciència col·lectiva
 
-<span class="a02-sessio">Sessió 2 · 24 minuts</span>
-
 El coneixement científic no apareix a partir d'un únic tipus de tasca. Les campanyes oceanogràfiques obtenien mesures de profunditat al llarg dels recorreguts dels vaixells. Marie Tharp transformava grans quantitats de mesures en perfils i mapes del relleu submarí.
 
 En estudiar l'Atlàntic, va identificar una depressió associada a la serralada submarina. La comparació posterior amb dades de sismicitat va reforçar la interpretació que aquella regió era geològicament activa.
@@ -188,8 +180,6 @@ Durant anys, Marie Tharp no va poder embarcar en determinades campanyes oceanogr
 <section class="pv-seccio pv-visual" markdown>
 
 ## 5 · Una hipòtesi que s'arrisca a predir
-
-<span class="a02-sessio">Sessions 2 i 3 · 32 minuts</span>
 
 ### 5.1 · Les roques conserven informació magnètica
 
@@ -237,8 +227,6 @@ Per a aquesta **predicció inicial**, imaginau que el moviment és aproximadamen
 
 ## 6 · Dues evidències independents
 
-<span class="a02-sessio">Sessions 3 i 4 · 30 minuts</span>
-
 Disposem d'una hipòtesi sobre la formació i el desplaçament del fons oceànic. Ara la contrastarem amb una altra font de dades: **l'edat de les roques**.
 
 <p class="pv-pregunta"><strong>Si es forma roca nova a l'eix de la dorsal, on haurien de ser les roques més joves? Com variaria l'edat en allunyar-nos de l'eix?</strong></p>
@@ -283,8 +271,6 @@ Disposem d'una hipòtesi sobre la formació i el desplaçament del fons oceànic
 
 ## 7 · Un model amb més capacitat explicativa
 
-<span class="a02-sessio">Sessió 4 · 24 minuts</span>
-
 Ara hem reunit cinc línies d'evidència. No es tracta de tornar a respondre totes les preguntes, sinó de reconstruir **què aporta cada una**.
 
 <div class="a02-targetes">
@@ -324,13 +310,9 @@ L'expansió oceànica és una peça del model de tectònica de plaques, però **
 
 ## 8 · Tancament individual
 
-<span class="a02-sessio">Sessió 5 · 50 minuts</span>
-
 A partir d'aquí **treballau individualment i lliurau les respostes segons indiqui el professorat**. Els dos apartats generen evidències d'avaluació diferents. Les revelacions dels episodis anteriors són per aprendre; **aquí no hi ha solucions ni autocorrecció**.
 
 ### 8.1 · Quan les dades obliguen a afinar un model · CA 4.2
-
-**Temps orientatiu: 20 minuts**
 
 Un equip científic estudia el fons oceànic a banda i banda d'una dorsal. Inicialment proposa aquest model:
 
@@ -353,8 +335,6 @@ Posteriorment obté aquestes datacions de roques. Les distàncies s'han mesurat 
 **c)** Una banda paleomagnètica representa roca formada durant un interval determinat de polaritat del camp magnètic. Si el teu model revisat fos correcte, **com esperaries que fossin les amplades de les bandes corresponents al mateix interval de temps a cada costat de la dorsal?** Justifica la predicció.
 
 ### 8.2 · Com es construeix una teoria científica? · CA 2.3
-
-**Temps orientatiu: 25 minuts**
 
 Una exposició sobre la història de la geologia inclou aquesta explicació:
 
