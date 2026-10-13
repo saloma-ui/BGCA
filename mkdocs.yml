@@ -56,6 +56,7 @@ nav:
       - UD2:
           - Índex: activitats/ud2/index.md
           - A01 · Com sabem què hi ha dins la Terra?: activitats/ud2/a01_ud02/index.md
+          - A02 · Com canvia una teoria científica?: activitats/ud2/a02_ud02/index.md
       - UD3: activitats/ud3/index.md
       - UD4: activitats/ud4/index.md
 
@@ -73,9 +74,11 @@ extra_css:
   - presentacio.css
   - a01_ud02.css
   - a01_ud02_classificacio.css
+  - a02_ud02.css
 
 extra_javascript:
   - interaccio.js
   - a01_ud02_classificacio.js
+  - a02_ud02.js
   - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
