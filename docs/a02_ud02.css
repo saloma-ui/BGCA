@@ -1,6 +1,5 @@
 /* BGCA · A02 UD02: presentació guiada. Àmbit exclusiu .a02-web. */
 .a02-web { --a02-blau:#164d75; --a02-blau-clar:#edf5fa; --a02-verd:#287364; --a02-text:#17324a; }
-.a02-web .a02-sessio { display:inline-block; margin:.35rem 0 1rem; padding:.25rem .65rem; background:var(--a02-blau-clar); color:var(--a02-blau); border-radius:99px; font-size:.85rem; font-weight:700; letter-spacing:.01em; }
 .a02-web .a02-fitxa-inici { max-width:860px; margin:1.5rem auto 1rem; padding:1.4rem 1.6rem; border:1px solid #b5d2e2; border-radius:1rem; background:var(--a02-blau-clar); text-align:left; }
 .a02-web .a02-fitxa-inici p { margin:.55rem 0; font-size:1rem; }
 .a02-web .a02-estat { padding:.5rem .8rem; border-left:3px solid var(--a02-blau); background:var(--md-code-bg-color); font-weight:600; }
