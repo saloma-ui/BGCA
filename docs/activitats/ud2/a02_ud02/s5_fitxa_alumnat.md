@@ -1,9 +1,9 @@
 ---
-title: S5 · Tancaments individuals A02-UD02
+title: A02-UD02 · Tancaments individuals
 pdf: false
 ---
 
-# A02 · UD02 — S5 · Tancaments individuals
+# A02 · UD02 — Tancaments individuals
 
 **Biologia, Geologia i Ciències Ambientals · 1r de Batxillerat**  
 **Criteris diferenciats:** CA 4.2 i CA 2.3
@@ -12,11 +12,11 @@ pdf: false
 
 ## Fitxa de l’alumnat
 
-**Treball individual · Sessió de 50 minuts.** Respon les dues activitats sense intercanviar respostes. Es valorarà sobretot la justificació de les conclusions, no l'extensió. Les dues activitats proporcionen evidències de criteris d'avaluació diferents.
+**Treball individual.** Respon les dues activitats sense intercanviar respostes. Es valorarà sobretot la justificació de les conclusions, no l'extensió. Les dues activitats proporcionen evidències de criteris d'avaluació diferents.
 
 ### 5.1. Quan les dades obliguen a afinar un model
 
-**Evidència individual · CA 4.2 · Temps orientatiu: 20 minuts**
+**Evidència individual · CA 4.2**
 
 Un equip científic estudia el fons oceànic a banda i banda d'una dorsal. Inicialment proposa aquest model:
 
@@ -40,7 +40,7 @@ Posteriorment, l'equip obté noves datacions de roques situades a banda i banda 
 
 ### 5.2. Com es construeix una teoria científica?
 
-**Evidència individual · CA 2.3 · Temps orientatiu: 25 minuts**
+**Evidència individual · CA 2.3**
 
 Una exposició sobre la història de la geologia inclou aquesta explicació:
 
