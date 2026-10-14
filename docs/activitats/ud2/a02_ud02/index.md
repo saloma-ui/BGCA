@@ -390,7 +390,7 @@ En la teva argumentació:
 
 *Extensió orientativa: 120–160 paraules. Es valorarà la qualitat de l'argumentació, no la quantitat de text.*
 
-[Obre la versió de la fitxa per imprimir](s5_fitxa_alumnat.md){ .a02-enllac-fitxa }
+[Descarrega la fitxa individual en PDF](A02_UD02_fitxa_individual_CA4_2_CA2_3.pdf){ .a02-enllac-fitxa }
 
 </section>
 
