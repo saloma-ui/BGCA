@@ -364,6 +364,8 @@ Però hi havia un problema important:
 
 Les forces proposades per Wegener no proporcionaven una explicació física satisfactòria del moviment.
 
+Wegener va considerar dues possibles causes: un efecte associat a la **rotació terrestre**, que podria desplaçar els continents cap a l'equador, i les **forces de marea** originades per l'atracció gravitatòria de la Lluna i el Sol, que podrien contribuir a desplaçar-los cap a l'oest. Tanmateix, els càlculs geofísics mostraren que aquestes forces eren massa febles per explicar els moviments proposats.
+
 Això és important per entendre com funciona la ciència. Les evidències de Wegener **no varen deixar de ser rellevants** perquè el mecanisme proposat fos insuficient. El que passava és que la hipòtesi encara no constituïa una explicació completa de la dinàmica terrestre.
 
 Per avançar feien falta dades que en aquella època encara no teníem.
