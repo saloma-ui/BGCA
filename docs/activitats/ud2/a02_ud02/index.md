@@ -145,7 +145,17 @@ Examinam ara el relleu batimètric de la regió.
 
 **Contrastau les dues fonts de dades.** On es concentren els terratrèmols respecte de la dorsal? Quina inferència és raonable? Què **no** demostra encara aquesta coincidència?
 
-**Registre breu:** «El relleu i la sismicitat suggereixen…; tanmateix, no demostren per si sols…»
+**Discutiu primer una conclusió pròpia.** Quan la tengueu, contrastau-la amb la formulació científica que apareixerà a continuació.
+
+<button class="a02-revela" type="button" data-a02-target="a02-e3-conclusio" data-a02-open-label="Conclusió revelada" aria-controls="a02-e3-conclusio" aria-expanded="false">Contrastam la nostra interpretació</button>
+
+<div class="a02-revelacio" id="a02-e3-conclusio" hidden markdown>
+
+**Conclusió provisional.** El relleu i la sismicitat suggereixen que la dorsal oceànica és una zona geològicament activa, perquè la concentració de terratrèmols coincideix amb aquesta estructura submarina. Tanmateix, aquestes dades no permeten concloure, per si soles, que s'hi forma nova escorça oceànica ni que el fons s'expandeix cap als dos costats.
+
+**Comparau-la oralment amb la vostra interpretació.** Què havíeu identificat correctament? Què precisaríeu? No cal copiar la conclusió.
+
+</div>
 
 </div>
 
