@@ -319,14 +319,19 @@ No heu d'escriure cinc explicacions llargues. Feis un petit esquema: **evidènci
 
 <div class="a02-revelacio" id="a02-e7-sintesi" hidden markdown>
 
+**Contrastam les cinc evidències, una per una:**
+
 <div class="a02-cadena">
-<div>Coincidències continentals <span>→</span> **deriva continental**</div>
-<div>Batimetria i sismicitat <span>→</span> **fons oceànic estructurat i actiu**</div>
-<div>Bandes magnètiques i edats <span>→</span> **expansió del fons oceànic**</div>
-<div>Integració amb altres processos, com la subducció <span>→</span> **tectònica de plaques**</div>
+<div><strong>01 · Coincidències entre continents</strong> <span>→</span> Podrien haver estat units en el passat <span>→</span> Sostenen la hipòtesi de la deriva continental.</div>
+<div><strong>02 · Batimetria: dorsal i depressió axial</strong> <span>→</span> El fons oceànic presenta grans estructures <span>→</span> Mostra un relleu que necessita una explicació.</div>
+<div><strong>03 · Sismicitat: epicentres agrupats</strong> <span>→</span> Els terratrèmols es concentren en una franja que coincideix amb la dorsal <span>→</span> Suggereix activitat tectònica en aquesta zona.</div>
+<div><strong>04 · Paleomagnetisme: bandes de polaritat</strong> <span>→</span> La successió és aproximadament simètrica a banda i banda de l'eix <span>→</span> És compatible amb la formació i la separació progressiva de roca oceànica.</div>
+<div><strong>05 · Datació: edats oceàniques</strong> <span>→</span> Les roques són més joves prop de la dorsal i més antigues en allunyar-se'n <span>→</span> Dona suport a la formació de roca nova i al desplaçament posterior.</div>
 </div>
 
-L'expansió oceànica és una peça del model de tectònica de plaques, però **no n'és tota l'explicació**. El model integra diferents processos i observacions. La reconstrucció de l'activitat és didàctica: no representa una cronologia estricta ni una única cadena inevitable de descobriments.
+**Síntesi del conjunt.** Les coincidències continentals varen donar suport a la deriva continental; la batimetria i la sismicitat varen revelar un fons oceànic estructurat i actiu; el paleomagnetisme i les edats varen aportar proves compatibles amb l'expansió del fons oceànic. La **tectònica de plaques** integra aquests coneixements amb altres processos, com la subducció. Aquesta integració és una conclusió global, **no una sisena evidència** de les cinc que acabam d'examinar.
+
+L'expansió oceànica és una peça del model de tectònica de plaques, però **no n'és tota l'explicació**. La reconstrucció de l'activitat és didàctica: no representa una cronologia estricta ni una única cadena inevitable de descobriments.
 
 **Discussió final:** una explicació científica és millor simplement perquè és més nova, o perquè explica més observacions, genera prediccions contrastables i reconeix les seves limitacions?
 
