@@ -329,9 +329,9 @@ No heu d'escriure cinc explicacions llargues. Feis un petit esquema: **evidènci
 <div><strong>05 · Datació: edats oceàniques</strong> <span>→</span> Les roques són més joves prop de la dorsal i més antigues en allunyar-se'n <span>→</span> Dona suport a la formació de roca nova i al desplaçament posterior.</div>
 </div>
 
-**Síntesi del conjunt.** Les coincidències continentals varen donar suport a la deriva continental; la batimetria i la sismicitat varen revelar un fons oceànic estructurat i actiu; el paleomagnetisme i les edats varen aportar proves compatibles amb l'expansió del fons oceànic. La **tectònica de plaques** integra aquests coneixements amb altres processos, com la subducció. Aquesta integració és una conclusió global, **no una sisena evidència** de les cinc que acabam d'examinar.
+**Síntesi del conjunt.** Les coincidències continentals varen donar suport a la deriva continental; la batimetria i la sismicitat varen revelar un fons oceànic estructurat i actiu; el paleomagnetisme i les edats varen aportar proves compatibles amb l'expansió del fons oceànic. **En conjunt, aquestes evidències contribuïren a construir un model més ampli de la dinàmica terrestre: la tectònica de plaques.**
 
-L'expansió oceànica és una peça del model de tectònica de plaques, però **no n'és tota l'explicació**. La reconstrucció de l'activitat és didàctica: no representa una cronologia estricta ni una única cadena inevitable de descobriments.
+**Què hem aconseguit explicar?** Per què els continents poden haver canviat de posició i per què el fons oceànic es forma i es desplaça. **Què queda per estudiar?** Altres processos que integren el model actual, però que no hem investigat en aquesta activitat. La reconstrucció és didàctica: no representa una cronologia estricta ni una única cadena inevitable de descobriments.
 
 **Discussió final:** una explicació científica és millor simplement perquè és més nova, o perquè explica més observacions, genera prediccions contrastables i reconeix les seves limitacions?
 
