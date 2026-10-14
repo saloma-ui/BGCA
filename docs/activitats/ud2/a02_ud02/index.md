@@ -134,7 +134,7 @@ Examinam ara el relleu batimètric de la regió.
 
 <p class="pv-pregunta"><strong>Quin patró hi observau? Quina altra font de dades ens podria informar sobre l'activitat d'aquesta regió?</strong></p>
 
-<button class="a02-revela" type="button" data-a02-target="a02-e3-sismicitat" aria-controls="a02-e3-sismicitat" aria-expanded="false">Afegim la sismicitat</button>
+<button class="a02-revela" type="button" data-a02-target="a02-e3-sismicitat" aria-controls="a02-e3-sismicitat" aria-expanded="false">Revelam una nova font de dades</button>
 
 <div class="a02-revelacio" id="a02-e3-sismicitat" hidden markdown>
 
