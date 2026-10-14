@@ -58,7 +58,7 @@ A començaments del segle XX, Alfred Wegener va reunir observacions que eren dif
 
 **Primera conclusió provisional.** Les coincidències són compatibles amb una antiga unió continental i el desplaçament posterior. Cap d'aquestes coincidències no constitueix, per si mateixa, una observació directa del moviment.
 
-**Anota:** «Les evidències són compatibles amb… perquè…»
+**Compara aquesta conclusió amb la hipòtesi inicial.** Hi ha alguna diferència important? Modificaries alguna cosa de la teva explicació? Comentau-ho oralment; no cal escriure una altra resposta.
 
 </div>
 
