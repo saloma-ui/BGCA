@@ -38,7 +38,7 @@
       if(!target || !root.contains(target)) return;
       target.hidden=false;
       b.setAttribute('aria-expanded','true');
-      b.textContent='Dades revelades · '+(b.dataset.a02Initial||b.textContent);
+      b.textContent=(b.dataset.a02OpenLabel||'Dades revelades')+' · '+(b.dataset.a02Initial||b.textContent);
       if(!state.open.includes(id)){state.open.push(id);save(state);}
       if(!restore){target.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'nearest'});}
       updateStatus();
