@@ -173,6 +173,12 @@ En estudiar l'Atlàntic, va identificar una depressió associada a la serralada 
 
 **En parelles**, identificau almenys dues tasques científiques diferents necessàries per obtenir i interpretar els mapes.
 
+**Després de la posada en comú, contrastau la vostra explicació amb aquesta primera conclusió:**
+
+> **Primera conclusió · Ciència col·lectiva.** Les campanyes oceanogràfiques proporcionaven mesures de profunditat. Marie Tharp les analitzava i les integrava en perfils i mapes que ajudaven a reconèixer estructures submarines. Eren tasques diferents, però complementàries.
+
+**Una altra qüestió:** totes les persones que participaven en aquestes investigacions tenien les mateixes oportunitats de fer recerca?
+
 <button class="a02-revela" type="button" data-a02-target="a02-e4-context" aria-controls="a02-e4-context" aria-expanded="false">Incorporam el context de la recerca</button>
 
 <div class="a02-revelacio" id="a02-e4-context" hidden markdown>
