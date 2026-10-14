@@ -203,15 +203,29 @@ Quan es refreden algunes roques volcàniques, determinats minerals poden conserv
 
 Per això el fons oceànic pot registrar successions de polaritat **normal** i **inversa**.
 
-### 5.2 · Predim abans de mirar les dades
+### 5.2 · Proposam una hipòtesi
 
-Considerau aquesta hipòtesi:
+Hem descobert una dorsal oceànica associada a activitat sísmica. Encara no sabem què origina aquesta estructura.
+
+<p class="pv-pregunta"><strong>Què podria estar passant en aquesta regió? Proposau una explicació que després puguem posar a prova.</strong></p>
+
+**Primer pensau-hi i discutiu-ho en parelles.** Després compartiu les hipòtesis amb el grup.
+
+<button class="a02-revela" type="button" data-a02-target="a02-e5-hipotesi" aria-controls="a02-e5-hipotesi" aria-expanded="false">Contrastam les hipòtesis</button>
+
+<div class="a02-revelacio" id="a02-e5-hipotesi" hidden markdown>
+
+**Una hipòtesi de treball que podem posar a prova:**
 
 <div class="a02-hipotesi">A l'eix de la dorsal es forma roca nova que, amb el temps, s'allunya cap als dos costats.</div>
 
-Per a aquesta **predicció inicial**, imaginau que el moviment és aproximadament semblant als dos costats. No és una propietat que haguem d'atribuir a totes les dorsals.
+Aquesta explicació encara necessita proves. Per a la **primera predicció**, suposarem que el moviment és aproximadament semblant als dos costats; no és una propietat de totes les dorsals.
 
-<p class="pv-pregunta"><strong>Quina successió de bandes de polaritat esperaríeu trobar a banda i banda de la dorsal?</strong></p>
+</div>
+
+### 5.3 · Predim abans de mirar les dades
+
+<p class="pv-pregunta"><strong>A partir de la hipòtesi de treball, quina successió de bandes de polaritat esperaríeu trobar a banda i banda de la dorsal?</strong></p>
 
 **Prediu-ho abans de veure la figura**: dibuixau una successió de bandes al quadern o descriviu-la aquí. Compartiu la predicció amb una parella.
 
@@ -243,7 +257,7 @@ Per a aquesta **predicció inicial**, imaginau que el moviment és aproximadamen
 
 ## 6 · Dues evidències independents
 
-Disposem d'una hipòtesi sobre la formació i el desplaçament del fons oceànic. Ara la contrastarem amb una altra font de dades: **l'edat de les roques**.
+A l'episodi anterior hem posat a prova una primera predicció de la hipòtesi d'expansió oceànica mitjançant les bandes paleomagnètiques. Ara comprovarem si aquesta mateixa hipòtesi permet fer prediccions sobre una altra font de dades independent: **l'edat de les roques del fons oceànic**.
 
 <p class="pv-pregunta"><strong>Si es forma roca nova a l'eix de la dorsal, on haurien de ser les roques més joves? Com variaria l'edat en allunyar-nos de l'eix?</strong></p>
 
