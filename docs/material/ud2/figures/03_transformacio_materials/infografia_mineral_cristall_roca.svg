@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="ttl descr"><title id="ttl">Mineral, cristall i roca</title><desc id="descr">Infografia resum amb definicions i l'exemple comparat de calcita, calcària i marbre.</desc>
+<rect x="0" y="0" width="1200" height="1600" rx="0" fill="#faf9f6" stroke="none" stroke-width="1"/>
+<path d="M0 0 H1200 V155 H0 Z" fill="#e9f1f5"/>
+<text x="600" y="74" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle" fill="#173658">MINERAL, CRISTALL I ROCA</text>
+<text x="600" y="123" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="400" text-anchor="middle" fill="#506577">Una mateixa espècie mineral pot formar materials diferents</text>
+<rect x="35" y="180" width="350" height="480" rx="20" fill="#f2e2ca" stroke="#d4aa77" stroke-width="2"/>
+<text x="210" y="237" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="middle" fill="#173658">MINERAL</text>
+<text x="60" y="292" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">Substància sòlida natural,</text><text x="60" y="328" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">generalment inorgànica,</text><text x="60" y="364" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">amb una composició química</text><text x="60" y="400" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">definida dins uns límits i</text><text x="60" y="436" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">estructura cristal·lina.</text>
+<text x="60" y="624" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="600" text-anchor="start" fill="#506577">Exemples: calcita, quars, halita.</text>
+<rect x="425" y="180" width="350" height="480" rx="20" fill="#dbeefa" stroke="#75b7d5" stroke-width="2"/>
+<text x="600" y="237" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="middle" fill="#173658">CRISTALL</text>
+<text x="450" y="292" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">Sòlid amb els àtoms, ions</text><text x="450" y="328" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">o molècules ordenats de</text><text x="450" y="364" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">manera periòdica.</text><text x="450" y="400" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">Pot presentar cares planes,</text><text x="450" y="436" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">però no és imprescindible.</text>
+<text x="450" y="624" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="600" text-anchor="start" fill="#506577">Pot ser natural o artificial.</text>
+<rect x="815" y="180" width="350" height="480" rx="20" fill="#e0ecd9" stroke="#8bac85" stroke-width="2"/>
+<text x="990" y="237" font-family="DejaVu Sans, Arial, sans-serif" font-size="33" font-weight="700" text-anchor="middle" fill="#173658">ROCA</text>
+<text x="840" y="292" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">Material geològic natural</text><text x="840" y="328" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">format per un o més minerals</text><text x="840" y="364" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">i, de vegades, altres</text><text x="840" y="400" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">components com el vidre</text><text x="840" y="436" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">volcànic.</text>
+<text x="840" y="624" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="600" text-anchor="start" fill="#506577">Pot ser monomineràlica.</text>
+<line x1="117" y1="493" x2="173" y2="493" stroke="#8c9cac" stroke-width="3"/>
+<line x1="117" y1="493" x2="117" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="117" y1="540" x2="173" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="117" y1="540" x2="117" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="117" y1="587" x2="173" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="173" y1="493" x2="229" y2="493" stroke="#8c9cac" stroke-width="3"/>
+<line x1="173" y1="493" x2="173" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="173" y1="540" x2="229" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="173" y1="540" x2="173" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="173" y1="587" x2="229" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="229" y1="493" x2="285" y2="493" stroke="#8c9cac" stroke-width="3"/>
+<line x1="229" y1="493" x2="229" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="229" y1="540" x2="285" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="229" y1="540" x2="229" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="229" y1="587" x2="285" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<line x1="285" y1="493" x2="285" y2="540" stroke="#8c9cac" stroke-width="3"/>
+<line x1="285" y1="540" x2="285" y2="587" stroke="#8c9cac" stroke-width="3"/>
+<circle cx="117" cy="493" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="117" cy="540" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="117" cy="587" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="173" cy="493" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="173" cy="540" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="173" cy="587" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="229" cy="493" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="229" cy="540" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="229" cy="587" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="285" cy="493" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="285" cy="540" r="13" fill="#5d9bbb" stroke="#fdfdfc" stroke-width="2"/>
+<circle cx="285" cy="587" r="13" fill="#c18b5a" stroke="#fdfdfc" stroke-width="2"/>
+<polygon points="548,453 604,419 661,453 644,566 562,571" fill="#98c7de" fill-opacity=".52" stroke="#478ea9" stroke-width="4"/><polygon points="548,453 604,419 661,453 604,486" fill="#dff3fa" stroke="#478ea9" stroke-width="3"/><path d="M604 486 L604 584 M548 453 L562 571 M661 453 L644 566" stroke="#478ea9" stroke-width="2" fill="none"/>
+<path d="M875 554 L890 495 L926 461 L1010 447 L1095 484 L1116 557 L1086 589 L909 589 Z" fill="#f5f7ee" stroke="#68876c" stroke-width="4"/>
+<path d="M892 497 L933 468 L968 488 L959 537 L909 550 Z" fill="#a4c0a8" stroke="#6c8975" stroke-width="2"/>
+<path d="M970 458 L1023 452 L1048 484 L1001 521 L962 490 Z" fill="#d3bc9b" stroke="#6c8975" stroke-width="2"/>
+<path d="M1045 485 L1090 487 L1106 546 L1056 541 L999 522 Z" fill="#98a9a1" stroke="#6c8975" stroke-width="2"/>
+<path d="M909 550 L959 537 L982 580 L912 582 Z" fill="#d5d4c2" stroke="#6c8975" stroke-width="2"/>
+<path d="M959 537 L1001 522 L1056 541 L1042 582 L982 580 Z" fill="#a9bbaf" stroke="#6c8975" stroke-width="2"/>
+<path d="M1056 541 L1106 546 L1083 580 L1042 582 Z" fill="#cdc8b4" stroke="#6c8975" stroke-width="2"/>
+<rect x="35" y="684" width="1130" height="87" rx="19" fill="#dae9f3" stroke="#bbd6e6" stroke-width="1"/>
+<text x="600" y="726" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle" fill="#173658">UN EXEMPLE: LA CALCITA (CaCO₃)</text>
+<text x="600" y="757" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="middle" fill="#506577">Igual composició mineral, però diferents textures i orígens</text>
+<rect x="35" y="790" width="350" height="462" rx="20" fill="#f7eadc" stroke="#d3aa78" stroke-width="2"/>
+<text x="210" y="847" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#173658">CRISTALL DE CALCITA</text>
+<text x="66" y="897" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">Un únic individu</text><text x="66" y="928" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">cristal·lí amb estructura</text><text x="66" y="959" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">interna contínua.</text>
+<rect x="425" y="790" width="350" height="462" rx="20" fill="#edf2df" stroke="#a5bb8d" stroke-width="2"/>
+<text x="600" y="847" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#173658">CALCÀRIA</text>
+<text x="456" y="897" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">Roca sedimentària</text><text x="456" y="928" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">formada principalment</text><text x="456" y="959" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">per calcita.</text>
+<rect x="815" y="790" width="350" height="462" rx="20" fill="#e2ecf3" stroke="#89adbe" stroke-width="2"/>
+<text x="990" y="847" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#173658">MARBRE</text>
+<text x="846" y="897" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">Roca metamòrfica</text><text x="846" y="928" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">de cristalls recristal·litzats</text><text x="846" y="959" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#173658">de calcita o dolomita.</text>
+<polygon points="112,1030 205,987 310,1041 265,1169 162,1185" fill="#e0f4fa" stroke="#6ca8c7" stroke-width="5"/><polygon points="112,1030 205,987 310,1041 209,1091" fill="#f4fdff" stroke="#6ca8c7" stroke-width="4"/><path d="M209 1091 L162 1185 M209 1091 L265 1169" stroke="#6ca8c7" stroke-width="3" fill="none"/>
+<path d="M471 1162 L485 1074 L526 1025 L622 1012 L713 1060 L741 1133 L703 1178 L518 1195 Z" fill="#e8ddc9" stroke="#a58e72" stroke-width="4"/>
+<circle cx="510" cy="1043" r="4" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="573" cy="1086" r="6" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="636" cy="1129" r="8" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="699" cy="1047" r="10" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="563" cy="1090" r="12" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="626" cy="1133" r="4" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="689" cy="1051" r="6" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="553" cy="1094" r="8" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="616" cy="1137" r="10" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="679" cy="1055" r="12" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="543" cy="1098" r="4" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="606" cy="1141" r="6" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="669" cy="1059" r="8" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="533" cy="1102" r="10" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="596" cy="1145" r="12" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="659" cy="1063" r="4" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="523" cy="1106" r="6" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="586" cy="1149" r="8" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="649" cy="1067" r="10" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="513" cy="1110" r="12" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="576" cy="1153" r="4" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="639" cy="1071" r="6" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="702" cy="1114" r="8" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="566" cy="1157" r="10" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="629" cy="1075" r="12" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="692" cy="1118" r="4" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="556" cy="1161" r="6" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="619" cy="1079" r="8" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="682" cy="1122" r="10" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="546" cy="1165" r="12" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="609" cy="1083" r="4" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="672" cy="1126" r="6" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="536" cy="1044" r="8" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<circle cx="599" cy="1087" r="10" fill="#bbaa8d" stroke="#ad9270" stroke-width="1"/>
+<circle cx="662" cy="1130" r="12" fill="#d7c6a8" stroke="#ad9270" stroke-width="1"/>
+<path d="M864 1147 L885 1062 L929 1024 L1044 1020 L1112 1064 L1134 1150 L1093 1180 L903 1184 Z" fill="#eeeef0" stroke="#a3adb6" stroke-width="4"/>
+<path d="M886 1064 L928 1025 L968 1035 L951 1095 L894 1136 Z" fill="#d9e1e5" stroke="#9ea9b2" stroke-width="2"/>
+<path d="M968 1035 L1044 1020 L1063 1072 L1004 1111 L951 1095 Z" fill="#bfcbd4" stroke="#9ea9b2" stroke-width="2"/>
+<path d="M1063 1072 L1112 1064 L1132 1147 L1073 1147 L1004 1111 Z" fill="#e6e5e0" stroke="#9ea9b2" stroke-width="2"/>
+<path d="M894 1136 L951 1095 L1004 1111 L1007 1174 L903 1184 Z" fill="#aabac5" stroke="#9ea9b2" stroke-width="2"/>
+<path d="M1004 1111 L1073 1147 L1093 1180 L1007 1174 Z" fill="#d8d5d1" stroke="#9ea9b2" stroke-width="2"/>
+<rect x="35" y="1274" width="1130" height="261" rx="20" fill="#eaf2ed" stroke="#bad3c1" stroke-width="2"/>
+<text x="72" y="1331" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" text-anchor="start" fill="#173658">IDEES CLAU</text>
+<text x="76" y="1380" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">• L’estructura cristal·lina descriu l’ordre intern dels àtoms.</text><text x="76" y="1423" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">• La textura d’una roca descriu com s’organitzen els seus components.</text><text x="76" y="1466" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#173658">• Una mostra mineralògica pot incloure matriu rocosa i altres minerals.</text>
+<text x="600" y="1512" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle" fill="#173658">La composició per si sola no explica la història d’una roca.</text>
+</svg>
