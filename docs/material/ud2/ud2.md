@@ -787,6 +787,8 @@ Per això:
 
 La identificació es basa en la combinació de diverses propietats.
 
+[Veure la infografia · Mineral, cristall i roca](figures/03_transformacio_materials/infografia_mineral_cristall_roca.svg){ .md-button .md-button--primary }
+
 #### Duresa
 
 És la resistència que presenta un mineral a ser ratllat.
