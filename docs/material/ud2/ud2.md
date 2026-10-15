@@ -788,6 +788,7 @@ Per això:
 La identificació es basa en la combinació de diverses propietats.
 
 [Veure la infografia · Minerals, cristalls i roques](figures/resum_visual_de_minerals_cristalls_i_roques.png){ .md-button .md-button--primary }
+[Veure la infografia · Vidre, cristall i mineral](figures/resum_visual_vidre_cristall_i_mineral.png){ .md-button target="_blank" }
 
 #### Duresa
 
