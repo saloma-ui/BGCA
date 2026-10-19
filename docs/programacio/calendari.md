@@ -25,8 +25,8 @@ Llegim les evidències del passat i entenem una Terra en moviment.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--01" href="infografies/ud01.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD01" aria-label="Obre la infografia completa de la unitat 1 en una pestanya nova">
-  <img src="infografies/ud01.png" alt="Infografia resum de la unitat 1" loading="lazy">
+<a class="cal-miniatura cal-miniatura--01" href="../infografies/ud01.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD01" aria-label="Obre la infografia completa de la unitat 1 en una pestanya nova">
+  <img src="../infografies/ud01.png" alt="Infografia resum de la unitat 1" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -40,8 +40,8 @@ Evidències del passat, datació i reconstrucció de la història terrestre.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--02" href="infografies/ud02.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD02" aria-label="Obre la infografia completa de la unitat 2 en una pestanya nova">
-  <img src="infografies/ud02.png" alt="Infografia resum de la unitat 2" loading="lazy">
+<a class="cal-miniatura cal-miniatura--02" href="../infografies/ud02.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD02" aria-label="Obre la infografia completa de la unitat 2 en una pestanya nova">
+  <img src="../infografies/ud02.png" alt="Infografia resum de la unitat 2" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -72,8 +72,8 @@ Exploram la història de la vida, el món microscòpic i les plantes.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--03" href="infografies/ud03.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD03" aria-label="Obre la infografia completa de la unitat 3 en una pestanya nova">
-  <img src="infografies/ud03.png" alt="Infografia resum de la unitat 3" loading="lazy">
+<a class="cal-miniatura cal-miniatura--03" href="../infografies/ud03.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD03" aria-label="Obre la infografia completa de la unitat 3 en una pestanya nova">
+  <img src="../infografies/ud03.png" alt="Infografia resum de la unitat 3" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -87,8 +87,8 @@ Origen i evolució de la vida, grans canvis i diversificació dels organismes.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--04" href="infografies/ud04.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD04" aria-label="Obre la infografia completa de la unitat 4 en una pestanya nova">
-  <img src="infografies/ud04.png" alt="Infografia resum de la unitat 4" loading="lazy">
+<a class="cal-miniatura cal-miniatura--04" href="../infografies/ud04.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD04" aria-label="Obre la infografia completa de la unitat 4 en una pestanya nova">
+  <img src="../infografies/ud04.png" alt="Infografia resum de la unitat 4" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -102,8 +102,8 @@ Diversitat microbiana, virus, salut, investigació i resistències.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--05" href="infografies/ud05.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD05" aria-label="Obre la infografia completa de la unitat 5 en una pestanya nova">
-  <img src="infografies/ud05.png" alt="Infografia resum de la unitat 5" loading="lazy">
+<a class="cal-miniatura cal-miniatura--05" href="../infografies/ud05.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD05" aria-label="Obre la infografia completa de la unitat 5 en una pestanya nova">
+  <img src="../infografies/ud05.png" alt="Infografia resum de la unitat 5" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -134,8 +134,8 @@ Integram el funcionament dels organismes i dels ecosistemes.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--06" href="infografies/ud06.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD06" aria-label="Obre la infografia completa de la unitat 6 en una pestanya nova">
-  <img src="infografies/ud06.png" alt="Infografia resum de la unitat 6" loading="lazy">
+<a class="cal-miniatura cal-miniatura--06" href="../infografies/ud06.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD06" aria-label="Obre la infografia completa de la unitat 6 en una pestanya nova">
+  <img src="../infografies/ud06.png" alt="Infografia resum de la unitat 6" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
@@ -149,8 +149,8 @@ Teixits, nutrició, coordinació, homeòstasi i reproducció.
 
 <article class="cal-ud" markdown="1">
 
-<a class="cal-miniatura cal-miniatura--07" href="infografies/ud07.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD07" aria-label="Obre la infografia completa de la unitat 7 en una pestanya nova">
-  <img src="infografies/ud07.png" alt="Infografia resum de la unitat 7" loading="lazy">
+<a class="cal-miniatura cal-miniatura--07" href="../infografies/ud07.png" target="_blank" rel="noopener noreferrer" title="Obre la infografia completa de la UD07" aria-label="Obre la infografia completa de la unitat 7 en una pestanya nova">
+  <img src="../infografies/ud07.png" alt="Infografia resum de la unitat 7" loading="lazy">
   <span class="cal-amplia">Amplia la infografia ↗</span>
 </a>
 
