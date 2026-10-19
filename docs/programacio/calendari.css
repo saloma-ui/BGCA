@@ -73,83 +73,52 @@
 .cal-ud a { font-weight: 650; }
 .cal-durada { color: var(--md-default-fg-color--light); font-weight: 650; }
 .cal-miniatura {
-  --cal-illustration: var(--cal-accent);
-  aspect-ratio: 16 / 10;
-  min-height: 138px;
-  overflow: hidden;
-  border-radius: .55rem;
-  position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: .9rem;
-  background:
-    radial-gradient(circle at 85% 28%, color-mix(in srgb, var(--cal-accent) 28%, transparent) 0, transparent 39%),
-    linear-gradient(145deg, color-mix(in srgb, var(--cal-accent) 13%, var(--md-default-bg-color)), var(--md-default-bg-color));
-  border: 1px solid color-mix(in srgb, var(--cal-accent) 23%, var(--cal-border));
-}
-.cal-miniatura::before {
-  content: "";
-  pointer-events: none;
-  width: 58%;
-  aspect-ratio: 1;
-  border: 1px solid color-mix(in srgb, var(--cal-accent) 40%, transparent);
-  border-radius: 44% 56% 65% 35%;
-  position: absolute;
-  right: -12%;
-  top: -33%;
-  transform: rotate(-27deg);
-}
-.cal-miniatura::after {
-  content: "";
-  pointer-events: none;
-  width: 54%;
-  aspect-ratio: 1;
-  border: 1px dashed color-mix(in srgb, var(--cal-accent) 45%, transparent);
-  border-radius: 50%;
-  position: absolute;
-  right: -21%;
-  top: -14%;
-}
-.cal-miniatura--02::before, .cal-miniatura--06::before { border-radius: 20% 65% 25% 60%; transform: rotate(30deg); }
-.cal-miniatura--03::before, .cal-miniatura--07::before { border-radius: 50%; }
-.cal-miniatura--04::before { border-radius: 18% 60% 20% 70%; }
-.cal-miniatura-num {
-  position: relative;
-  z-index: 1;
-  color: var(--cal-accent);
-  font-size: .85rem;
-  font-weight: 850;
-  letter-spacing: .11em;
-}
-.cal-miniatura-titol {
-  position: relative;
-  z-index: 1;
-  max-width: 86%;
+  width: 100%;
+  min-width: 0;
+  padding: 0;
+  overflow: hidden;
+  border-radius: .55rem;
+  border: 1px solid var(--cal-border);
+  background: var(--md-default-bg-color);
   color: var(--md-default-fg-color);
-  font-weight: 780;
-  font-size: clamp(1.04rem, 1.6vw, 1.33rem);
-  line-height: 1.18;
-  letter-spacing: -.025em;
+  text-decoration: none;
+  transition: border-color .2s ease, box-shadow .2s ease;
 }
-.cal-miniatura-estat {
-  position: relative;
-  z-index: 1;
-  display: inline-block;
-  align-self: flex-start;
-  font-size: .57rem;
-  letter-spacing: .025em;
+.cal-miniatura:hover,
+.cal-miniatura:focus-visible {
+  border-color: var(--cal-accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--cal-accent) 25%, transparent);
+}
+.cal-miniatura:focus-visible {
+  outline: 2px solid var(--cal-accent);
+  outline-offset: 2px;
+}
+.cal-miniatura img {
+  display: block;
+  width: 100%;
+  height: clamp(180px, 22vw, 285px);
+  object-fit: contain;
+  object-position: center;
+  padding: .3rem;
+  box-sizing: border-box;
+  background: var(--md-default-bg-color);
+}
+.cal-amplia {
+  display: block;
+  padding: .4rem .65rem;
+  text-align: center;
+  font-size: .68rem;
   font-weight: 650;
-  color: var(--md-default-fg-color--light);
-  padding: .17rem .45rem;
-  background: color-mix(in srgb, var(--md-default-bg-color) 82%, transparent);
-  border-radius: 100px;
+  color: var(--cal-accent);
+  border-top: 1px solid var(--cal-border);
 }
 @media (max-width: 650px) {
   .calendari-trimestres { margin-left: .52rem; padding-left: .9rem; }
   .cal-trimestre { padding: .85rem; }
   .cal-trimestre::before { left: calc(-.52rem - .9rem - 8px); }
-  .cal-miniatura { min-height: 160px; }
+  .cal-miniatura img { height: min(75vw, 390px); }
 }
 @media print {
   .calendari-trimestres { border-left: 0; padding-left: 0; margin-left: 0; }
