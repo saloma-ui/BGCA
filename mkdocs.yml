@@ -72,6 +72,7 @@ markdown_extensions:
       permalink: true
 
 extra_css:
+  - programacio/calendari.css
   - presentacio.css
   - a01_ud02.css
   - a01_ud02_classificacio.css
