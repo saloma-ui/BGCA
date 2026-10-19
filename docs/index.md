@@ -20,6 +20,6 @@ Les activitats estan organitzades per unitat didàctica i, dins cada unitat, per
 
 ## Informació del curs
 
-- [Programació](programacio.md)
-- [Criteris d'avaluació](criteris-avaluacio.md)
-- [Calendari](calendari.md)
+- [Programació](programacio/index.md)
+- [Criteris d'avaluació](programacio/criteris-avaluacio.md)
+- [Calendari](programacio/calendari.md)

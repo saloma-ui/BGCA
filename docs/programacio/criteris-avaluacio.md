@@ -138,4 +138,4 @@ El més important no és només arribar a un resultat, sinó **saber interpretar
 
 ---
 
-Per consultar el desenvolupament complet d'aquest sistema, les unitats didàctiques i els instruments prevists, visita la [programació didàctica del curs 2026–2027](programacio/programacio_didactica_BGCA_1r_batx_2026-2027_v10.md), especialment els apartats **1 i 3**.
+Per consultar el desenvolupament complet d'aquest sistema, les unitats didàctiques i els instruments prevists, visita la [programació didàctica del curs 2026–2027](programacio_didactica_BGCA_1r_batx_2026-2027_v10.md), especialment els apartats **1 i 3**.
