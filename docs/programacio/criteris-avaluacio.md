@@ -114,7 +114,7 @@ Anomenam **T** la nota d'aquesta prova. La qualificació que resulta després de
 !!! warning "Important"
     La prova global **no garanteix l'aprovat**: si la qualificació inicial és inferior a 5, la nota de la prova la substitueix, encara que sigui inferior. Si la qualificació inicial és igual o superior a 5, la mitjana amb la prova global també pot fer que el resultat final del trimestre sigui inferior a 5.
 
-Aquesta prova trimestral és diferent de la **prova extraordinària d'avaluació** prevista per a les matèries no superades a l'avaluació ordinària.
+Aquesta **prova global trimestral** forma part de l'avaluació durant el curs. No s'ha de confondre amb les **proves extraordinàries d'avaluació de final de curs**: d'acord amb l'article 9.11 de l'Ordre 26/2025, els centres les han d'organitzar per a l'alumnat de **1r i 2n de batxillerat que no hagi superat alguna matèria en l'avaluació final ordinària**. Tampoc no són les mateixes que les activitats per recuperar **matèries pendents de 1r quan ja es cursa 2n** (article 12).
 
 ## 5. Com es calcula la qualificació final del curs?
 
