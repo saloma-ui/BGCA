@@ -20,6 +20,6 @@ Les activitats estan organitzades per unitat didàctica i, dins cada unitat, per
 
 ## Informació del curs
 
-- [Programació](programacio/index.md)
+- [Programació](programacio/programacio_didactica_BGCA_1r_batx_2026-2027_v10.md)
 - [Criteris d'avaluació](programacio/criteris-avaluacio.md)
 - [Calendari](programacio/calendari.md)
