@@ -1,8 +1,6 @@
 site_name: BGCA · 1r de Batxillerat
 site_description: Materials guia de Biologia, Geologia i Ciències Ambientals
 site_url: https://saloma-ui.github.io/BGCA/
-repo_url: https://github.com/saloma-ui/BGCA
-repo_name: saloma-ui/BGCA
 
 theme:
   name: material
