@@ -236,49 +236,67 @@ Això no significa necessàriament que el model anterior fos inútil. Sovint exp
 
 ### 2.6. Dos models per descriure l’interior terrestre
 
-No existeix una única manera de dividir l’interior del planeta.
-
-Podem construir diferents models segons la propietat que utilitzem per establir-ne les capes.
+No existeix una única manera de dividir l’interior del planeta. Podem construir diferents models segons la propietat que utilitzem per establir-ne les capes. Dos dels més útils són el **model geoquímic**, basat principalment en la composició dels materials, i el **model geodinàmic**, basat en el seu comportament mecànic.
 
 #### Model geoquímic
 
-Classifica l’interior principalment segons la **composició química** dels materials.
+Classifica l’interior de la Terra principalment segons la **composició química** dels materials. Distingeix tres grans capes:
 
-Distingeix:
+- **Escorça:** capa més externa, formada per roques silicatades. Pot ser oceànica o continental.
+- **Mantell:** format principalment per roques riques en silicats de magnesi i ferro.
+- **Nucli:** molt més ric en elements metàl·lics, especialment ferro.
 
-- **escorça**;
-- **mantell**;
-- **nucli**.
+L’**escorça oceànica** i l’**escorça continental** no són equivalents:
 
-L’escorça pot ser continental o oceànica, amb composicions i característiques diferents.
+| Característica | Escorça oceànica | Escorça continental |
+|---|---|---|
+| **Gruix habitual** | Relativament prima, aproximadament 6–7 km | Més gruixuda i variable, habitualment uns 30–70 km |
+| **Composició predominant** | Roques de composició basàltica, com el basalt i el gabre | Composició més diversa; hi són freqüents les roques de composició granítica |
+| **Densitat mitjana** | Generalment més elevada | Generalment més baixa |
 
-El mantell està format principalment per roques riques en silicats de magnesi i ferro.
+Aquests valors són orientatius: no totes les regions de l’escorça tenen les mateixes característiques. **La densitat és la quantitat de massa que hi ha per unitat de volum.** Dues roques de la mateixa mida poden tenir masses diferents si les seves densitats són diferents.
 
-El nucli és molt més ric en elements metàl·lics, especialment ferro.
+Aquestes diferències de composició, gruix i densitat contribueixen a explicar per què l’escorça oceànica i la continental responen de manera diferent als processos geològics.
 
 #### Model geodinàmic
 
-Classifica l’interior segons el **comportament mecànic** dels materials.
+Classifica l’interior terrestre segons el **comportament mecànic** dels materials: com responen a les forces i com es deformen al llarg del temps.
 
 Distingeix regions amb comportaments diferents, entre les quals destaquen:
 
-- la **litosfera**, rígida;
-- l’**astenosfera**, capaç de deformar-se lentament;
-- les regions més profundes del mantell;
-- el **nucli extern**, líquid;
-- el **nucli intern**, sòlid.
+- **Litosfera:** capa externa rígida, que inclou l’escorça i la part superior més rígida del mantell.
+- **Astenosfera:** regió del mantell superior situada sota la litosfera, formada per materials essencialment sòlids que es poden deformar i fluir molt lentament.
+- **Regions més profundes del mantell:** també constituïdes principalment per materials sòlids, capaços de deformar-se a escala geològica.
+- **Nucli extern:** líquid.
+- **Nucli intern:** sòlid.
 
-> **Recorda:** l’escorça i la litosfera no són sinònims.
+> **Recorda:** l’escorça i la litosfera **no són sinònims**. L’escorça és una capa definida per la seva composició; la litosfera és una unitat definida pel seu comportament mecànic.
 
-La litosfera inclou **tota l’escorça i una part del mantell superior**.
+Tampoc no hem d’imaginar l’astenosfera com un oceà de magma. **És essencialment sòlida**, però pot deformar-se lentament durant milions d’anys. Que un material sigui sòlid no implica que sigui incapaç de fluir a escala geològica.
 
-Tampoc hem d’imaginar l’astenosfera com un oceà de magma.
+#### Com es relacionen els dos models?
 
-> **L’astenosfera és essencialment sòlida, però els seus materials poden deformar-se i fluir molt lentament a escala geològica.**
+Els dos models descriuen **el mateix planeta**, però utilitzen criteris diferents. Per això els seus límits no coincideixen necessàriament.
 
-Un sòlid pot comportar-se de manera rígida a escala de segons i, al mateix temps, deformar-se durant milions d’anys.
+- La **litosfera oceànica** inclou l’escorça oceànica i una part rígida del mantell superior.
+- La **litosfera continental** inclou l’escorça continental i una part rígida del mantell superior.
+
+Per tant, quan parlam de **plaques tectòniques**, ens referim a fragments de **litosfera**, no només d’escorça.
+
+La litosfera oceànica es forma a les dorsals. A mesura que s’allunya de la dorsal, es refreda i, en general, augmenta el gruix de la seva part mantèl·lica rígida. Aquest refredament també afavoreix un augment de la seva densitat mitjana. La litosfera continental presenta una estructura i una història més variables, i la presència d’una escorça continental relativament poc densa contribueix a la seva flotabilitat.
 
 ![Models geoquímic i geodinàmic de l’interior terrestre](figures/00-01_sistema_i_interior/f04_models_geoquimic_i_geodinamic.png)
+
+#### Per què és important aquesta distinció?
+
+El comportament de les plaques depèn, entre altres factors, de la **composició, la temperatura, la densitat, el gruix i la flotabilitat** dels materials que les formen.
+
+La **flotabilitat** expressa la tendència d’un material a mantenir-se a una determinada posició o a enfonsar-se respecte del material que l’envolta. En geologia, no basta comparar la densitat de dues escorces: també importa el conjunt de la litosfera i la seva relació amb el mantell subjacent.
+
+Aquestes propietats ens ajudaran a comprendre per què no totes les plaques es comporten igual quan interactuen i per què alguns contextos tectònics afavoreixen l’enfonsament de litosfera, mentre que d’altres produeixen deformació i engruiximent de l’escorça.
+
+**Idea essencial:** conèixer les capes de la Terra no consisteix només a identificar-les en un esquema; també ens permet començar a explicar el comportament dels materials terrestres.
+
 
 ### 2.7. Un model sostingut per evidències
 
