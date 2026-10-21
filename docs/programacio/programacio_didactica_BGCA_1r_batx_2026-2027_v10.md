@@ -44,7 +44,7 @@ La seqüenciació integra els set blocs del currículum: A. Projecte científic;
 | **Reserva d'ajust i consolidació** | Adaptació a l'evolució del curs i a activitats de síntesi i recuperació | **10** |
 | **Total estimat** | | **143** |
 
-La distribució anual és de **133 sessions destinades a les set unitats didàctiques** i **10 sessions de reserva**, fins al total de 143 sessions estimades. Aquesta reserva permet ajustar el ritme de treball, reforçar aprenentatges i situar les proves globals trimestrals quan requereixin sessions addicionals a les proves de les unitats. Si les tres proves trimestrals ocupen una sessió addicional cadascuna, en resten set per a altres necessitats del curs.
+La distribució anual és de **133 sessions destinades a les set unitats didàctiques** i **10 sessions de reserva**, fins al total de 143 sessions estimades. Aquesta reserva permet ajustar el ritme de treball, reforçar aprenentatges i situar les proves trimestrals acumulatives quan requereixin sessions addicionals a les proves de les unitats. Si les tres proves trimestrals ocupen una sessió addicional cadascuna, en resten set per a altres necessitats del curs.
 
 La seqüenciació de les set unitats didàctiques, amb les activitats, la temporalització i els criteris d'avaluació de referència, es desenvolupa a l'**annex I**.
 
@@ -86,40 +86,50 @@ Les activitats col·lectives permetran valorar l'aportació individual mitjança
 
 ### 3.3. Sistema de qualificació
 
-La matèria s'avalua amb una **qualificació única**. Durant cada període trimestral, les activitats qualificables s'agrupen en els blocs següents:
+La matèria s'avalua amb una **qualificació única**. Durant cada trimestre, les activitats qualificables s'agrupen en els blocs següents:
 
 | Bloc | Ponderació |
 |---|---:|
-| Proves escrites | **60 %** |
+| Proves escrites, inclosa la prova trimestral acumulativa | **60 %** |
 | Treballs, exposicions, projectes, informes, pràctiques i altres activitats avaluables | **40 %** |
 
-La qualificació inicial del període és:
+La qualificació de cada trimestre es calcula mitjançant l'expressió **Q = 0,60 × P + 0,40 × A**, on **P** és la qualificació del conjunt de les proves escrites del trimestre, inclosa la prova trimestral acumulativa, i **A** és la qualificació de la resta d'activitats avaluables. Els instruments inclosos a cada bloc i les pautes de correcció es comunicaran a l'alumnat amb antelació. La participació o l'actitud no es valoraran com un percentatge genèric desvinculat dels aprenentatges.
 
-**Q = 0,60 × P + 0,40 × A**, on **P** és la qualificació del bloc de proves escrites i **A** la del bloc de la resta d'activitats avaluables. Els instruments inclosos a cada bloc i les pautes de correcció es comunicaran a l'alumnat amb antelació. La participació o l'actitud no es valoraran com un percentatge genèric desvinculat dels aprenentatges.
+### 3.4. Proves trimestrals acumulatives
 
-### 3.4. Prova trimestral de síntesi i recuperació
+Al final del primer i del segon trimestre es durà a terme una **prova escrita acumulativa de les unitats didàctiques treballades durant el trimestre corresponent**. Aquesta prova constitueix **una prova escrita més** del període i la seva qualificació s'integra dins el bloc del **60 %**, juntament amb les altres proves escrites; no substitueix per si sola la qualificació trimestral.
 
-Després de cada trimestre, el departament preveu un període d'una setmana destinat a una **prova escrita global dels continguts i aprenentatges treballats a les unitats del trimestre**. El seu resultat té un tractament diferent segons la qualificació inicial del període:
+La prova de final del tercer trimestre, descrita a l'apartat 3.5, inclourà els aprenentatges de tot el curs, però, per a l'alumnat amb avaluació contínua, només el bloc de continguts del **tercer trimestre** s'integrarà com una prova més dins el **60 %** d'aquest trimestre. Els blocs corresponents al primer i al segon trimestre tindran exclusivament funció de recuperació i millora de les qualificacions d'aquests períodes.
 
-- **Si Q és inferior a 5**, la qualificació de la prova trimestral és la que determina la qualificació resultant del període.
-- **Si Q és igual o superior a 5**, la qualificació del període es calcula fent la mitjana aritmètica entre Q i la qualificació de la prova trimestral.
+### 3.5. Prova final del tercer trimestre i recuperació
 
-Per tant, si anomenam **T** la qualificació de la prova trimestral, la regla de càlcul és:
+La prova de final del **tercer trimestre** tindrà **caràcter global, recuperatori i de millora**. Inclourà preguntes de **totes les unitats didàctiques treballades al llarg del curs**, diferenciades en tres blocs segons el trimestre al qual corresponguin. Cada bloc obtindrà una qualificació pròpia.
 
-- **Q < 5:** qualificació després de la prova = **T**.
-- **Q ≥ 5:** qualificació després de la prova = **(Q + T) / 2**.
+Per a l'alumnat amb **avaluació contínua**:
 
-Aquest procediment s'aplica a les proves trimestrals ordinàries de síntesi i recuperació i s'ha de distingir de la **prova extraordinària d'avaluació** prevista normativament per a les matèries no superades en l'avaluació ordinària.
+- El **bloc del primer trimestre** permetrà recuperar o millorar la qualificació ja obtinguda en aquell període. La qualificació definitiva del primer trimestre serà **la més alta entre la qualificació trimestral prèvia i la nota d'aquest bloc de la prova final**.
+- El **bloc del segon trimestre** seguirà exactament el mateix procediment. En cap dels dos casos una nota inferior a la prova final reduirà la qualificació del trimestre ja obtinguda.
+- El **bloc del tercer trimestre** s'integrarà com una prova escrita més dins el **60 %** de les proves escrites del tercer trimestre. Els altres dos blocs no es tornaran a comptabilitzar dins la qualificació del tercer trimestre.
 
-### 3.5. Qualificació final ordinària del curs
+Les evidències del **40 %** (activitats, pràctiques, treballs i altres produccions) recullen el procés d'aprenentatge i no es consideren recuperables mitjançant una prova escrita. La possible substitució de la qualificació global d'un trimestre per una nota superior del bloc corresponent de la prova final és una **mesura específica de recuperació i millora**, i no una reproducció de les evidències de procés.
 
-La **qualificació final ordinària** de la matèria s'obté mitjançant la **mitjana aritmètica de les tres qualificacions trimestrals**, després d'haver aplicat a cadascun dels trimestres el procediment de síntesi i recuperació indicat a l'apartat 3.4. Els tres trimestres tenen el mateix pes en aquesta mitjana.
+Aquesta mateixa prova serà l'instrument de qualificació per a l'alumnat que, d'acord amb el procediment extraordinari establert pel centre, **no pugui ser avaluat mitjançant l'avaluació contínua per faltes d'assistència reiterades**. **Per a aquest alumnat, la qualificació final de la matèria serà la nota global obtinguda en la prova final**, segons la puntuació i les pautes de correcció comunicades, sense aplicació del sistema de ponderació 60 % / 40 %.
 
-**Q_final = (Q₁ + Q₂ + Q₃) / 3**, on **Q₁**, **Q₂** i **Q₃** són les qualificacions trimestrals resultants després de la prova global corresponent.
+La prova final ordinària prevista en aquest apartat és diferent de la **prova extraordinària d'avaluació** de les matèries no superades, regulada per la normativa de batxillerat.
 
-La qualificació oficial es consignarà d'acord amb el procediment i les normes de registre de qualificacions establerts per la normativa vigent i pel centre.
+### 3.6. Qualificació final ordinària del curs
 
-### 3.6. Retroacció i seguiment
+Per a l'alumnat que segueix l'avaluació contínua, la **qualificació final ordinària** de la matèria s'obté mitjançant la **mitjana aritmètica de les tres qualificacions trimestrals definitives**. Els tres trimestres tenen el mateix pes.
+
+- **Q₁ definitiva = màxim(Q₁ prèvia, R₁)**, on R₁ és la nota del bloc del primer trimestre de la prova final.
+- **Q₂ definitiva = màxim(Q₂ prèvia, R₂)**, on R₂ és la nota del bloc del segon trimestre de la prova final.
+- **Q₃ definitiva = 0,60 × P₃ + 0,40 × A₃**, on P₃ inclou la nota del bloc del tercer trimestre de la prova final com una prova escrita més.
+
+**Q_final = (Q₁ definitiva + Q₂ definitiva + Q₃ definitiva) / 3**. Les qualificacions prèvies dels dos primers trimestres ja inclouen la ponderació 60 % / 40 % i les proves acumulatives respectives.
+
+Per a l'alumnat que no pugui ser avaluat de manera contínua en les condicions de l'apartat 3.5, la qualificació final serà exclusivament la de la prova final. La qualificació oficial es consignarà d'acord amb el procediment i les normes de registre establerts per la normativa vigent i pel centre.
+
+### 3.7. Retroacció i seguiment
 
 Durant les activitats es proporcionaran orientacions per identificar encerts, revisar errors i millorar les explicacions, els procediments i les produccions. Quan es detectin dificultats, es proposaran tasques de reforç, revisió o noves oportunitats de demostrar els aprenentatges. Les qualificacions oficials es registraran d'acord amb la normativa vigent i els acords del departament.
 
