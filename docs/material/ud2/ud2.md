@@ -504,28 +504,54 @@ Un bon model científic és valuós precisament perquè **explica moltes observa
 
 ### 3.7. La tectònica de plaques: un model unificador
 
-Segons la teoria de la tectònica de plaques, la **litosfera** està fragmentada en plaques que es desplacen unes respecte de les altres sobre zones del mantell que poden deformar-se lentament.
+Segons la teoria de la tectònica de plaques, la **litosfera** està fragmentada en plaques que es desplacen lentament unes respecte de les altres. Les plaques són unitats rígides a escala geològica, tot i que es poden fracturar i deformar, especialment als límits. Es mouen sobre regions del mantell que són essencialment sòlides però que poden deformar-se molt lentament.
 
-El moviment relatiu de les plaques concentra gran part de l’activitat geològica als seus límits.
+Aquest model permet relacionar fenòmens que abans s'estudiaven separadament: l'expansió del fons oceànic, la distribució dels terratrèmols i dels volcans, la formació de serralades i la renovació de part de la litosfera.
 
-#### Recorda de 4t d’ESO
+#### Les plaques no són el mateix que els continents
 
-| Tipus de límit | Moviment relatiu | Conseqüències generals |
+Com hem vist a l'apartat 2.6, les plaques tectòniques són fragments de **litosfera**, no només d'escorça. Una mateixa placa pot incloure **litosfera oceànica, litosfera continental o totes dues**. Per això, els límits de les plaques no coincideixen necessàriament amb les costes.
+
+Les diferències de composició, gruix, temperatura, densitat i flotabilitat que ja hem estudiat contribueixen a explicar per què les plaques es comporten de manera diferent quan interactuen.
+
+#### Com condicionen la densitat i la flotabilitat el comportament de les plaques?
+
+La **litosfera oceànica prou freda** pot adquirir una densitat mitjana superior a la del mantell que l'envolta. Quan una part comença a enfonsar-se en una zona de **subducció**, el seu propi pes pot contribuir a estirar la resta de la placa. En canvi, l'**escorça continental**, generalment menys densa, contribueix a una major flotabilitat, que dificulta l'enfonsament profund i sostingut de les masses continentals.
+
+No basta, per tant, afirmar que «la placa oceànica s'enfonsa perquè és més densa que la continental»: **també hi ha subducció entre dues plaques oceàniques**. La comparació rellevant és entre la litosfera i el mantell que l'envolta, i el resultat depèn de les propietats i de la història tèrmica de la placa.
+
+#### Com interactuen les plaques?
+
+Els límits es classifiquen segons el **moviment relatiu** de les plaques:
+
+| Tipus de límit | Moviment relatiu | Manifestacions geològiques habituals |
 |---|---|---|
-| **Divergent** | Les plaques se separen | Dorsals o rifts, formació de litosfera, vulcanisme i sismicitat superficial |
-| **Convergent** | Les plaques s’aproximen | Subducció o col·lisió, serralades, sismicitat i vulcanisme segons el context |
-| **Transformant** | Les plaques llisquen lateralment | Falles i sismicitat |
+| **Divergent** | Les plaques se separen | Dorsals oceàniques o rifts, sismicitat superficial i, sovint, vulcanisme; a les dorsals es forma nova litosfera oceànica |
+| **Convergent** | Les plaques s'aproximen | Subducció o col·lisió continental, amb sismicitat, deformació i relleus; el vulcanisme depèn del context |
+| **Transformant** | Les plaques llisquen lateralment una respecte de l'altra | Grans falles i terratrèmols, sense creació ni destrucció sistemàtica de litosfera al límit |
 
-En aquesta unitat **no ens interessa simplement memoritzar aquesta classificació**.
+Aquesta classificació descriu **com es mouen** les plaques, però no determina per si sola tot el que passa a cada límit. També importa **quina mena de litosfera** hi intervé.
 
-El que ens interessarà a partir d’ara és utilitzar-la per respondre preguntes com:
+#### No totes les convergències tenen el mateix resultat
 
-- Per què es forma magma en unes zones i no en unes altres?
-- Per què alguns terratrèmols són superficials i altres molt profunds?
-- Per què determinats límits originen serralades?
-- Quines roques podem esperar trobar en cada context?
+- **Convergència oceànica–oceànica.** Una de les plaques oceàniques pot subduir sota l'altra. Sovint es formen una fossa oceànica i un arc d'illes volcàniques. Els terratrèmols poden produir-se a profunditats diferents al llarg de la placa que s'enfonsa.
+- **Convergència oceànica–continental.** La litosfera oceànica pot subduir sota la continental. Es poden formar una fossa, terratrèmols de diferents profunditats i una cadena volcànica sobre el continent.
+- **Col·lisió continental.** Quan dues masses continentals convergeixen, la flotabilitat de l'escorça continental dificulta que continuïn enfonsant-se com ho fa la litosfera oceànica. Predominen l'escurçament, el plegament, les falles i l'engruiximent de l'escorça, que contribueixen a formar grans serralades. Una col·lisió continental sol estar precedida per la subducció de la litosfera oceànica que separava els continents.
 
-És a dir, passarem de **conèixer el model** a **utilitzar-lo per explicar i predir processos geològics**.
+!!! warning "Convergent no vol dir sempre volcànic"
+
+    **Subducció i col·lisió continental són processos diferents**, encara que en tots dos casos les plaques s'aproximen.
+
+    El vulcanisme és freqüent en moltes zones de subducció, però **no és una conseqüència necessària de qualsevol límit convergent**. En les col·lisions continentals predominen la deformació i l'engruiximent de l'escorça.
+
+#### Un model que permet explicar i predir
+
+Per identificar un context tectònic no basta observar una sola característica. Hem de combinar dades com la **distribució i profunditat dels terratrèmols, el relleu, el vulcanisme i el moviment relatiu de les plaques**. La coincidència de diverses evidències permet justificar millor la interpretació.
+
+A partir d'aquest model podem començar a plantejar preguntes: per què hi ha terratrèmols profunds en alguns límits i en altres no? Per què es forma nova litosfera a les dorsals? Per què algunes convergències originen arcs volcànics i altres grans serralades?
+
+A l'apartat 4 utilitzarem aquestes relacions per predir **quines condicions físiques es generen, quins processos poden transformar els materials i quines roques podem esperar trobar** en cada context. És a dir, passarem de **comprendre el model** a **utilitzar-lo per explicar fenòmens geològics**.
+
 
 ### 3.8. La ciència no avança com una successió de descobriments individuals
 
