@@ -370,7 +370,9 @@ Per exemple, podem trobar evidències d’antigues glaciacions en regions que ac
 
 Aquestes observacions poden explicar-se si **els continents han canviat de posició al llarg del temps geològic**.
 
-> **Una sola coincidència pot tenir diverses explicacions. La força d’una hipòtesi augmenta quan diferents tipus d’evidències independents convergeixen en una mateixa interpretació.**
+!!! tip "Idea clau · Evidències independents"
+
+    **Una sola coincidència pot tenir diverses explicacions. La força d’una hipòtesi augmenta quan diferents tipus d’evidències independents convergeixen en una mateixa interpretació.**
 
 ### 3.2. Wegener i la deriva continental
 
@@ -387,13 +389,15 @@ La hipòtesi permetia explicar conjuntament:
 
 Però hi havia un problema important:
 
-> **Quin mecanisme podia moure continents sencers?**
+**Quin mecanisme podia moure continents sencers?**
 
 Les forces proposades per Wegener no proporcionaven una explicació física satisfactòria del moviment.
 
 Wegener va considerar dues possibles causes: un efecte associat a la **rotació terrestre**, que podria desplaçar els continents cap a l'equador, i les **forces de marea** originades per l'atracció gravitatòria de la Lluna i el Sol, que podrien contribuir a desplaçar-los cap a l'oest. Tanmateix, els càlculs geofísics mostraren que aquestes forces eren massa febles per explicar els moviments proposats.
 
-Això és important per entendre com funciona la ciència. Les evidències de Wegener **no varen deixar de ser rellevants** perquè el mecanisme proposat fos insuficient. El que passava és que la hipòtesi encara no constituïa una explicació completa de la dinàmica terrestre.
+!!! warning "Evidències favorables no equivalen a un mecanisme explicatiu complet"
+
+    Les evidències de Wegener **no varen deixar de ser rellevants** perquè el mecanisme proposat fos insuficient. El que passava és que la hipòtesi encara no constituïa una explicació completa de la dinàmica terrestre.
 
 Per avançar feien falta dades que en aquella època encara no teníem.
 
@@ -418,9 +422,7 @@ Treballant amb nombroses mesures de profunditat de l’Atlàntic, Tharp va recon
 
 La comparació posterior amb la distribució dels terratrèmols mostrava que moltes localitzacions sísmiques coincidien amb aquesta gran estructura.
 
-La importància d’aquest resultat no consistia simplement a haver descobert una nova forma de relleu:
-
-> **el fons oceànic mostrava senyals d’activitat tectònica.**
+La importància d’aquest resultat no consistia simplement a haver descobert una nova forma de relleu: **el fons oceànic mostrava senyals d’activitat tectònica**.
 
 Les noves tècniques havien fet visible una part del planeta que fins aleshores coneixíem molt poc.
 
@@ -441,15 +443,13 @@ A les dorsals ascendeixen materials des de zones més profundes. Es produeix mag
 
 Aquesta nova litosfera es va allunyant progressivament de la dorsal mentre se’n forma més.
 
-Podem resumir-ho així:
+!!! tip "Idea clau · Renovació del fons oceànic"
 
-**dorsal → formació de nova litosfera → separació progressiva → augment de l’edat amb la distància**
+    **dorsal → formació de nova litosfera → separació progressiva → augment de l’edat amb la distància**
 
 Aquesta explicació proporcionava el mecanisme que faltava a la idea inicial de mobilitat continental.
 
-Els continents no necessitaven obrir-se pas de manera independent a través d’un fons oceànic immòbil:
-
-> **continents i fons oceànic formen part d’unitats litosfèriques que es desplacen.**
+Els continents no necessitaven obrir-se pas de manera independent a través d’un fons oceànic immòbil: **continents i fons oceànic formen part d’unitats litosfèriques que es desplacen**.
 
 ![Com es renova el fons oceànic](figures/02_tectonica_plaques/f02_com_es_renova_el_fons_oceanic.png)
 
@@ -465,9 +465,7 @@ Al llarg de la història de la Terra s’han produït nombroses **inversions mag
 
 Quan es varen mesurar les propietats magnètiques de les roques del fons oceànic, es va observar una successió de bandes amb polaritat diferent.
 
-El patró tenia una característica especialment significativa:
-
-> **les bandes magnètiques presentaven una disposició aproximadament simètrica als dos costats de les dorsals.**
+El patró tenia una característica especialment significativa: **les bandes magnètiques presentaven una disposició aproximadament simètrica als dos costats de les dorsals**.
 
 Això és exactament el que esperaríem si:
 
@@ -476,9 +474,9 @@ Això és exactament el que esperaríem si:
 3. la litosfera es desplaça cap als costats;
 4. una nova inversió queda registrada en les roques que es formen posteriorment.
 
-Per tant:
+!!! info "Evidències de l’expansió del fons oceànic"
 
-**inversions del camp magnètic + bandes simètriques → evidència d’expansió del fons oceànic**
+    **Inversions del camp magnètic + bandes simètriques → evidència d’expansió del fons oceànic**
 
 L’edat de les roques proporciona una segona comprovació independent: també és aproximadament simètrica i augmenta en allunyar-nos de l’eix de la dorsal.
 
@@ -499,9 +497,7 @@ Moltes d’aquestes franges coincideixen amb:
 - grans sistemes de falles;
 - zones de formació de serralades.
 
-Aquest patró permet delimitar grans fragments de litosfera:
-
-> **les plaques tectòniques.**
+Aquest patró permet delimitar grans fragments de litosfera: **les plaques tectòniques**.
 
 La tectònica de plaques integra així observacions que inicialment s’havien estudiat per separat:
 
@@ -603,7 +599,9 @@ Per això, passar de la deriva continental a la tectònica de plaques no signifi
 
 La idea de mobilitat continental va aportar una part important del problema. Les noves dades varen permetre entendre **un sistema molt més ampli**, en el qual també es mou i es renova la litosfera oceànica.
 
-> **La ciència avança quan les evidències permeten conservar allò que un model explica bé, corregir-ne les limitacions i construir explicacions amb més capacitat de predicció.**
+!!! tip "Idea clau · Com avança la ciència?"
+
+    **La ciència avança quan les evidències permeten conservar allò que un model explica bé, corregir-ne les limitacions i construir explicacions amb més capacitat de predicció.**
 
 ---
 
