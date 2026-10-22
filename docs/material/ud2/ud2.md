@@ -872,8 +872,19 @@ Per això:
 
     **El color, per si sol, sol ser una propietat poc fiable per identificar un mineral.** La identificació es basa en la combinació de diverses propietats.
 
-[Veure la infografia · Minerals, cristalls i roques](figures/resum_visual_de_minerals_cristalls_i_roques.png){ .md-button .md-button--primary }
-[Veure la infografia · Vidre, cristall i mineral](figures/resum_visual_vidre_cristall_i_mineral.png){ .md-button .md-button--primary }
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 1.5rem 0;">
+
+  <a href="figures/resum_visual_de_minerals_cristalls_i_roques.png" target="_blank" style="width: 240px; text-align: center;">
+    <img src="figures/resum_visual_de_minerals_cristalls_i_roques.png" alt="Minerals, cristalls i roques" style="width: 100%; border-radius: 8px;">
+    <strong>Minerals, cristalls i roques</strong>
+  </a>
+
+  <a href="figures/resum_visual_vidre_cristall_i_mineral.png" target="_blank" style="width: 240px; text-align: center;">
+    <img src="figures/resum_visual_vidre_cristall_i_mineral.png" alt="Vidre, cristall i mineral" style="width: 100%; border-radius: 8px;">
+    <strong>Vidre, cristall i mineral</strong>
+  </a>
+
+</div>
 
 #### Duresa
 
