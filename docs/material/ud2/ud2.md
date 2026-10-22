@@ -678,9 +678,9 @@ Aquest mecanisme pot tenir una importància especial dins l’escorça continent
 
 Per tant:
 
-**descompressió**  
-**+ incorporació de volàtils**  
-**+ aportació de calor**
+- **descompressió** disminució de la pressió.  
+- **incorporació de volàtils** reducció de la temperatura necessària per iniciar la fusió.  
+- **aportació de calor** augment de la temperatura del material.
 
 poden, en contextos diferents, afavorir:
 
