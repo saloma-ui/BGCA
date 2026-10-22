@@ -23,7 +23,9 @@ Aquests components no funcionen de manera independent.
 
 Per exemple, l’aigua de pluja pot penetrar per les fractures d’una roca i alterar-ne els minerals. Els fragments resultants poden ser transportats per un torrent, dipositar-se en un altre indret i acabar formant una roca sedimentària. Els éssers vius poden contribuir a la meteorització de les roques i a la formació del sòl. Al mateix temps, el relleu condiciona la circulació de l’aigua i de l’aire.
 
-Per entendre la dinàmica terrestre, per tant, no basta estudiar cada component per separat: cal estudiar també **els fluxos de matèria i energia que els connecten**.
+!!! tip "Idea clau · La Terra funciona com un sistema"
+
+    Per entendre la dinàmica terrestre no basta estudiar cada component per separat: cal estudiar també **els fluxos de matèria i energia que els connecten**.
 
 ### 1.2. D’on prové l’energia dels processos terrestres?
 
@@ -61,13 +63,10 @@ La **gravetat** també és fonamental en molts d’aquests processos: fa que l�
 
 #### Dinàmica interna i dinàmica externa
 
-Per facilitar-ne l’estudi solem distingir:
+!!! info "Dues fonts d’energia i processos relacionats"
 
-**processos geològics interns**, relacionats principalment amb l’energia interna de la Terra;
-
-i
-
-**processos geològics externs**, impulsats sobretot per l’energia solar i la gravetat.
+    - **Processos geològics interns:** relacionats principalment amb l’energia interna de la Terra.
+    - **Processos geològics externs:** impulsats sobretot per l’energia solar i la gravetat.
 
 Aquesta separació és útil, però no significa que siguin dos sistemes independents. Els processos interns construeixen i deformen relleus que després són modificats pels processos externs. El paisatge que observam en cada moment és el resultat de la **interacció entre tots aquests processos al llarg del temps**.
 
