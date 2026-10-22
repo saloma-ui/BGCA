@@ -618,36 +618,67 @@ però també:
 
 ### 4.1. Utilitzar la tectònica per fer prediccions
 
-Ja coneixem els principals tipus de límits de plaques. Ara ens interessa utilitzar aquest model per predir què pot passar amb els materials.
+A l'apartat 3.7 hem vist que els límits de plaques no es comporten tots igual: **el moviment relatiu i les característiques de la litosfera que hi intervé** condicionen els processos geològics. Ara utilitzarem aquest model per explicar què passa amb els materials i per fer prediccions que puguem contrastar amb observacions.
 
-En una **dorsal oceànica**, per exemple:
+La idea és seguir una cadena de raonament:
 
-- les plaques se separen;
-- ascendeixen materials del mantell;
-- disminueix la pressió;
-- es pot produir fusió parcial;
-- el magma ascendeix i cristal·litza;
-- es forma nova litosfera oceànica.
+**context tectònic → condicions físiques → processos possibles → materials i evidències esperables**
 
-En una **zona de subducció**:
+No es tracta de memoritzar una llista de fenòmens associats a cada límit, sinó de **justificar per què els esperam**.
 
-- una placa oceànica s’enfonsa;
-- augmenten la pressió i la temperatura;
-- s’alliberen aigua i altres volàtils;
-- es pot generar magma al mantell situat sobre la placa subduïda;
-- es produeixen metamorfisme, deformació, sismicitat i sovint vulcanisme.
+#### Dorsal oceànica: separació i formació de nova litosfera
 
-En una **col·lisió continental**, en canvi, predominen:
+En una **dorsal oceànica**, les plaques se separen i ascendeixen materials del mantell per ocupar l'espai que es genera. Durant l'ascens, **disminueix la pressió** sense que calgui un augment important de la temperatura. Això pot afavorir la **fusió parcial** del mantell.
 
-- l’engruiximent de l’escorça;
-- la deformació;
-- l’augment de pressió i temperatura;
-- el metamorfisme;
-- la formació de grans relleus.
+El magma produït pot ascendir fins al fons oceànic o quedar en profunditat, on es refreda i cristal·litza. D'aquesta manera es formen roques ígnies i **nova litosfera oceànica**.
 
-Per tant, conèixer el context tectònic ens permet formular **prediccions contrastables** sobre els processos i les roques que hi podem trobar.
+A partir d'aquest model podem esperar **vulcanisme**, **terratrèmols principalment superficials** i roques oceàniques que, en general, són **més joves prop de l'eix de la dorsal** que lluny d'aquest.
 
-> **Recorda:** no totes les vores convergents produeixen exactament els mateixos fenòmens. Una subducció oceànica i una col·lisió entre dos continents són totes dues convergents, però les condicions i els processos resultants són diferents.
+#### Zona de subducció: enfonsament i transformació dels materials
+
+En una **zona de subducció**, una part de la litosfera oceànica s'enfonsa cap al mantell. La seva densitat i flotabilitat, relacionades amb el refredament i la història de la placa, contribueixen a explicar aquest comportament, tal com hem vist al 3.7.
+
+És important distingir dos àmbits:
+
+- **A la placa que s'enfonsa**, els materials experimenten canvis de pressió i temperatura, es deformen i poden alliberar **aigua i altres volàtils**.
+- **Al mantell situat per damunt de la placa subduïda**, aquests volàtils poden afavorir la **fusió parcial** i la generació de magma, que eventualment pot alimentar el vulcanisme.
+
+Per tant, **no és correcte explicar els volcans d'una zona de subducció dient simplement que la placa subduïda es fon**.
+
+El model permet esperar una **fossa**, **terratrèmols que poden arribar a grans profunditats**, transformacions de les roques i, en moltes zones, un **arc volcànic**. No tots aquests fenòmens han d'aparèixer amb la mateixa intensitat a totes les subduccions.
+
+#### Col·lisió continental: deformació i engruiximent de l'escorça
+
+Quan dues masses continentals entren en col·lisió, la flotabilitat relativament elevada de l'escorça continental dificulta que un continent continuï enfonsant-se de manera sostinguda com la litosfera oceànica.
+
+La convergència provoca **escurçament, plegaments, falles i engruiximent de l'escorça**. L'enterrament i la deformació poden sotmetre les roques a noves condicions de pressió i temperatura, i afavorir-ne el **metamorfisme**, sense que necessàriament arribin a fondre's.
+
+En aquest context podem esperar **grans serralades**, **roques deformades**, **roques metamòrfiques** i sismicitat. El vulcanisme no és una característica necessària de la col·lisió continental.
+
+!!! warning "No totes les convergències tenen les mateixes conseqüències"
+
+    A les **zones de subducció**, l'enfonsament de litosfera oceànica pot afavorir la formació de magmes al mantell situat per damunt.
+
+    A les **col·lisions continentals**, solen predominar l'engruiximent de l'escorça, la deformació i el metamorfisme.
+
+    **Convergència** descriu el moviment de les plaques; **subducció** i **col·lisió continental** descriuen situacions amb processos diferents.
+
+#### De l'explicació a una predicció contrastable
+
+Una predicció científica no consisteix només a afirmar que «hi haurà activitat geològica». Ha d'indicar **què esperam observar**, **on ho esperam** i **quines dades permetrien contrastar-ho**.
+
+!!! example "Exemple: predir l'edat de les roques oceàniques"
+
+    **Context:** una dorsal on es forma nova litosfera oceànica.
+
+    **Predicció:** les roques del fons oceànic situades a prop de l'eix de la dorsal seran, en general, més joves que les situades més lluny, a banda i banda.
+
+    **Contrast:** obtenir i comparar dades d'edat de roques a diferents distàncies de l'eix.
+
+    **Resultat esperat:** les edats augmentaran aproximadament amb la distància. Si no s'observa aquest patró, caldrà revisar la interpretació i considerar la història particular de la regió.
+
+Aquest és el valor de la tectònica de plaques com a model científic: permet **explicar observacions** i també **anticipar-ne de noves**, que després podem comprovar. Als apartats següents estudiarem amb més detall els mecanismes de fusió parcial, la formació de roques ígnies i el metamorfisme.
+
 
 ### 4.2. Per què es formen els magmes?
 
