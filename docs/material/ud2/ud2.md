@@ -1452,9 +1452,9 @@ Un fenomen natural és un procés que ocorre a la Terra.
 
 Parlam de **risc** quan aquest procés pot causar danys a persones, béns, infraestructures o activitats.
 
-Això significa que:
+!!! warning "Fenomen natural no és sinònim de desastre"
 
-> **el risc no depèn només de la intensitat del fenomen natural.**
+    **El risc no depèn només de la intensitat del fenomen natural.** També hem de considerar què hi ha exposat i com de vulnerable és.
 
 Per analitzar-lo hem de considerar almenys tres components:
 
@@ -1542,9 +1542,15 @@ De vegades aquesta relació s’expressa de manera esquemàtica com:
 
 No l’hem d’interpretar com una fórmula matemàtica universal.
 
-La seva funció és recordar una idea:
+!!! info "Tres components per comprendre el risc"
 
-> **un risc elevat pot resultar de combinacions diferents dels seus components.**
+    **Perillositat:** quin fenomen potencialment perjudicial pot produir-se i amb quina intensitat o probabilitat.
+
+    **Exposició:** quines persones, infraestructures o activitats poden quedar afectades.
+
+    **Vulnerabilitat:** com de fàcil és que aquests elements resultin danyats.
+
+    **Un risc elevat pot resultar de combinacions diferents dels seus components.**
 
 Per exemple:
 
@@ -1571,9 +1577,9 @@ Durant aquest temps es pot:
 
 La **perillositat pot mantenir-se semblant**, mentre que l’exposició i la vulnerabilitat canvien.
 
-Per tant:
+!!! tip "El risc també depèn de les decisions humanes"
 
-> **el risc natural depèn també de les decisions humanes sobre el territori.**
+    **El risc natural depèn també de les decisions humanes sobre el territori.**
 
 No podem impedir que una falla acumuli tensió ni que una precipitació intensa arribi a produir-se. Però sovint sí que podem actuar sobre **on construïm, com construïm i com ens preparam**.
 
@@ -1613,9 +1619,9 @@ Podem:
 - establir normes de construcció;
 - preparar plans d’emergència.
 
-Per tant:
+!!! warning "Predir un terratrèmol no és el mateix que estimar la perillositat"
 
-> **no poder predir exactament un fenomen no significa que no puguem reduir-ne el risc.**
+    **No poder predir exactament un fenomen no significa que no puguem reduir-ne el risc.**
 
 ### 6.8. Predicció, prevenció i correcció
 
@@ -1695,7 +1701,9 @@ Això pot afectar:
 - les mesures proposades;
 - o fins i tot les dades que necessitam obtenir després.
 
-> **Canviar una conclusió davant evidències noves no és un fracàs del raonament científic: és part del raonament científic.**
+!!! tip "Revisar una decisió també és fer ciència"
+
+    **Canviar una conclusió davant evidències noves no és un fracàs del raonament científic: és part del raonament científic.**
 
 ### 6.10. La geologia també ens proporciona recursos
 
@@ -1772,7 +1780,9 @@ La gestió responsable ha de considerar preguntes més útils:
 - Hi ha zones que convé excloure de l’explotació?
 - Què passa quan acaba l’activitat extractiva?
 
-> **Ús responsable no significa no utilitzar recursos, sinó prendre decisions considerant-ne els beneficis, els costos i les alternatives.**
+!!! tip "L'ús responsable requereix valorar alternatives"
+
+    **Ús responsable no significa no utilitzar recursos, sinó prendre decisions considerant-ne els beneficis, els costos i les alternatives.**
 
 ![De la roca al recurs: propietats, usos i impactes](figures/05_convivim_terra_dinamica/f03_5-10_de_roca_a_recurs.png)
 
@@ -1886,9 +1896,9 @@ Això exigeix seleccionar informació.
 
 Una fitxa amb molt de text no és necessàriament millor que una fitxa breu.
 
-El criteri important és:
+!!! tip "Comunicar amb rigor i claredat"
 
-> **la informació necessària ha de ser clara, rigorosa, rellevant i estar organitzada en un format adequat al destinatari.**
+    **La informació necessària ha de ser clara, rigorosa, rellevant i estar organitzada en un format adequat al destinatari.**
 
 ### 6.16. Risc, recurs i patrimoni poden coincidir en un mateix territori
 
@@ -1912,7 +1922,9 @@ Per tant, la pregunta final no és:
 
 sinó:
 
-> **«Quina decisió està millor justificada per les dades disponibles i quines conseqüències té?»**
+!!! tip "Decisions justificades amb dades"
+
+    **«Quina decisió està millor justificada per les dades disponibles i quines conseqüències té?»**
 
 #### Idea que connecta tot el bloc
 
@@ -1944,12 +1956,3 @@ i:
 
 ---
 
-## Síntesi de la unitat
-
-Al llarg de la unitat hem passat d’una pregunta sobre allò que no podem observar directament a una pregunta sobre com prenem decisions en un planeta actiu.
-
-La seqüència es pot resumir així:
-
-**evidències → models de l’interior → tectònica de plaques → transformació de materials → modelatge del paisatge → riscos, recursos i patrimoni**
-
-El fil comú és sempre el mateix: **observar, interpretar, construir explicacions i revisar-les quan apareixen noves dades**.
