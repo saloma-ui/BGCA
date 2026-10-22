@@ -686,7 +686,6 @@ Una predicció científica no consisteix només a afirmar que «hi haurà activi
 
 Aquest és el valor de la tectònica de plaques com a model científic: permet **explicar observacions** i també **anticipar-ne de noves**, que després podem comprovar. Als apartats següents estudiarem amb més detall els mecanismes de fusió parcial, la formació de roques ígnies i el metamorfisme.
 
-
 ### 4.2. Per què es formen els magmes?
 
 Una idea molt habitual és pensar:
@@ -726,9 +725,9 @@ A les zones de subducció, la placa oceànica que s’enfonsa experimenta transf
 
 Per tant, és important evitar una simplificació freqüent:
 
-> **la placa que subdueix no simplement «es fon» i produeix els volcans.**
+!!! warning "La placa que subdueix no es fon simplement per originar els volcans"
 
-Una part important del magma es genera per **fusió parcial del mantell situat sobre la placa subduïda**, afavorida pels volàtils que aquesta allibera.
+    Una part important del magma es genera per **fusió parcial del mantell situat sobre la placa subduïda**, afavorida pels volàtils que aquesta allibera.
 
 #### Fusió per aportació de calor
 
@@ -740,17 +739,19 @@ Aquest mecanisme pot tenir una importància especial dins l’escorça continent
 
 #### Tres mecanismes, una mateixa conseqüència
 
-Per tant:
+!!! tip "Idea clau · Tres mecanismes de fusió parcial"
 
-- **descompressió** disminució de la pressió.  
-- **incorporació de volàtils** reducció de la temperatura necessària per iniciar la fusió.  
-- **aportació de calor** augment de la temperatura del material.
+    La fusió parcial pot ser afavorida per diferents mecanismes:
 
-poden, en contextos diferents, afavorir:
+    - **Descompressió:** disminució de la pressió.
+    - **Incorporació de volàtils:** reducció de la temperatura necessària per iniciar la fusió.
+    - **Aportació de calor:** augment de la temperatura del material.
 
-**roca sòlida → fusió parcial → magma**
+    Cadascun d'aquests mecanismes pot afavorir, en les condicions adequades:
 
-Aquests mecanismes no són necessàriament excloents. En una situació geològica real en poden actuar diversos alhora.
+    **roca sòlida → fusió parcial → magma**
+
+    Aquests mecanismes **no són necessàriament excloents**: en una situació geològica real en poden actuar diversos alhora.
 
 ![Tres mecanismes de fusió parcial](figures/03_transformacio_materials/f01_3-2_tres_mecanismes_fusio_parcial.png)
 
@@ -798,7 +799,9 @@ El gabre és una roca plutònica que cristal·litza lentament en profunditat.
 
 Per això:
 
-> **tenir minerals semblants no implica tenir la mateixa textura ni la mateixa història de formació.**
+!!! info "Com interpretar la textura d'una roca ígnia"
+
+    **Tenir minerals semblants no implica tenir la mateixa textura ni la mateixa història de formació.**
 
 Una roca no s’interpreta només identificant de què està composta. També hem d’observar **com estan disposats i quina mida tenen els seus minerals**.
 
@@ -819,11 +822,11 @@ Els principals factors metamòrfics són:
 
 Els minerals que eren estables en unes condicions poden deixar de ser-ho i formar-ne de nous. Els cristalls també poden recristal·litzar, créixer o orientar-se.
 
-La idea essencial és:
+!!! warning "Metamorfisme no és fusió"
 
-> **metamorfisme ≠ fusió**
+    El **metamorfisme** transforma la roca mentre es manté en **estat sòlid**.
 
-Si la roca arriba a fondre’s, ja passam a processos magmàtics.
+    Si la roca arriba a fondre’s, ja passam a processos magmàtics.
 
 #### Metamorfisme regional
 
@@ -865,9 +868,9 @@ Per exemple, dues mostres de minerals poden tenir un color semblant i, tanmateix
 
 Per això:
 
-> **el color, per si sol, sol ser una propietat poc fiable per identificar un mineral.**
+!!! warning "El color no basta per identificar un mineral"
 
-La identificació es basa en la combinació de diverses propietats.
+    **El color, per si sol, sol ser una propietat poc fiable per identificar un mineral.** La identificació es basa en la combinació de diverses propietats.
 
 [Veure la infografia · Minerals, cristalls i roques](figures/resum_visual_de_minerals_cristalls_i_roques.png){ .md-button .md-button--primary }
 [Veure la infografia · Vidre, cristall i mineral](figures/resum_visual_vidre_cristall_i_mineral.png){ .md-button .md-button--primary }
@@ -1001,9 +1004,11 @@ Aquest conjunt de transformacions constitueix el **cicle litològic**.
 
 Però el terme *cicle* pot provocar una idea equivocada.
 
-> **No existeix una ruta única que totes les roques hagin de seguir.**
+!!! warning "El cicle litològic no té una ruta única"
 
-Una roca ígnia pot meteoritzar-se directament, transformar-se metamòrficament, tornar-se a fondre o quedar sense canvis durant milions d’anys.
+    **No existeix una ruta única que totes les roques hagin de seguir.**
+
+    Una roca ígnia pot meteoritzar-se directament, transformar-se metamòrficament, tornar-se a fondre o quedar sense canvis durant milions d’anys.
 
 Per això és millor imaginar el cicle litològic com una **xarxa de transformacions possibles** que no com una roda amb una seqüència obligatòria.
 
