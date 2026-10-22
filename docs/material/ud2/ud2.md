@@ -84,7 +84,9 @@ Com podem saber, aleshores, que existeixen?
 
 La resposta és una idea fonamental de les ciències de la Terra:
 
-> **Podem conèixer estructures que no observam directament si les seves propietats produeixen efectes mesurables a la superfície.**
+!!! tip "Idea clau · Conèixer allò que no podem observar directament"
+
+    **Podem conèixer estructures que no observam directament si les seves propietats produeixen efectes mesurables a la superfície.**
 
 La major part del nostre coneixement sobre l’interior terrestre prové, per tant, de **proves indirectes**.
 
@@ -160,7 +162,9 @@ Produeixen deformacions perpendiculars a la direcció de propagació.
 
 A diferència de les ones P:
 
-> **les ones S no es propaguen a través dels líquids.**
+!!! warning "No confonguis les ones P i S"
+
+    **Les ones S no es propaguen a través dels líquids.**
 
 Aquesta propietat és especialment important per investigar l’interior de la Terra.
 
@@ -198,7 +202,9 @@ Aquestes regions s’anomenen **zones d’ombra sísmica**.
 
 L’absència d’ones S després d’haver travessat el límit entre mantell i nucli és una evidència especialment important. Com que les ones S no poden propagar-se pels líquids, podem inferir que:
 
-> **el nucli extern de la Terra es troba en estat líquid.**
+!!! tip "Conclusió · Estat del nucli extern"
+
+    **El nucli extern de la Terra es troba en estat líquid.**
 
 Les fortes refraccions experimentades per les ones P indiquen igualment un canvi important de propietats entre el mantell i el nucli.
 
@@ -229,7 +235,9 @@ Observacions posteriors varen donar suport al model actual, que distingeix:
 
 Aquest cas il·lustra una característica fonamental de la ciència:
 
-> **quan apareixen observacions que un model no explica satisfactòriament, el model s’ha de revisar.**
+!!! tip "Idea clau · Els models científics es revisen"
+
+    **Quan apareixen observacions que un model no explica satisfactòriament, el model s’ha de revisar.**
 
 Això no significa necessàriament que el model anterior fos inútil. Sovint explicava correctament moltes observacions, però les noves dades mostraven que era **incomplet**.
 
@@ -269,7 +277,9 @@ Distingeix regions amb comportaments diferents, entre les quals destaquen:
 - **Nucli extern:** líquid.
 - **Nucli intern:** sòlid.
 
-> **Recorda:** l’escorça i la litosfera **no són sinònims**. L’escorça és una capa definida per la seva composició; la litosfera és una unitat definida pel seu comportament mecànic.
+!!! warning "No confonguis escorça i litosfera"
+
+    **L’escorça i la litosfera no són sinònims.** L’escorça és una capa definida per la seva composició; la litosfera és una unitat definida pel seu comportament mecànic.
 
 Tampoc no hem d’imaginar l’astenosfera com un oceà de magma. **És essencialment sòlida**, però pot deformar-se lentament durant milions d’anys. Que un material sigui sòlid no implica que sigui incapaç de fluir a escala geològica.
 
@@ -296,7 +306,6 @@ Aquestes propietats ens ajudaran a comprendre per què no totes les plaques es c
 
 **Idea essencial:** conèixer les capes de la Terra no consisteix només a identificar-les en un esquema; també ens permet començar a explicar el comportament dels materials terrestres.
 
-
 ### 2.7. Un model sostingut per evidències
 
 Quan representem l’interior terrestre amb capes ben delimitades és fàcil oblidar que ningú no les ha observades directament.
@@ -307,18 +316,19 @@ El model actual és el resultat de combinar moltes evidències:
 
 Per això, en geologia és tan important diferenciar tres nivells:
 
-**Observació**  
-Allò que podem mesurar o registrar.
+!!! info "Observació, inferència i model"
 
-**Inferència**  
-La interpretació que feim a partir de les observacions.
+    **Observació**  
+    Allò que podem mesurar o registrar.
 
-**Model**  
-Una representació coherent que integra moltes observacions i inferències i permet explicar i predir fenòmens.
+    **Inferència**  
+    La interpretació que feim a partir de les observacions.
+
+    **Model**  
+    Una representació coherent que integra moltes observacions i inferències i permet explicar i predir fenòmens.
 
 Els models científics no són simples opinions. Estan limitats per les evidències disponibles i han de ser compatibles amb les observacions. Al mateix temps, poden ser modificats si apareixen dades noves que no poden explicar.
 
----
 
 ## 3. Com construírem la teoria de la tectònica de plaques?
 
