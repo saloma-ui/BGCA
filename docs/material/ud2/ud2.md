@@ -1082,11 +1082,11 @@ Aquesta distribució desigual de l’energia provoca diferències de temperatura
 
 A escala local i global, aquests contrastos contribueixen a generar la **circulació atmosfèrica**.
 
-Aquesta circulació redistribueix:
+!!! tip "Idea clau · L'atmosfera redistribueix energia i humitat"
 
-**energia + vapor d’aigua**
+    Aquesta circulació redistribueix **energia + vapor d’aigua**
 
-i condiciona les precipitacions, l’evaporació i, en conseqüència, molts dels processos que transformen la superfície terrestre.
+    i condiciona les precipitacions, l’evaporació i, en conseqüència, molts dels processos que transformen la superfície terrestre.
 
 L’atmosfera no erosiona necessàriament una roca directament. Però la seva dinàmica condiciona la temperatura, les precipitacions, el vent i la disponibilitat d’aigua, i aquests factors controlen molts processos de meteorització i erosió.
 
@@ -1126,9 +1126,9 @@ Aquests factors poden provocar-ne la desintegració o l’alteració.
 
 Anomenam **meteorització** el conjunt de processos que transformen les roques **en el lloc on es troben**.
 
-Aquesta darrera idea és essencial:
+!!! warning "Meteorització no significa transport"
 
-> **meteorització no implica necessàriament transport.**
+    **Meteorització no implica necessàriament transport.**
 
 Podem distingir dos grans tipus.
 
@@ -1156,17 +1156,19 @@ Els organismes també poden intervenir en tots dos tipus de processos.
 
 Aquests quatre conceptes descriuen processos diferents i convé distingir-los amb precisió.
 
-**Meteorització**  
-La roca s’altera o es fragmenta *in situ*.
+!!! info "Quatre processos diferents"
 
-**Erosió**  
-Els materials són arrencats o remobilitzats de la seva posició.
+    **Meteorització**  
+    La roca s’altera o es fragmenta *in situ*.
 
-**Transport**  
-Els materials erosionats es desplacen.
+    **Erosió**  
+    Els materials són arrencats o remobilitzats de la seva posició.
 
-**Sedimentació**  
-Els materials transportats s’acumulen o es dipositen.
+    **Transport**  
+    Els materials erosionats es desplacen.
+
+    **Sedimentació**  
+    Els materials transportats s’acumulen o es dipositen.
 
 Podem imaginar, per exemple, un aflorament fracturat al vessant d’una muntanya.
 
@@ -1184,7 +1186,9 @@ Diversos agents poden erosionar, transportar i dipositar materials.
 
 La relació important no és memoritzar una llista de formes, sinó comprendre:
 
-> **agent → procés → forma de relleu resultant**
+!!! tip "De l'agent a la forma del relleu"
+
+    **agent → procés → forma de relleu resultant**
 
 | Agent dominant | Alguns processos | Exemples de formes resultants |
 |---|---|---|
@@ -1221,11 +1225,13 @@ i **susceptibilitat a la dissolució**, especialment important en determinades r
 
 Aquesta relació entre **litologia i processos** explica que el paisatge no depengui només del clima.
 
-> **mateix agent + roques diferents → respostes diferents**
+!!! tip "La litologia i el clima condicionen el resultat"
 
-Però també:
+    **mateix agent + roques diferents → respostes diferents**
 
-> **mateixa roca + climes diferents → intensitats i processos diferents.**
+    Però també:
+
+    **mateixa roca + climes diferents → intensitats i processos diferents.**
 
 És la interacció entre factors, no una propietat aïllada, la que acaba produint el relleu.
 
@@ -1247,11 +1253,11 @@ Es pot desenvolupar així un **sistema càrstic**.
 
 A la superfície poden aparèixer depressions, solcs i altres formes de dissolució. En profunditat es poden desenvolupar cavitats i conductes per on circula aigua subterrània.
 
-El carst és un bon exemple de per què no basta dir:
+!!! example "El modelatge càrstic no depèn només de l'erosió mecànica"
 
-> «l’aigua erosiona la roca».
+    El carst és un bon exemple de per què no basta dir «l’aigua erosiona la roca».
 
-En aquest cas, la **composició de la roca**, la seva fracturació, la circulació de l’aigua i les reaccions químiques són essencials per explicar el paisatge.
+    En aquest cas, la **composició de la roca**, la seva fracturació, la circulació de l’aigua i les reaccions químiques són essencials per explicar el paisatge.
 
 A les Illes Balears, on les roques carbonatades són molt abundants en diverses zones, el modelatge càrstic té una importància paisatgística especial.
 
@@ -1287,9 +1293,11 @@ i
 
 El conjunt de processos que transformen un sediment solt en una roca coherent es pot anomenar **litificació** i forma part de la **diagènesi**.
 
-Simplificadament:
+!!! info "De sediment a roca sedimentària"
 
-**sediment → enterrament → compactació + cimentació → roca sedimentària**
+    Simplificadament:
+
+    **sediment → enterrament → compactació + cimentació → roca sedimentària**
 
 Això explica la formació de moltes roques sedimentàries detrítiques.
 
@@ -1350,7 +1358,9 @@ No tots els sòls, però, han de presentar un perfil igual de desenvolupat.
 
 Des del punt de vista humà, molts sòls es poden considerar un recurs de **regeneració molt lenta**.
 
-La seva degradació pot ser molt més ràpida que la seva formació.
+!!! tip "Idea clau · El sòl es pot degradar més ràpidament que no es forma"
+
+    La seva degradació pot ser molt més ràpida que la seva formació.
 
 Entre els processos que poden deteriorar-los hi ha:
 
@@ -1402,7 +1412,9 @@ La resposta més rigorosa no és necessàriament la més llarga. És la que esta
 
 però sempre sobre un substrat que ja té una **història geològica prèvia**.
 
-> **Un paisatge no és només una forma: és una evidència dels processos que han actuat sobre uns materials determinats al llarg del temps.**
+!!! tip "Idea clau · El paisatge conserva evidències"
+
+    **Un paisatge no és només una forma: és una evidència dels processos que han actuat sobre uns materials determinats al llarg del temps.**
 
 ---
 
