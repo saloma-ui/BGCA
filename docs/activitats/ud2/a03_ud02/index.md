@@ -1,154 +1,252 @@
+---
+title: A03 · Una litosfera que transforma materials
+pdf: false
+hide:
+  - navigation
+  - toc
+---
+
+<div class="presentacio-vertical a03-web" data-a03-web markdown>
+
+<section class="pv-seccio pv-portada" markdown>
+
 # A03 · Una litosfera que transforma materials
+
+## Què podem predir sobre les estructures i les roques d'una regió si coneixem la dinàmica de les plaques?
 
 **UD02 · Una Terra dinàmica · Biologia, Geologia i Ciències Ambientals · 1r de batxillerat**
 
-> **Pregunta inicial.** Si ja sabem com es mouen les plaques, podem predir què passarà amb els materials?
+Aquesta pàgina serveix per **explorar, contrastar i repassar** allò que explicam a classe. Pots fer les comprovacions al teu ritme, també si no has pogut assistir a una sessió. **No has d'emplenar taules ni lliurar res al quadern.** Les interaccions són formatives i no recullen qualificacions.
 
-En aquesta activitat utilitzaràs la tectònica de plaques com a model per interpretar dades i explicar la formació de magmes, de roques ígnies i els processos metamòrfics. **Respon les preguntes i completa les taules al quadern**, indicant el número de cada apartat.
+Treballarem una idea: **context tectònic → condicions físiques → processos geològics → estructures i materials esperables**. També la utilitzarem en sentit invers: de les observacions a una explicació plausible.
 
-## 1. La tectònica de plaques com a eina per fer prediccions
+**Nivell que necessitam:** distingir roques sedimentàries, metamòrfiques i ígnies (volcàniques i plutòniques), explicar el paper dels minerals i els cristalls, reconèixer textures i justificar processos. **No cal identificar andesita, diorita, granodiorita ni altres roques específiques a partir del context tectònic.** El basalt i el gabre apareixeran com a exemples treballats.
+
+> **Per consultar o repassar:** [Material guia · 4. Com transforma els materials una Terra activa?](../../../material/ud2/ud2/#4-com-transforma-els-materials-una-terra-activa)
+
+</section>
+
+<section class="pv-seccio" markdown>
+
+## 1 · Què ens revela el context tectònic?
+
+Observa primer les quatre regions de la figura. Abans de llegir les explicacions, fixa't en **el relleu, les fosses, la profunditat dels terratrèmols i el vulcanisme**. Les fletxes indiquen moviments, però no han de ser la teva única evidència.
+
+![Quatre contextos tectònics per interpretar](figures/A03-01-quatre-contextos-tectonics.png)
+
+### Investiga cinc situacions
+
+Llegeix cadascuna i tria el context que explica millor **el conjunt** de dades. Després comprova l'explicació. Pots encertar una etiqueta per intuïció; el que importa és entendre **per què**.
+
+<div class="a03-graella">
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Situació 1</p>
+<p>Hi ha una fossa oceànica, terratrèmols cada vegada més profunds terra endins i volcans damunt una serralada situada al marge d'un continent.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="En una dorsal les plaques se separen, el relleu principal és una serralada submarina i la sismicitat és sobretot superficial.">Divergència oceànica</button><button type="button" data-a03-choice="right" data-a03-why="La fossa i la sismicitat inclinada són compatibles amb una placa oceànica que subdueix sota un continent; el magmatisme pot alimentar un arc volcànic continental.">Subducció oceànica-continental</button><button type="button" data-a03-choice="wrong" data-a03-why="La col·lisió entre dos continents produeix habitualment escurçament i engruiximent de l'escorça, però no aquest patró de fossa i volcans de subducció.">Col·lisió continental</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una explicació.</p>
+</div>
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Situació 2</p>
+<p>Hi ha una fossa i una cadena d'illes volcàniques en arc, amb terratrèmols de profunditat diversa. Les dues plaques que s'aproximen són oceàniques.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="right" data-a03-why="Una placa oceànica subdueix sota l'altra i el vulcanisme pot construir illes damunt la placa superior oceànica.">Subducció oceànica-oceànica</button><button type="button" data-a03-choice="wrong" data-a03-why="Les falles transformants produeixen sismicitat i desplaçament lateral, però no una fossa amb arc insular volcànic com a conseqüència característica.">Límit transformant</button><button type="button" data-a03-choice="wrong" data-a03-why="La dorsal correspon a separació de plaques i formació de fons oceànic, no a una fossa de subducció.">Divergència oceànica</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una explicació.</p>
+</div>
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Situació 3</p>
+<p>Una gran serralada continental presenta plecs i falles inverses; dos grans sectors continentals s'aproximen. No hi ha una cadena contínua de volcans actius associada a la serralada.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="En una subducció oceànica-continental esperaríem poder trobar una fossa i sismicitat relacionada amb una placa oceànica descendent.">Subducció oceànica-continental</button><button type="button" data-a03-choice="right" data-a03-why="L'escurçament, el plegament, les falles inverses i l'engruiximent són coherents amb una col·lisió continental, on pot dominar el metamorfisme regional.">Col·lisió continental</button><button type="button" data-a03-choice="wrong" data-a03-why="Un límit transformant implica lliscament lateral, no una aproximació continental extensa amb engruiximent crustal característic.">Límit transformant</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una explicació.</p>
+</div>
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Situació 4</p>
+<p>Una serralada submarina presenta terratrèmols superficials i activitat volcànica. Les roques més joves són al seu centre i es fan més antigues cap als costats.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="right" data-a03-why="A una dorsal es forma escorça oceànica nova al centre, que després s'allunya amb les plaques: per això l'edat augmenta cap als costats.">Divergència oceànica</button><button type="button" data-a03-choice="wrong" data-a03-why="La subducció destrueix litosfera oceànica al límit i presenta un patró de fosses i sismes a profunditat variable.">Subducció oceànica-oceànica</button><button type="button" data-a03-choice="wrong" data-a03-why="El lliscament lateral no explica la formació continuada de roques oceàniques noves a l'eix d'una serralada submarina.">Límit transformant</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una explicació.</p>
+</div>
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Situació 5</p>
+<p>Dues plaques llisquen lateralment al llarg d'una zona de falla. S'hi concentren terratrèmols principalment superficials, sense creació sistemàtica de nova escorça ni arc volcànic associat.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="Una dorsal implica separació i creació de nova escorça, no moviment principalment lateral.">Divergència oceànica</button><button type="button" data-a03-choice="wrong" data-a03-why="Una col·lisió continental genera escurçament i engruiximent, no només lliscament lateral.">Col·lisió continental</button><button type="button" data-a03-choice="right" data-a03-why="Les falles transformants acomoden el moviment lateral de les plaques i poden generar molts sismes sense vulcanisme sistemàtic.">Límit transformant</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una explicació.</p>
+</div>
+</div>
 
-Ja coneixes els principals tipus de límits de plaques. Ara no es tracta de recordar-ne els noms, sinó d'utilitzar el model per interpretar dades.
+<details class="a03-revela" markdown><summary>Què tenen en comú un arc d'illes i una serralada volcànica continental?</summary>
 
-### 1.1. Interpretam quatre regions tectòniques
+**Tots dos poden formar-se en zones de subducció.** Comparteixen fossa, terratrèmols a diferents profunditats i magmatisme. La diferència essencial és el tipus d'escorça de la **placa superior**: oceànica en un arc d'illes, continental en un arc volcànic continental. No hem de deduir una litologia única per a cada context.
 
-![Figura 1. Quatre regions tectòniques.](figures/A03-01-quatre-contextos-tectonics.png)
+</details>
 
-Observa les quatre regions de la figura 1. Les fletxes ja indiquen el moviment relatiu de les plaques: **no les utilitzis com a evidència per justificar el context tectònic**. Fixa't en el relleu, la profunditat dels terratrèmols i la presència o absència de vulcanisme.
+<details class="a03-revela" markdown><summary>Tots els límits de plaques produeixen terratrèmols i volcans?</summary>
 
-Completa la taula. Per a cada regió, identifica el **context tectònic** i indica **dues evidències geològiques** de la figura que permetin justificar-lo.
+No. La sismicitat és freqüent en límits transformants i col·lisions continentals, però no implica necessàriament vulcanisme. Fins i tot en contextos convergents, el resultat depèn de quina litosfera hi intervé i de la història de la regió.
 
-| Regió | Context tectònic | Dues evidències geològiques de la figura |
-|---|---|---|
-| A | | |
-| B | | |
-| C | | |
-| D | | |
+</details>
 
-### 1.2. Comparam dos contextos de convergència
+</section>
 
-Les regions **B i C** mostren plaques que s'aproximen. Tot i això, no presenten les mateixes característiques geològiques.
+<section class="pv-seccio" markdown>
 
-**Explica** quines diferències observes en la **distribució i profunditat dels terratrèmols, el vulcanisme i el relleu**, i relaciona-les amb els processos que tenen lloc en cada regió.
+## 2 · Què fa que una roca comenci a fondre's?
 
-### 1.3. Feim una predicció i proposam com comprovar-la
+El mantell és **majoritàriament sòlid**. La fusió sol ser parcial: no fonen tots els minerals ni una capa sencera. A partir de la figura, distingeix tres maneres d'arribar a les condicions d'inici de fusió.
 
-Tria **una** de les quatre regions i respon:
+![Tres mecanismes que afavoreixen la fusió parcial](figures/A03-02-mecanismes-fusio-parcial.png)
 
-1. **Predicció:** indica una característica geològica **observable i comprovable** que esperaries trobar-hi a partir del model de tectònica de plaques, però que **no aparegui representada directament a la figura**. Evita prediccions genèriques: concreta què esperaries observar i on.
-2. **Contrast:** quina observació o dada nova permetria comprovar si la predicció és correcta? Indica també quin resultat esperaries obtenir si la predicció es compleix.
+### Construeix dues cadenes causals
 
-Justifica breument la relació entre el context tectònic, la predicció i la dada que proposes obtenir.
+En cada cas, selecciona **quin canvi de les condicions** pot afavorir la fusió parcial, **quin material és el que es pot fondre** i **quin resultat podem esperar**. La comprovació t'explicarà què s'ha de revisar.
 
-## 2. Per què es forma magma?
+<div class="a03-targeta" data-a03-chain>
+<p class="a03-num">Cas 1 · Una dorsal oceànica</p>
+<p>El mantell calent ascendeix a la regió on dues plaques oceàniques se separen.</p>
+<div class="a03-camps">
+<label>Quin canvi afavoreix la fusió?
+<select data-a03-step="pressio"><option value="">Tria...</option><option value="descompressio">Disminució de la pressió</option><option value="aigua">Incorporació d'aigua</option><option value="fred">Disminució de temperatura</option></select></label>
+<label>Quin material pot experimentar fusió parcial?
+<select data-a03-step="material"><option value="">Tria...</option><option value="mantell">Part del mantell que ascendeix</option><option value="placa">Tota la placa oceànica</option><option value="sediments">Només els sediments del fons marí</option></select></label>
+<label>Què és plausible que es formi després?
+<select data-a03-step="resultat"><option value="">Tria...</option><option value="ignees">Magma que origini roques ígnies</option><option value="metamorfiques">Exclusivament roques metamòrfiques</option><option value="sedimentaries">Exclusivament roques sedimentàries</option></select></label>
+</div>
+<button type="button" class="a03-comprova" data-a03-check>Comprova la cadena</button>
+<p class="a03-retorn" data-a03-chain-feedback role="status" aria-live="polite"></p>
+</div>
 
-El mantell és majoritàriament sòlid. Per tant, l'existència de volcans no es pot explicar simplement dient que «a l'interior de la Terra fa molta calor».
+<div class="a03-targeta" data-a03-chain>
+<p class="a03-num">Cas 2 · Una zona de subducció</p>
+<p>Una placa oceànica descendeix i allibera aigua cap a la regió de mantell situada al damunt.</p>
+<div class="a03-camps">
+<label>Quin canvi afavoreix la fusió?
+<select data-a03-step="pressio"><option value="">Tria...</option><option value="descompressio">Disminució de la pressió</option><option value="aigua">Disminució de la temperatura necessària per iniciar la fusió per l'efecte de l'aigua</option><option value="fred">Disminució de temperatura</option></select></label>
+<label>Quin material pot experimentar fusió parcial?
+<select data-a03-step="material"><option value="">Tria...</option><option value="mantell">Part del mantell situat per damunt de la placa descendent</option><option value="placa">Tota la placa que subdueix</option><option value="sediments">Exclusivament els sediments oceànics</option></select></label>
+<label>Què és plausible que es formi després?
+<select data-a03-step="resultat"><option value="">Tria...</option><option value="ignees">Magma que pugui alimentar roques i edificis volcànics</option><option value="metamorfiques">Exclusivament roques metamòrfiques</option><option value="sedimentaries">Exclusivament roques sedimentàries</option></select></label>
+</div>
+<button type="button" class="a03-comprova" data-a03-check>Comprova la cadena</button>
+<p class="a03-retorn" data-a03-chain-feedback role="status" aria-live="polite"></p>
+</div>
 
-Una roca pot començar a fondre's parcialment quan canvien les condicions de pressió, temperatura o la presència de determinats volàtils, com l'aigua.
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Predicció 3</p>
+<p>Una intrusió calenta transfereix calor a les roques encaixants. Si algunes arriben a les condicions necessàries, què podria passar?</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="L'augment de temperatura no obliga tota la roca a fondre's; pot originar metamorfisme, i només si les condicions ho permeten, fusió parcial.">Totes les roques es fonen completament</button><button type="button" data-a03-choice="right" data-a03-why="La calor pot produir canvis metamòrfics en estat sòlid i, si és suficient, fusió parcial de determinats materials.">Metamorfisme o, en alguns casos, fusió parcial</button><button type="button" data-a03-choice="wrong" data-a03-why="Una intrusió magmàtica pot transferir energia i modificar els minerals i l'estructura de les roques properes.">Cap transformació perquè les roques són sòlides</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Tria una resposta i comprova'n la causa.</p>
+</div>
 
-### 2.1. Interpretam els mecanismes de fusió parcial
+<details class="a03-revela" markdown><summary>Compara dorsal i subducció en una sola explicació</summary>
 
-![Figura 2. Tres mecanismes que poden afavorir la fusió parcial.](figures/A03-02-mecanismes-fusio-parcial.png)
+A la **dorsal**, l'ascens del mantell fa disminuir la pressió i pot afavorir la fusió parcial per **descompressió**. A la **subducció**, els fluids alliberats per la placa descendent poden reduir la temperatura d'inici de fusió al mantell situat per damunt. Tots dos contextos poden originar magma, però no pel mateix mecanisme principal.
 
-Observa els tres panells de la figura 2. Els eixos representen la **pressió** i la **temperatura**; les línies indiquen, de manera simplificada, les condicions a partir de les quals pot començar la fusió parcial. Fixa't tant en el desplaçament del material com en els canvis del límit d'inici de fusió.
+</details>
 
-Completa la taula a partir de la figura. A la columna «Què es manté aproximadament constant?», indica les **condicions de pressió o temperatura del material**, quan pertoqui; al panell B, distingeix aquestes condicions del **canvi en el límit d’inici de fusió** causat per l’aigua. **No confonguis una temperatura elevada amb la presència de material fos.**
+</section>
 
-| Panell | Què canvia? | Què es manté aproximadament constant? | Per què pot començar la fusió parcial? |
-|---|---|---|---|
-| A · Descompressió | | | |
-| B · Incorporació de volàtils | | | |
-| C · Aportació de calor | | | |
+<section class="pv-seccio" markdown>
 
-**Pregunta d'interpretació.** Al panell B, per què l'aportació d'aigua pot afavorir la fusió parcial **sense que augmenti la temperatura**? Explica què passa amb el límit d'inici de fusió.
+## 3 · Què ens expliquen els minerals, els cristalls i les textures?
 
-### 2.2. Aplicam el model a contextos tectònics
+**Mineral:** sòlid natural amb estructura interna ordenada i composició química dins certs marges. **Cristall:** part d'un sòlid on la disposició de les partícules segueix un ordre intern. **Roca:** material geològic natural, generalment format per un agregat de minerals, però també pot contenir vidre volcànic.
 
-**Situació A · Una dorsal oceànica**
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Comprovació 1</p>
+<p>Dues mostres minerals tenen un color semblant, però una ratlla el vidre i l'altra no. Quina afirmació és la més justificada?</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="Un color semblant no garanteix una mateixa identitat mineral; la duresa relativa aporta informació addicional.">Són el mateix mineral, perquè tenen el mateix color</button><button type="button" data-a03-choice="right" data-a03-why="La duresa és una propietat útil per distingir minerals; no ens basta el color, ni una única propietat per identificar-los sempre.">La duresa relativa aporta una evidència addicional</button><button type="button" data-a03-choice="wrong" data-a03-why="Una propietat de ratllat no determina per si sola si el mineral és un silicat o un carbonat.">El que ratlla el vidre ha de ser un silicat</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Comprova la teva interpretació.</p>
+</div>
 
-El mantell ascendeix sota una regió on les plaques se separen.
+<details class="a03-revela" markdown><summary>Per repassar: què vol dir que un mineral sigui un silicat o un carbonat?</summary>
 
-**Explica** per què pot començar la fusió parcial encara que el material no experimenti un augment important de temperatura. Relaciona la teva resposta amb un dels mecanismes de la figura 2.
+Es refereix al **grup químic/estructural** al qual pertany, no a la mida dels cristalls ni al context tectònic on el trobam. Per identificar minerals empram propietats i dades de composició, no únicament el color.
 
-**Situació B · Una zona de subducció**
+</details>
 
-Una placa oceànica s'enfonsa i allibera aigua cap al mantell situat per damunt.
+### Un mateix magma, roques amb textures diferents
 
-**Explica** com aquesta aportació d'aigua pot afavorir la formació de magma. Per què **no** és correcte afirmar simplement que «la placa que s'enfonsa es fon»? Relaciona la resposta amb la figura 2.
+![Basalt i gabre: comparació de textures](figures/A03-03-basalt-gabre-textures.png)
 
-**Idea a vigilar.** La fusió geològica acostuma a ser **parcial**: no implica necessàriament fondre tota una roca o tota una capa. **Escalfar una roca tampoc no implica necessàriament que es fongui**; segons les condicions, pot experimentar transformacions en estat sòlid, com veurem a l'apartat 4.
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Comprovació 2</p>
+<p>Dos materials ígnis de composició semblant presenten mides de cristall molt diferents. Quina interpretació és més coherent?</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="right" data-a03-why="Si la resta de condicions són comparables, un refredament més lent afavoreix cristalls més grossos, mentre que un refredament ràpid sol produir textures més fines.">Històries de refredament diferents</button><button type="button" data-a03-choice="wrong" data-a03-why="La mida dels cristalls, tota sola, no demostra una composició química diferent.">Composicions necessàriament diferents</button><button type="button" data-a03-choice="wrong" data-a03-why="La textura no identifica per si sola una regió tectònica concreta.">Un procedeix sempre d'una dorsal i l'altre d'una subducció</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Comprova la teva interpretació.</p>
+</div>
 
-## 3. Del magma a les roques
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Comprovació 3</p>
+<p>Veus una roca ígnia de cristalls grossos, però no en coneixes la composició mineralògica. Què pots afirmar?</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="No n'hi ha prou amb la mida dels cristalls per assegurar que és gabre: necessitaríem dades de composició/mineralogia.">Que és gabre</button><button type="button" data-a03-choice="right" data-a03-why="Una textura de cristalls grossos és compatible amb cristal·lització relativament lenta; la identitat petrogràfica necessita altres evidències.">Que probablement ha cristal·litzat relativament lentament</button><button type="button" data-a03-choice="wrong" data-a03-why="La roca podria haver-se format en diversos contextos tectònics; les textures no n'identifiquen un d'únic.">Que s'ha format en una dorsal oceànica</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Comprova la teva interpretació.</p>
+</div>
 
-Dues roques poden tenir composicions globals semblants i, en canvi, presentar textures molt diferents.
+### Classificar pel procés, no memoritzar noms
 
-### 3.1. De la textura a la història de refredament
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Material X</p>
+<p>Una roca preexistent desenvolupa minerals nous per canvis de pressió i temperatura, però no arriba a fondre's.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="Les roques ígnies es formen per solidificació de magma o lava, no per recristal·lització en estat sòlid.">Ígnia</button><button type="button" data-a03-choice="right" data-a03-why="El metamorfisme transforma roques preexistents en estat sòlid i pot originar nous minerals i textures.">Metamòrfica</button><button type="button" data-a03-choice="wrong" data-a03-why="Les sedimentàries es formen per processos sedimentaris, no principalment per augment de pressió i temperatura en estat sòlid.">Sedimentària</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Classifica el procés.</p>
+</div>
 
-![Figura 3. Basalt i gabre.](figures/A03-03-basalt-gabre-textures.png)
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Material Y</p>
+<p>Uns sediments s'acumulen, es compacten i es cimenten.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="right" data-a03-why="La compactació i la cimentació poden transformar sediments en una roca sedimentària.">Sedimentària</button><button type="button" data-a03-choice="wrong" data-a03-why="El metamorfisme implica transformacions mineralògiques/texturals en estat sòlid sota noves condicions, no només compactació i cimentació.">Metamòrfica</button><button type="button" data-a03-choice="wrong" data-a03-why="Una roca plutònica és una roca ígnia que cristal·litza a partir de magma en profunditat.">Ígnia plutònica</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Classifica el procés.</p>
+</div>
 
-Les dues roques tenen una composició global semblant.
+<details class="a03-revela" markdown><summary>Quina relació hi ha entre «ígnia», «volcànica» i «plutònica»?</summary>
 
-**Compara** el basalt i el gabre de la figura 3. Descriu la diferència observable en la **mida dels cristalls** i explica quina **història de refredament i solidificació** és compatible amb cada roca. Relaciona la textura amb la velocitat de refredament i el lloc on probablement s'ha solidificat.
+**Ígnia** i **magmàtica** són sinònims en aquesta classificació. Una roca ígnia pot ser **volcànica** si solidifica a la superfície a partir de lava, o **plutònica** si cristal·litza a partir de magma en profunditat. El basalt i el gabre són exemples treballats, no etiquetes que puguem assignar només per la mida del cristall.
 
-### 3.2. Què podem saber només observant la textura?
+</details>
 
-Un alumne observa una roca ígnia amb cristalls grossos i afirma:
+</section>
 
-> «És un gabre perquè s'ha refredat lentament».
+<section class="pv-seccio" markdown>
 
-**Explica** quina part del seu raonament és compatible amb les evidències i quina conclusió **no està justificada**. Quina informació addicional necessitaria per identificar la roca?
+## 4 · Com es transformen les roques sense arribar a fondre's?
 
-## 4. Canviar sense fondre: el metamorfisme
+![Dos contextos metamòrfics](figures/A03-04-contextos-metamorfics.png)
 
-Una roca pot experimentar canvis importants de mineralogia, textura o estructura sense arribar a fondre's. Aquest conjunt de transformacions en estat sòlid constitueix el metamorfisme.
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Context 1</p>
+<p>Prop d'una intrusió calenta, una roca presenta nous minerals i recristal·lització. L'efecte és més intens a prop del contacte.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="right" data-a03-why="És compatible amb metamorfisme de contacte: la intrusió aporta calor a les roques encaixants sense que calgui que es fonguin.">Metamorfisme de contacte</button><button type="button" data-a03-choice="wrong" data-a03-why="La descompressió afavoreix la fusió parcial en contextos com les dorsals, no explica per si sola l'aurèola metamòrfica d'una intrusió.">Fusió per descompressió</button><button type="button" data-a03-choice="wrong" data-a03-why="Si la roca encaixant no s'ha fos i solidificat, no és necessari considerar-la ígnia.">Cristal·lització d'una roca ígnia</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Quin procés és més coherent?</p>
+</div>
 
-### 4.1. Comparam dos contextos metamòrfics
+<div class="a03-targeta" data-a03-quiz>
+<p class="a03-num">Context 2</p>
+<p>En una gran serralada continental, extensos volums de roques han quedat enterrats, deformats i sotmesos a noves condicions de pressió i temperatura.</p>
+<div class="a03-opcions"><button type="button" data-a03-choice="wrong" data-a03-why="El contacte sol produir-se a les proximitats d'una intrusió, no és la causa necessària d'aquestes transformacions regionals extenses.">Metamorfisme de contacte</button><button type="button" data-a03-choice="right" data-a03-why="L'enterrament, la deformació i els canvis de pressió i temperatura durant la formació de serralades poden originar metamorfisme regional.">Metamorfisme regional</button><button type="button" data-a03-choice="wrong" data-a03-why="La roca pot transformar-se en estat sòlid; no necessita fondre's per adquirir nous minerals o textures.">Fusió completa de les roques</button></div>
+<p class="a03-retorn" data-a03-feedback role="status" aria-live="polite">Quin procés és més coherent?</p>
+</div>
 
-![Figura 4. Dos contextos metamòrfics.](figures/A03-04-contextos-metamorfics.png)
+### Un material pot tenir més d'una història possible
 
-Observa els dos contextos de la figura 4 i completa la taula. Relaciona les transformacions de les roques amb el procés geològic que les provoca i amb les condicions en què tenen lloc.
+Pensa en una roca sedimentària que queda enterrada. Pot transformar-se en una roca metamòrfica **sense fondre's**. En altres condicions, part del material pot arribar a fondre's, generar magma i, després de la cristal·lització, formar una roca ígnia.
 
-| Aspecte | Context A | Context B |
-|---|---|---|
-| Procés geològic que provoca les transformacions | | |
-| Condicions que afavoreixen el metamorfisme | | |
-| Distribució espacial de les transformacions | | |
-| Tipus de metamorfisme | | |
+<details class="a03-revela" markdown><summary>Mostra dues rutes possibles dins el cicle litològic</summary>
 
-**Pregunta de comparació.** Per què les transformacions del context A són més intenses a prop de la intrusió, mentre que al context B poden afectar una regió molt més extensa? Relaciona la resposta amb la font de calor i el context tectònic.
+**Ruta A:** roca sedimentària → enterrament i canvis de pressió/temperatura → roca metamòrfica (sense fusió).
 
-### 4.2. Una intrusió, dues transformacions
+**Ruta B:** roca preexistent → fusió parcial en condicions adequades → magma → cristal·lització → roca ígnia.
 
-Una intrusió magmàtica s'emplaça dins unes roques de l'escorça. S'hi observen dues zones:
+El cicle litològic és una **xarxa de transformacions possibles**, no una roda amb un ordre obligatori per a totes les roques.
 
-- **Zona X:** els minerals originals recristal·litzen i se'n formen de nous, però la roca es manté completament sòlida.
-- **Zona Y:** una part dels minerals comença a fondre's i apareix una petita proporció de material líquid.
+</details>
 
-1. **Identifica i justifica** quin procés té lloc a cada zona. Explica quina evidència permet distingir les transformacions en estat sòlid de l'inici de la fusió parcial.
-2. **Explica** per què no és correcte afirmar que qualsevol roca escalfada per una intrusió es transforma en magma.
+<details class="a03-revela" markdown><summary>Per revisar abans de la fitxa: quina cadena causal has d'explicar?</summary>
 
-## 5. Explicam un sistema geològic
+Un bon raonament no es limita a posar una etiqueta: **observació geològica → context compatible → canvi de condicions → procés → resultat esperable**. Per exemple, a una dorsal: roques joves prop de l'eix → divergència oceànica → ascens del mantell i disminució de pressió → fusió parcial → magma que pot generar roques ígnies.
 
-**Tancament individual · CA 4.1**
-
-Resol aquest apartat **individualment**. Utilitza les dades per construir explicacions geològiques i justifica les relacions que proposis.
-
-En una regió geològica s'han obtingut les dades següents: dos sectors de la litosfera s'allunyen lentament; els terratrèmols són majoritàriament superficials; el flux de calor és superior al de les regions pròximes; hi ha laves basàltiques i, en profunditat, s'han identificat cossos de gabre. Al voltant d'una intrusió magmàtica s'observa una franja de roques encaixants amb cristalls recristal·litzats i minerals nous.
-
-![Figura 5. Dades d’una regió tectònicament activa.](figures/A03-06-cas-final-dades-geologiques.png)
-
-### 5.1. Interpretam les evidències
-
-Identifica el context tectònic més compatible amb el conjunt de dades. **Justifica'l amb almenys dues evidències geològiques diferents del moviment de separació** i explica com es relacionen amb la dinàmica de les plaques. No basta enumerar-les.
-
-### 5.2. Reconstruïm els processos
-
-Explica com la dinàmica tectònica d'aquesta regió pot donar lloc a la formació de magma i a dues roques de composició semblant, el **basalt** i el **gabre**, però amb textures diferents.
-
-### 5.3. Explicam una transformació diferent
-
-Al voltant de la intrusió magmàtica s'observen roques amb cristalls recristal·litzats i minerals nous. **Explica** quin procés pot haver produït aquestes transformacions, com es relaciona amb la intrusió i per què no és necessari que les roques s'hagin fos.
+</details>
 
 ---
 
-**En acabar A03 hauries de ser capaç de:** inferir un context tectònic a partir de dades; explicar mecanismes de fusió parcial; relacionar textura i refredament; distingir metamorfisme i fusió; i connectar dades, processos i materials.
+**Ara ja pots aplicar aquests models a regions noves.** El tancament individual es farà en una **fitxa separada**, amb dades per interpretar i explicacions que hauràs de justificar. Les preguntes interactives d'aquesta pàgina són per practicar i repassar, no compten per a la qualificació.
+
+</section>
+
+</div>
