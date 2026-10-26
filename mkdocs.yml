@@ -75,6 +75,7 @@ extra_css:
   - a01_ud02.css
   - a01_ud02_classificacio.css
   - a02_ud02.css
+  - a03_ud02.css
 
 extra_javascript:
   - interaccio.js
@@ -82,3 +83,4 @@ extra_javascript:
   - a02_ud02.js
   - mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - a03_ud02.js
