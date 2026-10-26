@@ -229,7 +229,9 @@ Pensa en una roca sedimentària que queda enterrada. Pot transformar-se en una r
 
 <details class="a03-revela" markdown><summary>Mostra dues rutes possibles dins el cicle litològic</summary>
 
-**Ruta A:** roca sedimentària → enterrament i canvis de pressió/temperatura → roca metamòrfica (sense fusió).
+**Ruta A:** roca sedimentària (**calcària**, formada principalment pel mineral **calcita**) → enterrament i augment de pressió i temperatura → **metamorfisme amb recristal·lització en estat sòlid** → roca metamòrfica (**marbre**, format principalment per **calcita**).
+
+**Què ha canviat?** La textura i l'organització dels cristalls de calcita. **Què s'ha mantingut?** El mineral principal, la calcita. La roca no s'ha hagut de fondre.
 
 **Ruta B:** roca preexistent → fusió parcial en condicions adequades → magma → cristal·lització → roca ígnia.
 
