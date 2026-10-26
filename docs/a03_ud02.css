@@ -1,0 +1,24 @@
+/* BGCA · A03 UD02 · Complement lleuger a presentacio.css */
+.a03-web .a03-graella {display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,310px),1fr));gap:1rem}
+.a03-web .a03-targeta {border:1px solid var(--md-default-fg-color--lightest);border-radius:0.75rem;padding:1rem;margin:1rem 0;background:var(--md-default-bg-color)}
+.a03-web .a03-graella .a03-targeta {margin:0}
+.a03-web .a03-num {font-weight:700;color:var(--md-accent-fg-color);margin:0 0 .5rem}
+.a03-web .a03-opcions {display:flex;flex-wrap:wrap;gap:.45rem;margin:.75rem 0}
+.a03-web .a03-opcions button {font:inherit;font-size:.83rem;line-height:1.3;text-align:left;background:var(--md-code-bg-color);color:var(--md-default-fg-color);border:1px solid var(--md-default-fg-color--lightest);border-radius:.5rem;padding:.55rem .75rem;cursor:pointer;flex:1 1 190px}
+.a03-web .a03-opcions button:hover,.a03-web .a03-opcions button:focus-visible {outline:2px solid var(--md-accent-fg-color);outline-offset:1px}
+.a03-web .a03-opcions button.a03-seleccionada {font-weight:700;border-width:2px}
+.a03-web .a03-opcions button.a03-encert {border-color:#3d9870}
+.a03-web .a03-opcions button.a03-revisar {border-color:#b76b36}
+.a03-web .a03-retorn {font-size:.86rem;margin:.55rem 0 0;min-height:2.5rem}
+.a03-web .a03-retorn.a03-ok {border-left:3px solid #3d9870;padding-left:.65rem}
+.a03-web .a03-retorn.a03-no {border-left:3px solid #b76b36;padding-left:.65rem}
+.a03-web details.a03-revela {border:1px solid var(--md-default-fg-color--lightest);border-radius:.6rem;padding:.65rem .9rem;margin:1rem 0}
+.a03-web details.a03-revela summary {font-weight:700;cursor:pointer}
+.a03-web details.a03-revela[open] summary {margin-bottom:.6rem}
+@media (prefers-reduced-motion:reduce) {.a03-web * {scroll-behavior:auto!important}}
+
+.a03-web .a03-camps {display:grid;gap:.7rem;margin:.7rem 0}
+.a03-web .a03-camps label {font-weight:600;font-size:.86rem;display:grid;gap:.25rem}
+.a03-web .a03-camps select {font:inherit;font-weight:400;max-width:100%;width:100%;padding:.4rem;border:1px solid var(--md-default-fg-color--lightest);background:var(--md-code-bg-color);color:var(--md-default-fg-color);border-radius:.4rem}
+.a03-web .a03-comprova {font:inherit;background:var(--md-accent-fg-color);color:var(--md-primary-bg-color);border:0;border-radius:.4rem;padding:.55rem 1rem;cursor:pointer}
+.a03-web .a03-comprova:focus-visible {outline:2px solid var(--md-default-fg-color);outline-offset:3px}
