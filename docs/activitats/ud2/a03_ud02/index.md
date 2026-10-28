@@ -247,7 +247,13 @@ Un bon raonament no es limita a posar una etiqueta: **observació geològica →
 
 ---
 
-**Ara ja pots aplicar aquests models a regions noves.** El tancament individual es farà en una **fitxa separada**, amb dades per interpretar i explicacions que hauràs de justificar. Les preguntes interactives d'aquesta pàgina són per practicar i repassar, no compten per a la qualificació.
+## Fitxa final individual · CA 4.1
+
+**Ara ja pots aplicar aquests models a regions noves.** El tancament individual consisteix a interpretar dades i justificar explicacions geològiques. Les preguntes interactives d'aquesta pàgina són per practicar i repassar, no compten per a la qualificació.
+
+<a href="https://www.canva.com/d/2zQjJAwWuo5wwwh" class="md-button md-button--primary" target="_blank" rel="noopener noreferrer" aria-label="Obre la fitxa final individual A03-UD02 a Canva">Obre la fitxa final individual · CA 4.1</a>
+
+*La fitxa s'obre en una pestanya nova de Canva, des d'on es pot consultar i preparar per imprimir.*
 
 </section>
 
