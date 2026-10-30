@@ -3,7 +3,6 @@ title: A01 · Evidències del passat
 pdf: false
 hide:
   - navigation
-  - toc
 ---
 
 <div class="presentacio-vertical pv-a01-ud01" markdown>
