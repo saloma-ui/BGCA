@@ -10,4 +10,4 @@ Un mateix text podrà ser útil en diferents activitats i no haurà d'estar vinc
 
 **Encara no hi ha textos publicats en aquest apartat.**
 
-A mesura que incorporarem lectures, les enllaçarem des d'aquest índex amb informació sobre la font i, quan correspongui, sobre les adaptacions o traduccions.
+A mesura que incorporem lectures, les enllaçarem des d'aquest índex amb informació sobre la font i, quan correspongui, sobre les adaptacions o traduccions.
