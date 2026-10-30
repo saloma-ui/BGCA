@@ -267,3 +267,21 @@ html:has(.presentacio-vertical) {
     padding: 0.7rem 0.75rem;
   }
 }
+
+/* Prova pilot de navegació A01-UD01: es conserva l'aspecte dels títols
+   originals després d'adequar-ne els nivells semàntics. */
+.presentacio-vertical.pv-a01-ud01 .pv-seccio > h2 {
+  margin: 0 0 1rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+}
+.presentacio-vertical.pv-a01-ud01 .pv-seccio > h3,
+.presentacio-vertical.pv-a01-ud01 .pv-subtitol {
+  margin: 1.1rem 0 0.75rem;
+  font-size: clamp(1.35rem, 2.4vw, 1.9rem);
+  line-height: 1.2;
+}
+.presentacio-vertical.pv-a01-ud01 .pv-subtitol {
+  font-weight: 650;
+}
