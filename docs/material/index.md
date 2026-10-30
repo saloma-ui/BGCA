@@ -1,3 +1,7 @@
+---
+pdf: false
+---
+
 # Material
 
 En aquest apartat trobaràs els **materials guia** de Biologia, Geologia i Ciències Ambientals de 1r de batxillerat, organitzats per unitats didàctiques.
