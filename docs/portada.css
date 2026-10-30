@@ -1,0 +1,113 @@
+/* Portada de BGCA. Estils limitats a .portada-curs. */
+.portada-curs {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: clamp(1.2rem, 4vw, 2.8rem) 0 3rem;
+  color: var(--md-default-fg-color);
+}
+
+.portada-curs__capcalera {
+  max-width: 770px;
+  margin: 0 0 clamp(1.8rem, 4vw, 2.8rem);
+}
+.portada-curs__etiqueta {
+  margin: 0 0 .7rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .025em;
+}
+.md-typeset .portada-curs h1 {
+  margin: 0 0 1.1rem;
+  font-size: clamp(1.95rem, 4vw, 2.75rem);
+  line-height: 1.18;
+  letter-spacing: -.025em;
+  font-weight: 750;
+}
+.md-typeset .portada-curs__introduccio {
+  margin: 0;
+  max-width: 66ch;
+  font-size: clamp(.97rem, 1.6vw, 1.08rem);
+  line-height: 1.65;
+  color: var(--md-default-fg-color--light);
+}
+
+.portada-curs__graella {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(.8rem, 2vw, 1.25rem);
+}
+
+.md-typeset a.portada-curs__targeta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+  min-width: 0;
+  min-height: 235px;
+  padding: clamp(1.15rem, 2.4vw, 1.65rem);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .75rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+  box-shadow: 0 3px 16px rgba(0, 0, 0, .025);
+  transition: border-color 150ms ease, box-shadow 150ms ease;
+}
+.md-typeset a.portada-curs__targeta:hover {
+  border-color: var(--md-primary-fg-color);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, .07);
+}
+.md-typeset a.portada-curs__targeta:focus-visible {
+  border-color: var(--md-primary-fg-color);
+  outline: 3px solid var(--md-primary-fg-color);
+  outline-offset: 3px;
+}
+
+.portada-curs__icona {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-bottom: 1rem;
+  border-radius: .55rem;
+  background: var(--md-code-bg-color);
+  color: var(--md-primary-fg-color);
+}
+.portada-curs__icona svg { display: block; width: 1.5rem; height: 1.5rem; }
+
+.portada-curs__titol {
+  font-size: 1.13rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0 0 .45rem;
+}
+.portada-curs__descripcio {
+  display: block;
+  margin: 0 0 1.2rem;
+  color: var(--md-default-fg-color--light);
+  font-size: .86rem;
+  line-height: 1.55;
+}
+.portada-curs__acces {
+  margin-top: auto;
+  color: var(--md-primary-fg-color);
+  font-size: .84rem;
+  font-weight: 700;
+}
+.portada-curs__acces span { padding-left: .2rem; }
+
+@media (max-width: 760px) {
+  .portada-curs__graella { grid-template-columns: 1fr; }
+  .md-typeset a.portada-curs__targeta { min-height: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset a.portada-curs__targeta { transition: none; }
+}
+@media print {
+  .md-typeset a.portada-curs__targeta {
+    break-inside: avoid;
+    box-shadow: none;
+  }
+}
