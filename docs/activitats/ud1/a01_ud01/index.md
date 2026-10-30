@@ -6,15 +6,17 @@ hide:
   - toc
 ---
 
-<div class="presentacio-vertical" markdown>
+<div class="presentacio-vertical pv-a01-ud01" markdown>
 
 <section class="pv-seccio pv-portada" markdown>
 
 # A01 · Evidències del passat
 
-## Com podem saber què va passar si ningú no hi era?
+<p class="pv-subtitol">Com podem saber què va passar si ningú no hi era?</p>
 
 **U.D. 1 · Com reconstruïm la història de la Terra?**
+
+[Torna a les activitats de la UD01](../index.md)
 
 <!-- DOCENT: Activitat de construcció. Idea rectora: la ciència pot reconstruir processos del passat a partir d'observacions actuals, evidències, inferències i models. No començar definint els quatre conceptes; fer-los emergir dels casos. -->
 
@@ -22,7 +24,7 @@ hide:
 
 <section class="pv-seccio" markdown>
 
-# 1 · El problema
+## 1 · El problema
 
 La Terra es va formar fa aproximadament **4,54 Ga** i el Sistema Solar fa aproximadament **4,6 Ga**.
 
@@ -51,7 +53,7 @@ Pensau-hi individualment durant uns segons i comentau després una resposta amb 
 
 <section class="pv-seccio" markdown>
 
-# 2 · Evidència A: galàxies
+## 2 · Evidència A: galàxies
 
 La taula representa un conjunt **simplificat de dades** que reprodueix un patró observat a gran escala.
 
@@ -85,7 +87,7 @@ La taula representa un conjunt **simplificat de dades** que reprodueix un patró
 
 <section class="pv-seccio" markdown>
 
-# 3 · Del que observam al que inferim
+## 3 · Del que observam al que inferim
 
 Si actualment, a gran escala, les distàncies entre galàxies augmenten...
 
@@ -114,7 +116,7 @@ Si actualment, a gran escala, les distàncies entre galàxies augmenten...
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 4 · Evidència B: una radiació que arriba de tot l'espai
+## 4 · Evidència B: una radiació que arriba de tot l'espai
 
 ![Representació esquemàtica de la radiació còsmica de fons](figures/a01-01b-radiacio-cosmica-de-fons.png)
 
@@ -144,7 +146,7 @@ El model cosmològic actual proposa que l'Univers va passar per una etapa inicia
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 5 · Evidència C: sistemes planetaris en formació
+## 5 · Evidència C: sistemes planetaris en formació
 
 ![Estrella jove envoltada per un disc de gas i pols](figures/a01-01c-sistemes-planetaris-en-formacio.png)
 
@@ -174,7 +176,7 @@ núvol interestel·lar → disc protoplanetari → planetesimals → acreció �
 
 <section class="pv-seccio" markdown>
 
-# 6 · Evidència D: meteorits
+## 6 · Evidència D: meteorits
 
 En un mineral d'un meteorit s'obté una edat radiomètrica aproximada de **4.560 Ma**.
 
@@ -216,7 +218,7 @@ En un mineral d'un meteorit s'obté una edat radiomètrica aproximada de **4.560
 
 <section class="pv-seccio" markdown>
 
-# 7 · Quatre idees que no són el mateix
+## 7 · Quatre idees que no són el mateix
 
 <p class="pv-pregunta"><strong>Clica cada frase i comprova quin paper té en una reconstrucció científica.</strong></p>
 
@@ -239,7 +241,7 @@ observacions i mesures → evidències rellevants → inferències → models qu
 
 <section class="pv-seccio" markdown>
 
-# 8 · De moltes evidències a una història coherent
+## 8 · De moltes evidències a una història coherent
 
 Ordenau aquesta seqüència simplificada:
 
@@ -275,7 +277,7 @@ Ordenau aquesta seqüència simplificada:
 
 <section class="pv-seccio" markdown>
 
-# 9 · Quant són 4.540 milions d'anys?
+## 9 · Quant són 4.540 milions d'anys?
 
 Representam els **4.540 Ma** d'història de la Terra amb una línia de **454 cm**.
 
@@ -304,7 +306,7 @@ Representam els **4.540 Ma** d'història de la Terra amb una línia de **454 cm*
 
 <section class="pv-seccio" markdown>
 
-# 10 · El registre geològic no és una gravació contínua
+## 10 · El registre geològic no és una gravació contínua
 
 Imaginau aquesta història:
 
@@ -342,9 +344,9 @@ sedimentació → interrupció de la sedimentació → erosió → nova sediment
 
 <section class="pv-seccio pv-visual" markdown>
 
-# 11 · Tancament individual · CA 1.1
+## 11 · Tancament individual · CA 1.1
 
-## Un cas real: llegim el passat de Mart
+### Un cas real: llegim el passat de Mart
 
 [![Textures sedimentàries observades per Curiosity al mosaic Longquimay](https://mars.nasa.gov/msl-raw-images/msss/04972/mhli/4972MH0008410011802510C00_DXXX.jpg)](https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/)
 
@@ -376,13 +378,15 @@ A la resposta has de:
 
 <section class="pv-seccio pv-portada" markdown>
 
-# Idea clau
+## Idea clau
 
-## La ciència pot reconstruir esdeveniments que no hem observat directament si han deixat evidències que podem estudiar en el present.
+<p class="pv-subtitol">La ciència pot reconstruir esdeveniments que no hem observat directament si han deixat evidències que podem estudiar en el present.</p>
 
 A la història de la Terra, però, aquestes evidències formen un **registre incomplet**.
 
 [Consulta el material guia de la UD1](../../../material/ud1/ud1.md)
+
+[Torna a les activitats de la UD01](../index.md)
 
 <!-- DOCENT: Tancament conceptual. La següent activitat hauria de passar de “com sabem coses del passat?” a “com ordenam i datam els esdeveniments conservats al registre?”. -->
 
