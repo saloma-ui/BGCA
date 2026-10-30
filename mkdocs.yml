@@ -8,6 +8,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - content.code.copy
 
@@ -35,29 +36,24 @@ hooks:
 
 nav:
   - Inici: index.md
+  - Material:
+      - material/index.md
+      - UD01 · Com reconstruïm la història de la Terra?: material/ud1/ud1.md
+      - UD02 · Una Terra dinàmica: material/ud2/ud2.md
+      - UD03 · Història de la vida i de la biodiversitat: material/ud3/ud3.md
+      - UD04 · Microorganismes, salut i malaltia: material/ud4/ud4.md
+  - Activitats:
+      - activitats/index.md
+      - UD01 · Com reconstruïm la història de la Terra?: activitats/ud1/index.md
+      - UD02 · Una Terra dinàmica: activitats/ud2/index.md
+      - UD03 · Història de la vida i de la biodiversitat: activitats/ud3/index.md
+      - UD04 · Microorganismes, salut i malaltia: activitats/ud4/index.md
+  - Biblioteca científica: biblioteca/index.md
   - Informació del curs:
+      - programacio/index.md
       - Programació: programacio/programacio_didactica_BGCA_1r_batx_2026-2027_v10.md
       - Criteris d'avaluació: programacio/criteris-avaluacio.md
       - Calendari: programacio/calendari.md
-  - Material:
-      - UD1 · Com reconstruïm la història de la Terra?: material/ud1/ud1.md
-      - UD2 · Una Terra dinàmica: material/ud2/ud2.md
-      - UD3 · Història de la vida i de la biodiversitat: material/ud3/ud3.md
-      - UD4 · Microorganismes, salut i malaltia: material/ud4/ud4.md
-  - Activitats:
-      - UD1:
-          - Índex: activitats/ud1/index.md
-          - A01 · Evidències del passat: activitats/ud1/a01_ud01/index.md
-          - A02 · Ordenam el registre geològic: activitats/ud1/a02_ud01/index.md
-          - A03 · Posam edat al registre: activitats/ud1/a03_ud01/index.md
-          - A04 · Reconstruïm una història geològica: activitats/ud1/a04_ud01/index.md
-      - UD2:
-          - Índex: activitats/ud2/index.md
-          - A01 · Com sabem què hi ha dins la Terra?: activitats/ud2/a01_ud02/index.md
-          - A02 · Com canvia una teoria científica?: activitats/ud2/a02_ud02/index.md
-          - A03 · Una litosfera que transforma materials: activitats/ud2/a03_ud02/index.md
-      - UD3: activitats/ud3/index.md
-      - UD4: activitats/ud4/index.md
 
 markdown_extensions:
   - attr_list
