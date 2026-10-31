@@ -34,3 +34,11 @@ Cada element es classifica inicialment com a **pendent de revisió**. Una vegada
 | [`fig08-estructura-escala-temps-geologic.png`](https://github.com/saloma-ui/BGCA/blob/main/docs/material/ud1/figures/fig08-estructura-escala-temps-geologic.png) | PNG | Pendent de documentar | No verificats | Pendent de verificar | No verificades | **Pendent de revisió** |
 
 [Consulta l'inventari visual general](inventari-visual.md).
+
+<!-- FIGURES_AUTO_INICI -->
+## Incorporacions posteriors (registre automàtic)
+
+Les fonts i els drets de les figures noves requereixen una revisió individual.
+
+Cap figura nova.
+<!-- FIGURES_AUTO_FI -->

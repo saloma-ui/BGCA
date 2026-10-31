@@ -150,3 +150,13 @@ Aquest inventari documenta els **fitxers gràfics publicats a BGCA**. Els recurs
 Les figures noves s'afegeixen automàticament al registre i inicialment queden pendents fins que se'n completin i revisin les dades a `figures/fitxes.json`. Les fonts i les llicències de tercers s'han de comprovar expressament.
 
 **Límits:** l'inventari no detecta fotografies incrustades en PDF ni elements gràfics definits dins HTML o carregats de servidors externs. No substitueix la revisió de rigor científic de cada figura.
+
+<!-- FIGURES_AUTO_INICI -->
+## Incorporacions posteriors (registre automàtic)
+
+El sistema registra les figures noves, però no n'infereix l'autoria ni la llicència.
+
+**Fitxers actuals:** 100 · **Incorporacions:** 0 · **Pendents de verificar:** 0.
+
+Cap figura nova.
+<!-- FIGURES_AUTO_FI -->

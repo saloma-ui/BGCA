@@ -24,3 +24,11 @@ Cada element es classifica inicialment com a **pendent de revisió**. Una vegada
 | [`ud04-guia-f12-virus-viroide-prio.png`](https://github.com/saloma-ui/BGCA/blob/main/docs/material/ud4/figures/ud04-guia-f12-virus-viroide-prio.png) | PNG | Pendent de documentar | No verificats | Pendent de verificar | No verificades | **Pendent de revisió** |
 
 [Consulta l'inventari visual general](inventari-visual.md).
+
+<!-- FIGURES_AUTO_INICI -->
+## Incorporacions posteriors (registre automàtic)
+
+Les fonts i els drets de les figures noves requereixen una revisió individual.
+
+Cap figura nova.
+<!-- FIGURES_AUTO_FI -->
