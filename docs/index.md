@@ -63,4 +63,5 @@ pdf: false
       <span class="portada-curs__acces">Consulta la informació <span aria-hidden="true">→</span></span>
     </a>
   </nav>
+  <p class="portada-curs__sobre"><a href="sobre/">Sobre aquest web</a><span aria-hidden="true"> · </span>Autoria, llicències i procedència dels materials.</p>
 </div>

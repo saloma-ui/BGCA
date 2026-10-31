@@ -54,6 +54,20 @@ nav:
       - Programació: programacio/programacio_didactica_BGCA_1r_batx_2026-2027_v10.md
       - Criteris d'avaluació: programacio/criteris-avaluacio.md
       - Calendari: programacio/calendari.md
+  - Sobre aquest web:
+      - sobre/index.md
+      - Autoria i metodologia: autoria-i-metodologia.md
+      - Llicència i reutilització: llicencia.md
+      - Crèdits i procedència: registre-recursos.md
+      - Inventari visual:
+          - Inventari general: inventari-visual.md
+          - UD01 · Història de la Terra: registre-figures-ud1.md
+          - UD02 · Una Terra dinàmica: registre-figures-ud2.md
+          - UD03 · Història de la vida: registre-figures-ud3.md
+          - UD04 · Microorganismes: registre-figures-ud4.md
+          - Infografies de programació: registre-figures-programacio.md
+          # FIGURES_AUTO_INICI
+          # FIGURES_AUTO_FI
 
 markdown_extensions:
   - attr_list

@@ -111,3 +111,25 @@
     box-shadow: none;
   }
 }
+
+/* Accés secundari a la documentació, sense cinquena targeta. */
+.md-typeset .portada-curs__sobre {
+  margin: 1.35rem 0 0;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+  font-size: .79rem;
+  line-height: 1.55;
+}
+.md-typeset .portada-curs__sobre a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .16em;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+}
+.md-typeset .portada-curs__sobre a:hover {
+  color: var(--md-primary-fg-color);
+}
+.md-typeset .portada-curs__sobre a:focus-visible {
+  outline: 2px solid var(--md-primary-fg-color);
+  outline-offset: 4px;
+}
