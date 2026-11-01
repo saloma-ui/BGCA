@@ -8,7 +8,7 @@ Un paisatge conserva indicis de processos que es desenvolupen a ritmes molt dife
 
 Aquesta pàgina és un recurs per **entendre, consultar i repassar**, tant després de l'explicació docent com si no has pogut assistir a classe. Les comprovacions són **de repàs, no qualificables i sense lliurament**: pots consultar les explicacions abans de respondre o tornar-hi després. Les justificacions escrites que hi puguis fer **no es corregeixen automàticament**; les compararàs amb una orientació de resposta.
 
-**A classe (2 sessions de 50 minuts).** Primera sessió: treballam els blocs **1–3** a partir de les figures i dels exemples. Segona sessió: interpretam els blocs **4–5** i feim el **microcas del bloc 6**. **No has de llegir tota la pàgina ni completar totes les comprovacions durant la classe**: la resta queda disponible per estudiar i recuperar explicacions.
+**A classe (2 sessions de 50 minuts).** Primera sessió: treballam els blocs **1–3** a partir de les figures i dels exemples. Segona sessió: interpretam els blocs **4–5** a partir de les figures i feim una síntesi dels processos. **No has de llegir tota la pàgina ni completar totes les comprovacions durant la classe**: la resta queda disponible per estudiar i recuperar explicacions.
 
 **En acabar hauries de saber:** explicar la intervenció de l'energia solar i la gravetat; distingir els principals processos geològics externs; relacionar la litologia amb el comportament de l'aigua; interpretar formes de relleu; i explicar com es forma i es conserva el sòl.
 
@@ -235,6 +235,8 @@ Una serralada pot haver-se elevat per processos tectònics i després haver esta
 
 **Una bona interpretació també identifica què falta saber.** Per exemple, per explicar la mida dels fragments transportats en un riu podria ser útil conèixer la velocitat del corrent; per precisar el modelatge d'un vessant, el pendent i la fracturació de la roca.
 
+Per interpretar un paisatge desconegut, segueix aquesta pauta: **observació → agents possibles → processos i mecanismes → influència de la litologia i la història geològica → evidències → límits de la conclusió**. Una fotografia mostra l'estat actual, no tota la successió d'episodis que l'ha originat. Una interpretació plausible no és una demostració absoluta.
+
 <div class="bgca-quiz" id="comprova-paisatges" data-answer="b">
 <h4>Comprova-ho · Inferència a partir d’un paisatge</h4>
 <fieldset>
@@ -311,31 +313,7 @@ La formació de molts sòls és **molt lenta a escala humana**. En canvi, la deg
 </details>
 </div>
 
-## 6. Com interpretam un paisatge nou?
-
-Quan analitzis un paisatge que no hagis estudiat abans, segueix aquest ordre: **observació → agents possibles → procés i mecanisme → paper de la litologia i de la història geològica → dades que ho justifiquen → límits de la conclusió**. No confonguis una explicació plausible amb una demostració absoluta. Una fotografia mostra l'estat actual, però no registra per si mateixa tots els episodis que l'han originat.
-
-### Microcas de transferència · Dos trams d'una costa
-
-**Treball breu de la segona sessió (12–15 minuts).** No és la fitxa individual del CA 4.1 ni cal lliurar-lo. Si has faltat a classe, també el pots resoldre pel teu compte i comparar-lo amb la pauta.
-
-En **dos trams pròxims de la mateixa costa** hi ha un onatge semblant. Al **tram A**, un penya-segat de roca compacta presenta fractures visibles i fragments angulosos al peu. Al **tram B**, els materials són menys resistents i hi ha una cala amb sediments fins acumulats. Aquestes dades descriuen l'estat actual; no indiquen quan es produí cada canvi.
-
-1. **Observa:** anota dues dades concretes de la descripció, sense confondre-les amb la seva explicació.
-2. **Explica:** proposa un mecanisme causal *possible* que relacioni l'onatge, la resistència de les roques o la gravetat amb alguna forma del relleu. Justifica'l amb una de les dades.
-3. **Contrasta:** indica una dada que voldries obtenir per distingir millor entre processos possibles.
-
-Escriu una explicació breu (aproximadament **6–8 línies**). No és necessari repetir totes les definicions del material guia.
-
-<details class="bgca-resum" markdown="1"><summary>Mostra una pauta per contrastar la teva resposta (després d'intentar-ho)</summary>
-
-- **Observacions:** per exemple, fractures al penya-segat A i fragments angulosos al peu; sediments fins a la cala B. Són descripcions, no causes.
-- **Inferència compatible:** l'onatge pot afavorir l'erosió al peu del penya-segat i la gravetat pot intervenir en la caiguda de blocs; la diferent resistència dels materials pot contribuir a un modelatge desigual. Cap dada per separat no prova la història completa.
-- **Dada addicional útil:** per exemple, l'evolució històrica del penya-segat, la freqüència de temporals o les característiques de les fractures i dels sediments, per posar a prova una explicació.
-
-Una resposta que simplement afirmi que «el mar ha fet tot el paisatge» sense citar dades i mecanismes és insuficient.
-
-</details>
+---
 
 L'activitat individual sobre una **conca mediterrània d'alta muntanya a la mar** es manté **separada i opcional** si el professor decideix utilitzar-la com a evidència d'avaluació del **CA 4.1**. No forma part de les dues sessions ordinàries. Les comprovacions d'aquesta pàgina no tenen qualificació.
 
