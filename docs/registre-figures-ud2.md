@@ -62,5 +62,12 @@ Cada element es classifica inicialment com a **pendent de revisió**. Una vegada
 
 Les fonts i els drets de les figures noves requereixen una revisió individual.
 
-Cap figura nova.
+| Fitxer | Tipus | Origen | Autor | Llicència | Escala / observacions | Estat |
+|:--|:--|:--|:--|:--|:--|:--|
+| [fig01_atmosfera_hidrosfera_superficie.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig01_atmosfera_hidrosfera_superficie.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
+| [fig02_transformacio_aflorament.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig02_transformacio_aflorament.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
+| [fig03_mateix_clima_roques_diferents.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig03_mateix_clima_roques_diferents.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
+| [fig04_quatre_paisatges.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig04_quatre_paisatges.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
+| [fig05_perfil_sols.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig05_perfil_sols.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
+| [fig06_conca_mediterrania.webp](https://github.com/saloma-ui/BGCA/blob/main/docs/activitats/ud2/a04_ud02/figures/fig06_conca_mediterrania.webp) | pendent | pendent | — | pendent (sense pressuposar drets de tercers) | —; — | **Pendent de verificar** |
 <!-- FIGURES_AUTO_FI -->
