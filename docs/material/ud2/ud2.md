@@ -1204,11 +1204,11 @@ La relació important no és memoritzar una llista de formes, sinó comprendre:
 | Agent dominant | Alguns processos | Exemples de formes resultants |
 |---|---|---|
 | **Aigua superficial** | erosió, transport i sedimentació fluvial | valls, barrancs, planes al·luvials |
-| **Aigua subterrània** | dissolució i precipitació | formes càrstiques |
-| **Mar** | onatge, corrents, erosió i sedimentació | penya-segats, platges |
-| **Gel** | erosió i transport glacial | valls glacials, dipòsits morènics |
-| **Vent** | deflació, abrasió i transport | dunes i altres formes eòliques |
-| **Gravetat** | caigudes, lliscaments i fluxos | modelatge de vessants |
+| **Aigua subterrània** | meteorització química (dissolució) i precipitació de minerals | formes càrstiques: coves, estalactites |
+| **Mar** | erosió, transport i sedimentació per l'acció de l'onatge i els corrents | penya-segats, platges |
+| **Gel (glaceres)** | erosió, transport i sedimentació glacial | valls glacials, dipòsits morènics |
+| **Vent** | erosió, transport i sedimentació eòlica | superfícies erosionades, dunes |
+| **Gravetat** | moviments en massa: caigudes, lliscaments i fluxos | modelatge de vessants, acumulacions de materials |
 
 Aquestes associacions són orientatives. En un mateix paisatge poden actuar diversos agents simultàniament.
 
