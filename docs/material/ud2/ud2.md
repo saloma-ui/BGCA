@@ -1208,6 +1208,7 @@ La relació important no és memoritzar una llista de formes, sinó comprendre:
 | **Mar** | erosió, transport i sedimentació per l'acció de l'onatge i els corrents | penya-segats, platges |
 | **Gel (glaceres)** | erosió, transport i sedimentació glacial | valls glacials, dipòsits morènics |
 | **Vent** | erosió, transport i sedimentació eòlica | superfícies erosionades, dunes |
+
 Aquestes associacions són orientatives. En un mateix paisatge poden actuar diversos agents simultàniament.
 
 **El paper de la gravetat.** La gravetat intervé en molts processos geològics externs. També pot provocar directament el moviment de materials pels vessants, en forma de caigudes de blocs, lliscaments o fluxos. Aquests processos s'anomenen *moviments en massa*.
