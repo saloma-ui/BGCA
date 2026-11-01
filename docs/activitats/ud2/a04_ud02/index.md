@@ -315,9 +315,7 @@ La formació de molts sòls és **molt lenta a escala humana**. En canvi, la deg
 
 ---
 
-L'activitat individual sobre una **conca mediterrània d'alta muntanya a la mar** es manté **separada i opcional** si el professor decideix utilitzar-la com a evidència d'avaluació del **CA 4.1**. No forma part de les dues sessions ordinàries. Les comprovacions d'aquesta pàgina no tenen qualificació.
-
-[Consulta la fitxa individual independent (CA 4.1)](evidencia_CA4_1.md)
+[Fitxa individual · Interpretam una conca mediterrània](evidencia_CA4_1.md)
 
 <details class="bgca-resum" markdown="1"><summary>Repàs final: què hauries de poder explicar sense mirar la pàgina?</summary>
 
