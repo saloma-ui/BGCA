@@ -1,0 +1,29 @@
+/* A04-UD02 · espais locals: no altera l'estil general del lloc */
+.bgca-quiz { margin:1.2rem 0 1.5rem; border:1px solid #b5c6d7; border-radius:9px; padding:1rem 1.1rem; background:rgba(90,140,180,.06); }
+.bgca-quiz h4 { margin:0 0 .55rem; font-size:1rem; color:inherit; }
+.bgca-quiz fieldset { border:0; padding:0; margin:.5rem 0; }
+.bgca-quiz legend { font-weight:600; margin:0 0 .45rem; }
+.bgca-quiz label { display:flex; align-items:flex-start; gap:.55rem; margin:.35rem 0; padding:.45rem .5rem; border:1px solid transparent; border-radius:5px; cursor:pointer; }
+.bgca-quiz label:has(input:checked) { border-color:#6c96ba; background:rgba(55,115,176,.09); }
+.bgca-quiz input[type=radio] { margin:.23rem 0 0; flex-shrink:0; }
+.bgca-quiz button { background:#205a83; border:0; border-radius:5px; color:#fff; font:inherit; font-size:.85rem; padding:.46rem .85rem; cursor:pointer; }
+.bgca-quiz button:hover,.bgca-quiz button:focus-visible { background:#114263; }
+.bgca-quiz .bgca-feedback { margin-top:.65rem; padding:.7rem .8rem; border-left:4px solid #50718a; background:rgba(100,120,160,.07); }
+.bgca-quiz .bgca-feedback[data-status=correct] { border-left-color:#2a8058; }
+.bgca-quiz .bgca-feedback[data-status=incorrect] { border-left-color:#aa6b2f; }
+.bgca-quiz .bgca-feedback[hidden] { display:none; }
+.bgca-quiz .bgca-hint { font-size:.82rem; opacity:.85; margin:.3rem 0 0; }
+.bgca-quiz details.bgca-explanation { margin-top:.6rem; font-size:.9rem; }
+.bgca-resum { margin:1rem 0; border-left:3px solid #4a799d; padding:.5rem .8rem; }
+.bgca-resum summary,.bgca-explanation summary { cursor:pointer; font-weight:600; }
+@media (prefers-reduced-motion:reduce){ .bgca-quiz * {transition:none!important;} }
+
+/* v03 · classificació i justificació escrita, no qualificables */
+.bgca-classificacio .bgca-case { border-top:1px solid #dce4ed; padding:.6rem 0; }
+.bgca-classificacio .bgca-case:first-of-type { margin-top:.4rem; }
+.bgca-classificacio .bgca-case label { display:block; cursor:default; margin:0; padding:0; border:0; }
+.bgca-quiz select { display:block; box-sizing:border-box; max-width:100%; width:min(100%,25rem); margin:.4rem 0 0; background:transparent; color:inherit; border:1px solid #8294a2; border-radius:5px; padding:.4rem .5rem; font:inherit; }
+.bgca-quiz textarea { display:block; box-sizing:border-box; width:100%; min-height:4.5rem; margin:.45rem 0 .8rem; border-radius:5px; border:1px solid #8294a2; background:transparent; color:inherit; padding:.5rem; font:inherit; resize:vertical; }
+.bgca-quiz select:focus-visible,.bgca-quiz textarea:focus-visible { outline:2px solid #246b9d; outline-offset:2px; }
+.bgca-quiz .bgca-writing-label { display:block; cursor:default; font-weight:600; border:0; margin:.8rem 0 0; padding:0; }
+.bgca-quiz .bgca-feedback[data-status=compare] { border-left-color:#457da5; }
