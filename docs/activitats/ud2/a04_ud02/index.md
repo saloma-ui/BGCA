@@ -6,10 +6,6 @@
 
 Un paisatge conserva indicis de processos que es desenvolupen a ritmes molt diferents: alguns, com una avinguda o un despreniment, poden ser ràpids; d'altres actuen durant segles o mil·lennis. Els processos interns poden aixecar o deformar relleus i els externs els transformen i redistribueixen els materials; no és correcte reduir-los a «uns construeixen i els altres destrueixen». Per interpretar-lo no basta posar nom a una forma del relleu. Cal relacionar **allò que observam**, els **processos que proposam** i les **dades que justifiquen la interpretació**.
 
-Aquesta pàgina és un recurs per **entendre, consultar i repassar**, tant després de l'explicació docent com si no has pogut assistir a classe. Les comprovacions són **de repàs, no qualificables i sense lliurament**: pots consultar les explicacions abans de respondre o tornar-hi després. Les justificacions escrites que hi puguis fer **no es corregeixen automàticament**; les compararàs amb una orientació de resposta.
-
-**A classe (2 sessions de 50 minuts).** Primera sessió: treballam els blocs **1–3** a partir de les figures i dels exemples. Segona sessió: interpretam els blocs **4–5** a partir de les figures i feim una síntesi dels processos. **No has de llegir tota la pàgina ni completar totes les comprovacions durant la classe**: la resta queda disponible per estudiar i recuperar explicacions.
-
 **En acabar hauries de saber:** explicar la intervenció de l'energia solar i la gravetat; distingir els principals processos geològics externs; relacionar la litologia amb el comportament de l'aigua; interpretar formes de relleu; i explicar com es forma i es conserva el sòl.
 
 ---
@@ -18,7 +14,7 @@ Aquesta pàgina és un recurs per **entendre, consultar i repassar**, tant despr
 
 ![Atmosfera, hidrosfera i superfície terrestre](figures/fig01_atmosfera_hidrosfera_superficie.webp)
 
-<small>Figura original de la fitxa A04-UD02: relació entre atmosfera, hidrosfera i superfície terrestre.</small>
+<small>Figura 1. Relacions entre l'atmosfera, la hidrosfera i la superfície terrestre.</small>
 
 L'energia que arriba del **Sol** escalfa de manera desigual la superfície i intervé en la circulació atmosfèrica i en el cicle de l'aigua. L'aigua s'evapora, es condensa i pot tornar a la superfície en forma de precipitació. Una vegada arriba a terra, una part es pot infiltrar i una altra pot circular com a escorrentia superficial. Aquests fluxos poden mobilitzar materials i contribuir al modelatge del relleu.
 
@@ -30,8 +26,6 @@ L'**atmosfera** és l'embolcall gasós de la Terra, format principalment per nit
 
 - **Troposfera:** capa inferior, amb la major part de la massa atmosfèrica i del vapor d'aigua. S'hi produeixen la majoria de fenòmens meteorològics. En general, la temperatura hi disminueix amb l'altitud.
 - **Estratosfera:** capa superior a la troposfera, amb la major part de l'ozó atmosfèric, que absorbeix una part important de la radiació ultraviolada. A bona part d'aquesta capa, la temperatura augmenta amb l'altitud.
-
-No necessitam descriure totes les capes atmosfèriques per comprendre el modelatge geològic, però sí distingir les funcions d'aquestes dues.
 
 ### Per què es mou l'aire?
 
@@ -71,7 +65,7 @@ La distribució canvia mitjançant el cicle de l'aigua: **evaporació → conden
 
 ![Quatre situacions en la transformació d'un aflorament](figures/fig02_transformacio_aflorament.webp)
 
-<small>Figura original de la fitxa: A, aflorament fracturat; B, aigua i materials mobilitzats en un vessant; C, fragments en un corrent; D, acumulació de sediments.</small>
+<small>Figura 2. A, aflorament fracturat; B, aigua i materials mobilitzats en un vessant; C, fragments en un corrent; D, acumulació de sediments.</small>
 
 Sovint es representen els processos externs com una cadena: **meteorització → erosió → transport → sedimentació**. És una seqüència útil per entendre molts casos, però **no és una llei que tots els materials hagin de seguir exactament en aquest ordre**.
 
@@ -131,7 +125,7 @@ Aquestes dues formes de meteorització **poden actuar juntes**: les fractures de
 
 Quan els sediments es dipositen poden quedar enterrats per materials nous. Amb el temps, la **compactació** i la **cimentació** poden consolidar-los i originar una roca sedimentària. Aquests processos no han de succeir com dues etapes rígides i completament separades. La compactació redueix l'espai entre grans; la cimentació es produeix quan substàncies dissoltes precipiten i els uneixen. Aquest conjunt de transformacions forma part de la **diagènesi**, i la consolidació del sediment s'anomena **litificació**.
 
-La seqüència descriu moltes roques sedimentàries **detrítiques**, però no totes: també n'hi ha que es formen principalment per **precipitació química** o per acumulació de materials d'origen biològic. Aquesta és una connexió amb el **cicle litològic**, no una activitat nova de classificació de roques.
+La seqüència descriu moltes roques sedimentàries **detrítiques**, però no totes: també n'hi ha que es formen principalment per **precipitació química** o per acumulació de materials d'origen biològic. Aquestes transformacions formen part del **cicle litològic**.
 
 <div class="bgca-quiz" id="comprova-litificacio" data-answer="b">
 <h4>Comprova-ho · Com es consolida un sediment?</h4>
@@ -152,7 +146,7 @@ La seqüència descriu moltes roques sedimentàries **detrítiques**, però no t
 
 ![Mateix clima, roques diferents](figures/fig03_mateix_clima_roques_diferents.webp)
 
-<small>Figura original: zona A amb calcàries fracturades i circulació subterrània; zona B amb infiltració menor i més escorrentia superficial.</small>
+<small>Figura 3. Zona A amb calcàries fracturades i circulació subterrània; zona B amb menys infiltració i més escorrentia superficial.</small>
 
 El clima condiciona quanta aigua arriba a un territori i en quines condicions actua, però **la naturalesa i l'estructura de les roques també són decisives**. No és el mateix que una roca sigui fàcilment dissoluble que resistent a la dissolució; tampoc és igual que el terreny tengui fractures obertes i connectades o que l'aigua hi trobi dificultats per penetrar.
 
@@ -212,7 +206,7 @@ No basta dir «és calcària i s'hi fan coves»: cal reconstruir el mecanisme **
 
 ![Quatre paisatges i conjunts de processos](figures/fig04_quatre_paisatges.webp)
 
-<small>Figura original: A, ambient fluvial; B, litoral amb penya-segat; C, acumulació al peu d'un vessant; D, duna.</small>
+<small>Figura 4. A, ambient fluvial; B, litoral amb penya-segat; C, acumulació al peu d'un vessant; D, duna.</small>
 
 Una forma de relleu és una **evidència**, no una etiqueta amb una única causa garantida. Per interpretar-la observam la geometria, els materials, el pendent i, quan es pot, la dinàmica actual.
 
@@ -256,7 +250,7 @@ Per interpretar un paisatge desconegut, segueix aquesta pauta: **observació →
 
 ![Dos sòls desenvolupats sobre la mateixa roca mare](figures/fig05_perfil_sols.webp)
 
-<small>Figura original: dos perfils sobre calcària amb clima, vegetació i temps de desenvolupament semblants, però posicions topogràfiques diferents.</small>
+<small>Figura 5. Dos perfils de sòl sobre calcària amb clima, vegetació i temps de desenvolupament semblants, però posicions topogràfiques diferents.</small>
 
 Un **sòl no és simplement roca triturada**. És el resultat de la transformació de materials minerals i de l'activitat dels organismes. Conté proporcions variables de fragments minerals, matèria orgànica, aigua, aire i éssers vius. Es desenvolupa al llarg del temps, i la seva composició i estructura evolucionen amb els processos de meteorització, incorporació de matèria orgànica, circulació de l'aigua i redistribució de materials.
 

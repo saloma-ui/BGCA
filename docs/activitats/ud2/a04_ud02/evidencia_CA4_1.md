@@ -1,9 +1,7 @@
 # A04-UD02 · Llegim un paisatge nou
 
-**Tancament individual · possible evidència de CA 4.1**  
+**Activitat individual**  
 **Nom i llinatges:** ____________________  **Grup:** ______  **Data:** __________
-
-Aquest document és **independent de la web de consulta i repàs**. El professor decidirà si es recull i es qualifica. Reprodueix les demandes del tancament individual de la fitxa A04-UD02 original; no incorpora exercicis nous.
 
 ![Conca mediterrània: d'alta muntanya a la mar](figures/fig06_conca_mediterrania.webp)
 

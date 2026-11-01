@@ -33,7 +33,7 @@
           show(accurate ? 'compare' : 'incorrect',
             (accurate ? 'L’opció triada és coherent. ' : 'Revisa l’opció triada. ') +
             (selected.dataset.reason || '') +
-            ' La justificació escrita no es puntua automàticament: compara-la amb la pauta desplegable.');
+            ' Compara també la teva justificació amb la pauta desplegable.');
           return;
         }
         var correct = selected.value === box.dataset.answer;
