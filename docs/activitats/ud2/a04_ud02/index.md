@@ -40,7 +40,7 @@ La distribució canvia mitjançant el cicle de l'aigua: **evaporació → conden
 <details class="bgca-resum" markdown="1"><summary>Recupera les idees essencials</summary>
 
 - La **troposfera** concentra la major part dels fenòmens meteorològics; l'**estratosfera** conté la major part de l'ozó atmosfèric.
-- L'**escalfament desigual** afavoreix la circulació atmosfèrica i la redistribució de vapor d'aigua.
+- L'energia solar escalfa de manera desigual la superfície terrestre. Això contribueix a generar diferències de temperatura i pressió que afavoreixen la circulació atmosfèrica. Els moviments de l'aire transporten energia i vapor d'aigua i influeixen en la distribució de les precipitacions.
 - **Escorrentia**: circulació de l'aigua per la superfície. **Infiltració**: entrada de l'aigua dins el terreny.
 - **Energia solar** i **gravetat** tenen papers diferents però complementaris en la dinàmica externa.
 
