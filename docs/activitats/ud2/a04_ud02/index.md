@@ -123,9 +123,16 @@ Aquestes dues formes de meteorització **poden actuar juntes**: les fractures de
 
 ### I després de la sedimentació?
 
-Quan els sediments es dipositen poden quedar enterrats per materials nous. Amb el temps, la **compactació** i la **cimentació** poden consolidar-los i originar una roca sedimentària. Aquests processos no han de succeir com dues etapes rígides i completament separades. La compactació redueix l'espai entre grans; la cimentació es produeix quan substàncies dissoltes precipiten i els uneixen. Aquest conjunt de transformacions forma part de la **diagènesi**, i la consolidació del sediment s'anomena **litificació**.
+Després de dipositar-se, els sediments poden quedar enterrats i experimentar **diagènesi**: el conjunt de transformacions físiques, químiques i biològiques que els afecten després de la sedimentació, sense arribar a les condicions pròpies del metamorfisme. Entre aquestes transformacions destaquen:
 
-La seqüència descriu moltes roques sedimentàries **detrítiques**, però no totes: també n'hi ha que es formen principalment per **precipitació química** o per acumulació de materials d'origen biològic. Aquestes transformacions formen part del **cicle litològic**.
+- **Compactació:** el pes dels materials superiors redueix l'espai entre els grans i pot expulsar una part de l'aigua que hi ha entre ells.
+- **Cimentació:** les substàncies dissoltes en l'aigua precipiten entre els grans i els uneixen.
+
+La compactació i la cimentació poden actuar al mateix temps. Quan contribueixen a transformar un sediment solt en una roca coherent, parlam de **litificació**.
+
+**Diagènesi i litificació no són sinònims.** Un fang pot perdre aigua, compactar-se parcialment o experimentar canvis químics i continuar sense consolidar-se en una roca. Per tant, **no tota diagènesi produeix litificació**.
+
+La compactació i la cimentació intervenen en la formació de moltes roques sedimentàries **detrítiques**, però no de totes les roques sedimentàries: també n'hi ha que es formen principalment per **precipitació química** o per acumulació de materials d'origen biològic. Aquests processos formen part del **cicle litològic**.
 
 <div class="bgca-quiz" id="comprova-litificacio" data-answer="b">
 <h4>Comprova-ho · Com es consolida un sediment?</h4>
